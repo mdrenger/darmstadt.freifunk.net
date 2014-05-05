@@ -1,153 +1,152 @@
 <!DOCTYPE HTML>
+<html>
+<head>
+    <title>Freifunk Darmstadt</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="css/leaflet.css" />
+    <!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/skel.min.js"></script>
+    <script src="js/skel-panels.min.js"></script>
+    <script src="js/init.js"></script>
+    <noscript>
+        <link rel="stylesheet" href="css/skel-noscript.css" />
+        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="css/style-wide.css" />
+    </noscript>
+    <!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
+</head>
+<body onload="init();">
+    <!-- Header -->
+    <div id="header" class="skel-panels-fixed">
+
+        <div class="top">
+
+            <!-- Logo -->
+            <div id="logo">
+                <a href="#"><span class="side-image"><img src="images/DA-logo_trans.png" alt="" /></span></a>
+                <h1 id="title"> <br />Freifunk Darmstadt</h1>
+                <span class="byline">Freifunk is a non-commercial initiative for free wireless networks.</span>
+            </div>
+
+            <!-- Nav -->
+            <nav id="nav">
+
+                <ul>
+                    <li><a href="#top" id="top-link" class="skel-panels-ignoreHref"><span class="fa fa-home">Info</span></a></li>
+                    <li><a href="#meetings" id="portfolio-link" class="skel-panels-ignoreHref"><span class="fa fa-calendar">Meetings</span></a></li>
+                    <li><a href="#contact" id="contact-link" class="skel-panels-ignoreHref"><span class="fa fa-envelope">Contact</span></a></li>
+                </ul>
+            </nav>
+
+        </div>
+
+        <div class="bottom">
+
+            <!-- Social Icons -->
+            <ul class="icons">
+                <li><a href="http://www.twitter.com/freifunkDA" class="fa fa-twitter solo"><span>Twitter</span></a></li>
+                <li><a href="https://github.com/freifunk-darmstadt" class="fa fa-github solo"><span>Github</span></a></li>
+                <li><a href="http://wiki.freifunk-darmstadt.de" class="fa fa-edit solo"><span>Wiki</span></a></li>
+                <li><a href="http://lists.freifunk.net/mailman/listinfo/darmstadt-freifunk.net" class="fa fa-envelope solo"><span>Mailing List</span></a></li>
+                <li><a href="https://kthx.de:9090/?channels=ffda" class="fa fa-comment solo"><span>Web-chat</span></a></li>
+            </ul>
+
+        </div>
+
+    </div>
+
+    <!-- Main -->
+    <div id="main">
+
+        <!-- Hero -->
+        <div id="hero-wrapper">
+            <section id="hero" class="container">
+                <header>
+                    <h2><b>Freifunk Darmstadt</b> is a local Freifunk initiative, with the aim of providing a city-wide wireless network and free Internet access in Darmstadt.</h2>
+                </header>
+                <p>Come to our <a href="#meetings">next meeting</a>: Mon, 5 May 2014, 7pm</p>
+            </section>
+        </div>
+        <!-- Intro -->
+        <section id="top" class="one">
+            <div class="container">
+
+                <header>
+                    <h2 class="alt"></h2>
+                </header>
+                <p>The idea of Freifunk is to connect household WiFi routers to build an independent, city-wide network. Ideally, all nodes in the network can communicate with each other, even if there is no Internet access. In order to achieve this, we need the cooperation of the local people.</p>
+                <p><iframe src="http://www.youtube.com/embed/2Z12OjnPADA?rel=0" width="600px" height="450px" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+                <p>Everyone with a (compatible) wireless router can contribute to the local network, and even provide public wireless Internet access. This last step is optional, but is crucial to provide free Internet access to everyone. The more nodes connected to the Internet (exit nodes), the better is the Internet connection for everybody. You do not have to worry about sharing your Internet with the Freifunk users. To protect the Freifunk exit nodes, we route all Internet traffic through a VPN.</p>
+                <p class="emph">If you want to know more about Freifunk or collaborate with us, <br />you are very welcome to <a href="#meetings">join us at our meetings</a>.</p>
+
+                <h3>Further reading</h3>
+                <ul>
+                    <li>The main <a href="http://freifunk.net/">Freifunk website</a> is a good starting point to learn more about the project.</li>
+                    <li>Our <a href="http://wiki.freifunk-darmstadt.de">wiki</a> lists what we have done so far and our next steps.</li>
+                    <li><a href="http://freifunk.metameute.de/wiki/gluon">Gluon</a> is the firmware we are using, and it is being developed by Freifunk Lübeck.</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Meetings -->
+        <section id="meetings" class="two">
+            <div class="container">
+
+                <header>
+                    <h2>Meetings</h2>
+                </header>
+                <p>We meet every week, alternating between Monday and Wednesday, <br /> at Chaos Darmstadt (Wilhelm-Leuschner-Straße 36, <br />through the backyard and up the stairs).</p>
+                <h3>Next meetings:</h3>
+                <ul>
+                    <li>Mon, 5 May 2014, 7pm</li>
+                    <li>Wed, 14 Mai 2014, 7:30pm</li>
+                    <li>Mon, 19 Mai 2014, 7pm</li>
+                </ul>
+                <div id="map" style="margin: auto; width: 600px; height: 450px; border: 0px;"></div>
+            </div>
+        </section>
+
+        <!-- Contact -->
+        <section id="contact" class="three">
+            <div class="container">
+
+                <header>
+                    <h2>Contact</h2>
+                </header>
+
+                <ul class="contact-inline">
+                    <li><a href="http://www.twitter.com/freifunkDA" class="fa fa-twitter"><span>Twitter</span></a></li>
+                    <li><a href="https://github.com/freifunk-darmstadt" class="fa fa-github"><span>Github</span></a></li>
+                    <li><a href="http://wiki.freifunk-darmstadt.de" class="fa fa-edit"><span>Wiki</span></a></li>
+                    <li><a href="http://lists.freifunk.net/mailman/listinfo/darmstadt-freifunk.net" class="fa fa-envelope"><span>Mailing List</span></a></li>
+                    <li><a href="https://kthx.de:9090/?channels=ffda" class="fa fa-comment"><span>Chat</span></a></li>
+                    <li><a href="https://www.hackint.eu" class="fa fa-ircffda" alt="#ffda"> @ <span>irc.hackint.eu</span></a></li>
+                </ul>
+            </div>
+        </section>
+    </div>
+    <script src="js/leaflet.js"></script>
+    <script>
+        function init() {
+            var map = L.map('map').setView([49.87921245300291, 8.645183444023132], 15);
+            L.Icon.Default.imagePath = 'images';
+
+            L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            L.marker([49.87921245300291, 8.645183444023132]).addTo(map);
+        }
+    </script>
+</body>
+</html>
 <!--
 	Prologue 1.2 by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<html>
-	<head>
-		<title>Freifunk Darmstadt</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600" rel="stylesheet" type="text/css" />
-		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
-		<script src="js/jquery.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-panels.min.js"></script>
-		<script src="js/init.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="css/skel-noscript.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-wide.css" />
-			<link rel="stylesheet" href="css/leaflet.css" />
-		</noscript>
-		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
-		<script src="js/leaflet.js"></script>
-		<script>
-			function init() {
-			var map = L.map('map').setView([49.87921245300291, 8.645183444023132], 14);
-			L.Icon.Default.imagePath = 'img';
-
-			L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-				attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-			}).addTo(map);
-
-			L.marker([49.87921245300291, 8.645183444023132]).addTo(map);
-			}
-		</script>
-	</head>
-	<body onload="init();">
-
-		<!-- Header -->
-			<div id="header" class="skel-panels-fixed">
-
-				<div class="top">
-
-					<!-- Logo -->
-						<div id="logo">
-							<a href="#"><span class="side-image"><img src="images/DA-logo_trans.png" alt="" /></span></a>
-							<h1 id="title"> <br />Freifunk Darmstadt</h1>
-							<span class="byline">Freifunk is a non-commercial initiative for free wireless networks.</span>
-						</div>
-
-					<!-- Nav -->
-						<nav id="nav">
-
-							<ul>
-								<li><a href="#top" id="top-link" class="skel-panels-ignoreHref"><span class="fa fa-home">Info</span></a></li>
-								<li><a href="#meetings" id="portfolio-link" class="skel-panels-ignoreHref"><span class="fa fa-calendar">Meetings</span></a></li>
-								<li><a href="#contact" id="contact-link" class="skel-panels-ignoreHref"><span class="fa fa-envelope">Contact</span></a></li>
-							</ul>
-						</nav>
-						
-				</div>
-				
-				<div class="bottom">
-
-					<!-- Social Icons -->
-						<ul class="icons">
-							<li><a href="http://www.twitter.com/freifunkDA" class="fa fa-twitter solo"><span>Twitter</span></a></li>
-							<li><a href="https://github.com/freifunk-darmstadt" class="fa fa-github solo"><span>Github</span></a></li>
-							<li><a href="http://wiki.freifunk-darmstadt.de" class="fa fa-edit solo"><span>Wiki</span></a></li>
-							<li><a href="http://lists.freifunk.net/mailman/listinfo/darmstadt-freifunk.net" class="fa fa-envelope solo"><span>Mailing List</span></a></li>
-							<li><a href="https://kthx.de:9090/?channels=ffda" class="fa fa-comment solo"><span>Web-chat</span></a></li>
-						</ul>
-				
-				</div>
-			
-			</div>
-
-		<!-- Main -->
-			<div id="main">
-
-				<!-- Hero -->
-				<div id="hero-wrapper">
-					<section id="hero" class="container">
-						<header>
-							<h2><b>Freifunk Darmstadt</b> is a local Freifunk initiative, with the aim of providing a city-wide wireless network and free Internet access in Darmstadt.</h2>
-						</header>
-						<p>Come to our <a href="#meetings">next meeting</a>: Mon, 5 May 2014, 7pm</p>
-					</section>
-				</div>
-				<!-- Intro -->
-					<section id="top" class="one">
-						<div class="container">
-
-							<header>
-								<h2 class="alt"></h2>
-							</header>
-							<p>The idea of Freifunk is to connect household WiFi routers to build an independent, city-wide network. Ideally, all nodes in the network can communicate with each other, even if there is no Internet access. In order to achieve this, we need the cooperation of the local people.</p>
-							<p><iframe src="http://www.youtube.com/embed/2Z12OjnPADA?rel=0" width="600px" height="450px" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-							<p>Everyone with a (compatible) wireless router can contribute to the local network, and even provide public wireless Internet access. This last step is optional, but is crucial to provide free Internet access to everyone. The more nodes connected to the Internet (exit nodes), the better is the Internet connection for everybody. You do not have to worry about sharing your Internet with the Freifunk users. To protect the Freifunk exit nodes, we route all Internet traffic through a VPN.</p>
-							<p class="emph">If you want to know more about Freifunk or collaborate with us, <br />you are very welcome to <a href="#meetings">join us at our meetings</a>.</p>
-	
-							<h3>Further reading</h3>
-							<ul>
-							<li>The main <a href="http://freifunk.net/">Freifunk website</a> is a good starting point to learn more about the project.</li>
-							<li>Our <a href="http://wiki.freifunk-darmstadt.de">wiki</a> lists what we have done so far and our next steps.</li>
-							<li><a href="http://freifunk.metameute.de/wiki/gluon">Gluon</a> is the firmware we are using, and it is being developed by Freifunk Lübeck.</li>
-							</ul>
-						</div>
-					</section>
-					
-				<!-- Meetings -->
-					<section id="meetings" class="two">
-						<div class="container">
-					
-							<header>
-								<h2>Meetings</h2>
-							</header>
-							<p>We meet every week, alternating between Monday and Wednesday, <br /> at Chaos Darmstadt (Wilhelm-Leuschner-Straße 36, <br />through the backyard and up the stairs).</p>
-							<h3>Next meetings:</h3>
-							<ul>
-								<li>Mon, 5 May 2014, 7pm</li>
-								<li>Wed, 14 Mai 2014, 7:30pm</li>
-								<li>Mon, 19 Mai 2014, 7pm</li>
-							</ul>
-							<div id="map" style="width:480px; height: 370px; border: 0px;"></div>
-			</div>
-					</section>
-			
-				<!-- Contact -->
-					<section id="contact" class="three">
-						<div class="container">
-
-							<header>
-								<h2>Contact</h2>
-							</header>
-
-							<ul class="contact-inline">
-								<li><a href="http://www.twitter.com/freifunkDA" class="fa fa-twitter"><span>Twitter</span></a></li>
-								<li><a href="https://github.com/freifunk-darmstadt" class="fa fa-github"><span>Github</span></a></li>
-								<li><a href="http://wiki.freifunk-darmstadt.de" class="fa fa-edit"><span>Wiki</span></a></li>
-								<li><a href="http://lists.freifunk.net/mailman/listinfo/darmstadt-freifunk.net" class="fa fa-envelope"><span>Mailing List</span></a></li>
-								<li><a href="https://kthx.de:9090/?channels=ffda" class="fa fa-comment"><span>Web-chat</span></a></li>
-								<li><a href="https://www.hackint.eu" class="fa fa-ircffda" alt="#ffda"> @ <span>irc.hackint.eu</span></a></li>
-							</ul>
-						</div>
-					</section>
-			</div>
-	</body>
-</html>
