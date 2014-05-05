@@ -291,7 +291,10 @@
 					margin-right: 1em;
 					border: 0;
 				}
-				
+				ul.contact-inline a span
+				{
+          padding-left: 10px;
+				}
 				
 
 		ul.menu
