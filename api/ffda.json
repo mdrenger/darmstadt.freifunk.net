@@ -1,0 +1,76 @@
+{
+  "name": "Freifunk Darmstadt",
+  "url": "http://www.freifunk-darmstadt.de",
+  "location": {
+    "city": "Darmstadt",
+    "country": "DE",
+    "lat": 49.87299,
+    "lon": 8.650015,
+    "address": {
+      "Name": "Hackerspace \"Trollhöhle\"",
+      "Street": "Wilhelm-Leuschner-Straße 36",
+      "Zipcode": "64289"
+    }
+  },
+  "contact": {
+    "email": "info@freifunk-darmstadt.de",
+    "irc": "irc://irc.hackint.org/ffda",
+    "ml": "http://lists.freifunk.net/mailman/listinfo/darmstadt-freifunk.net",
+    "twitter": "@freifunkda"
+  },
+  "state": {
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Local services and content",
+      "Free internet access"
+    ],
+    "lastchange": "2014-07-09T19:41:57.689Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "http://map.freifunk-darmstadt.de",
+      "interval": "300",
+      "technicalType": "ffmap",
+      "mapType": "geographical"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "name": "Gluon",
+      "url": "http://freifunk.linuxlounge.net"
+    },
+    "dns": [
+      {
+        "domainname": "ffda",
+        "nameserver": [
+          "10.223.0.1",
+          "10.223.0.2"
+        ]
+      }
+    ],
+    "networks": {
+      "ipv6": [
+        {
+          "network": "fdca:ffee:ffda::/64"
+        }
+      ],
+      "ipv4": [
+        {
+          "network": "10.223.0.0/16"
+        }
+      ]
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "vpninternational"
+    ]
+  },
+  "api": "0.4.1"
+}
