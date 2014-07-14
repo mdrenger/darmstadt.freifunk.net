@@ -39,7 +39,7 @@
   "techDetails": {
     "firmware": {
       "name": "Gluon",
-      "url": "http://freifunk.linuxlounge.net"
+      "url": "http://update.freifunk-darmstadt.de"
     },
     "dns": [
       {
