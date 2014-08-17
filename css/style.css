@@ -939,22 +939,20 @@
 		background: #202020 url('images/overlay.png');
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0,0,0,0.125);
 		text-align: right;
+		overflow: auto;
 	}
 	
 		#header .top
 		{
-			position: absolute;
-			left: 0;
-			top: 0;
-			width: 100%;
+			min-height: 100%;
 		}
-	
+		
+		#header #nav { padding-bottom: 60px; }
+		#header #nav ul { margin-bottom: 0; }
+		
 		#header .bottom
 		{
-			position: absolute;
-			left: 0;
-			bottom: 0;
-			width: 100%;
+			height: 40px; margin-top: -50px;
 		}
 
 		#header .icons
@@ -984,8 +982,8 @@
 		position: relative;
 		min-height: 48px;
 		cursor: default;
-		margin: 0.4em 0 1.5em 0;
-
+		margin: 0 0 1.5em 0;
+		padding-top: 0.4em;
 	}
 	
 		#logo h1
