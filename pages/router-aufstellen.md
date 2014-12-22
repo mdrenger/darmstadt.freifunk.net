@@ -72,15 +72,3 @@ Damit sich ein Freifunk-Router mit einem anderen Freifunk-Router über WLAN verb
 ### Können mehrere Freifunk-Router an einem Ort miteinander verbunden werden?
 
 Mehrere Freifunk-Router können über ein Switch mit Netzwerk-Kabeln verbunden werden. Der im Starter-Kit empfohlene Router hat z.B. ein integriertes Switch.
-
-## Begriffserklärung
-
-### Firmware
-
-### Meshen
-
-Mehrere Knoten verbinden sich über ein sogenanntes Meshingnetzwerk miteinander. D.h. ein Knoten spricht mit mehreren Nachbarn und baut nicht nur zu einem eine Verbindung - wie in einem Maschennetz.
-
-### Node/Knotenpunkt
-
-Zumeist ein WLAN-Router oder Accesspoint, der im Freifunknetz teilnimmt.
