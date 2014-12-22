@@ -7,7 +7,7 @@ layout: page
 Unterstütze dein lokales Freifunk-Netz!
 =======================================
 
-Du kannst bei Freifunk-Darmstadt mitmachen, indem du <a href="router-aufstellen.html">einen oder mehrere Knoten aufsetzt</a>. Ein Knoten ist...
+Du kannst bei Freifunk-Darmstadt mitmachen, indem du [einen oder mehrere Knoten aufsetzt](/router-aufstellen/). Ein Knoten ist...
 
 Explain the 3 categories and ask to see below.
 
@@ -23,8 +23,8 @@ Du möchtest:
 * den ersten Freifunk-Router in deiner Umgebung aufstellen
 
 So kannst du mitmachen:
-1. Besorge <a href="router-aufstellen.html#router">einen Freifunk-fähigen Router</a>
-2. Installiere und konfiguriere die <a href="router-aufstellen.html#firmware-installieren">Freifunk-Firmware</a>. Wir helfen dir gerne dabei.
+1. Besorge [einen Freifunk-fähigen Router](/router-aufstellen/).
+2. Installiere und konfiguriere die [Freifunk-Firmware](/firmware-installieren/). Wir helfen dir gerne dabei.
 3. Stelle den Router an einem geeigneten Ort auf (z.B. Fensterbank).
 
 Level 2
@@ -64,12 +64,12 @@ So kannst du mitmachen:
 Wie kann ich weiter helfen?
 ========================
 
-Um uns weiter zu unterstützen, kannst du auch <a href="dienste.html">Dienste im Netzwerk zur Verfügung stellen</a>, oder, wenn du nicht technisch versiert bist, uns helfen Werbematerial zu gestalten sowie Pressearbeit zu übernehmen. Spenden helfen uns zudem unser Werbematerial zu finanzieren.
+Um uns weiter zu unterstützen, kannst du auch [Dienste im Netzwerk zur Verfügung stellen](/dienste-anbieten/), oder, wenn du nicht technisch versiert bist, uns helfen Werbematerial zu gestalten sowie Pressearbeit zu übernehmen. Spenden helfen uns zudem unser Werbematerial zu finanzieren.
 
 Keep in touch
 ------------
 
-Wir freuen uns auf deinen Besuch bei unserem <a href="kontakt.html">nächsten Treffen</a> oder abonniere die Mailingliste um zum Projekt beizutragen. TODO: I'd say to follow the ML to stay up-to-date with what's going on - although that happens more in RL meetings (and we should be using Twitter more)
+Wir freuen uns auf deinen Besuch bei unserem [nächsten Treffen](/kontakt/) oder abonniere die Mailingliste um zum Projekt beizutragen. TODO: I'd say to follow the ML to stay up-to-date with what's going on - although that happens more in RL meetings (and we should be using Twitter more)
 
 Spenden
 -------

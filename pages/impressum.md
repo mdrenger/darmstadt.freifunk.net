@@ -11,4 +11,4 @@ permalink: /impressum/
 	64293 Darmstadt
 </address>
 
-Die Hochschulgruppe <a href="http://chaos-darmstadt.de/">Chaos Darmstadt e. V.</a> ist im Vereinsregister des Amtsgerichts Darmstadt unter der Vereinregisternummer 3413 eingetragen.
+Die Hochschulgruppe [Chaos Darmstadt e. V.](http://chaos-darmstadt.de/) ist im Vereinsregister des Amtsgerichts Darmstadt unter der Vereinregisternummer 3413 eingetragen.

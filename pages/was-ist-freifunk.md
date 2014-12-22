@@ -42,4 +42,4 @@ und dezentral organisiert
 
 
 
-Wenn du mehr über Freifunk erfahren oder mit uns zusammenarbeiten möchtest, dann freuen wir uns, dich auf unseren <a href="kontakt.html">Treffen</a> zu begrüßen.
+Wenn du mehr über Freifunk erfahren oder mit uns zusammenarbeiten möchtest, dann freuen wir uns, dich auf unseren [Treffen]((/kontakt/) zu begrüßen.

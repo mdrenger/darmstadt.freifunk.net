@@ -6,7 +6,7 @@ permalink: /router-aufstellen/
 
 Du willst gerne einen Freifunk-Knoten betreiben und weißt noch wie das funktioniert bzw. was du dafür benötigst? Dann gibt es hier einen kurzen Überblick, der hoffentlich einige Unklarheiten beseitigt.
 
-After you have all the necessary equipment, you can <a href="#firmware-installieren">proceed to the firmware installation</a>.
+After you have all the necessary equipment, you can [proceed to the firmware installation](firmware-installieren).
 
 Am Ende der Seite gibt es eine Begriffserklärung. Nach dem bebilderten groben Überblickt gibt es auch noch eine textuelle Beschreibung.
 
@@ -17,7 +17,7 @@ Some intro words...
 
 ### Freifunk-fähiger WLAN-Router ###
 
-Natürlich darf der <a href="#router">WLAN-Router</a> nicht fehlen. Als Standort empfehlen sich Fenster, Balkone oder Dächer (I would generalize to places where it can be in range of users and other devices). Je näher er der Außenwelt ist desto wahrscheinlicher ist es, dass er sich mit anderen Routern verbindet und das sogenannte Mesh bildet.
+Natürlich darf der WLAN-Router nicht fehlen. Als Standort empfehlen sich Fenster, Balkone oder Dächer (I would generalize to places where it can be in range of users and other devices). Je näher er der Außenwelt ist desto wahrscheinlicher ist es, dass er sich mit anderen Routern verbindet und das sogenannte Mesh bildet.
 
 ### Strom ###
 
@@ -43,7 +43,6 @@ Wie gelang ich zu einem Freifunk-Knoten?
 
 Es gibt im Grunde drei Wege um zu einen das am Freifunknetz teilnimmt:
 
-
 * ein vorhandenes Gerät recyclen und mit der Freifunkfirmware ausstatten
 * ein unterstütztes Gerät erwerben und selbst mit der Freifunkfirmware ausstatten
 * sich an uns wenden und einen vorkonfigurierten Wlanrouter zum Selbstkostenpreis adoptieren
@@ -59,55 +58,6 @@ Falls du lieber ein neues Gerät erwerben willst und das vielleicht sowieso vor 
 ### Ein Gerät adoptieren ###
 
 Falls du doch lieber einen der von uns vorkonfigurierten Geräte ein neues Zuhause geben willst, geht das natürlich auch. Die Geräte sind vorkonfiguriert und brauchen nur Strom (und Netzwerk). Sind quasi per Plug und Play bereit. Hierfür empfiehlt es sich auch vorher mit uns Kontakt aufzunehmen
-
-Firmware installieren
-=====================
-
-Question: is it exactly like this for all router models? Besides, some users might have routers with other firmwares. Write something like "we assume that..." just in case.
-
-1. Den Router anschließen
-----------------------
-
-1. Lade die passende Freifunk-Firmware für deinen Router <a href="http://update.freifunk-darmstadt.de/">von unserer Seite</a> herunter.
-2. Verbinde einen der gelben LAN-Anschlüsse des Routers mit einem Netzwerkkabel mit deinem Computer.</li>
-3.Dein Computer erhält automatisch eine IP-Adresse via DHCP.</li>
-
-2. Installiere die Freifunk-Firmware
---------------------------------
-
-1. Öffne das Web-Interface (<a href="http://192.168.0.1">http://192.168.0.1</a>) deines Routers in deinem Browser</li>
-2. Wenn du nach Zugangsdaten gefragt wirst, gib als Benutzername und Passwort jeweils "admin" ein</li>
-3. Öffne im linken Menü <emph>system tools > firmware upgrade</emph></li>
-4. Wähle das heruntergeladene Firmware-image von deinem Rechner aus</li>
-5. Klicke auf <emph>Upgrade</emph> und warte, bis sich dein Router neugestartet hat.
-
-3. Konfigurationsmodus
---------------------
-Nach dem Neustart solltest du eine neue IP-Adresse zugwiesen bekommen haben. Der Konfigurationsmodus ist nun unter <a href="http://192.168.1.1">http://192.168.1.1</a> in deinem Browser erreichbar.
-
-4. Den Router konfigurieren
-------------------------
-
-1. Aktiviere die Option <emph>Firmware automatisch aktualisieren</emph></li>
-2. Aktiviere die Option <emph>Mesh-VPN aktivieren</emph> / <emph>Internet-Verbindung (Mesh-VPN)</emph></li>
-3. Füge GPS-Koordinaten des Standorts ein, z.B. von <a href="http://map.freifunk-darmstadt.de">http://map.freifunk-darmstadt.de</a> (klicke auf <emph>Koordinaten beim nächsten Klick anzeigen</emph>)
-4. Gib deine E-Mail Adresse als Kontaktmöglichkeit an. Deine Adresse wird zu nichts anderem als zur zweckmäßigen Kontaktaufnahme genutzt. Es erfolgt niemals eine Weitergabe außerhalb des Freifunk Darmstadt Projektes.</li>
-5. Klicke auf <emph>Speichern und Neustarten</emph>. Nun wird der Browser den von dir gewählten Namen erneut anzeigen, sowie seinen Schlüssel für den sicheren VPN-Zugang:
-	> #node-name
-	> key "node-key";
-	
-    Beide Zeilen sendest du bitte per E-Mail an <a href="mailto:keys@freifunk-darmstadt.de">keys@freifunk-darmstadt.de</a>
-    
-Dein Schlüssel wird nun zeitnah eingetragen, woraufhin du eine Rückmeldung nach der Bearbeitung erhältst.
-
-5. Verbinde den Router mit dem Internet (optional)
----------------------------------------------
-
-Wenn du deinen Internetzugang zur Verfügung stellen möchtest, verbinde jetzt den blauen WAN-Anschluss von deinem Freifunk-Router mit deinem Heim-Router.
-
-6. Fertig
---------
-Super, du hast es geschafft. Dein Freifunk-Node funktioniert jetzt und sollte, wenn du GPS Koordinaten angegeben hast, in Kürze auf der <a href="http://map.freifunk-darmstadt.de/">Karte</a> erscheinen.
 
 
 Weitere Informationen und Hinweise
