@@ -9,15 +9,15 @@ Firmware installieren
 
 Question: is it exactly like this for all router models? Besides, some users might have routers with other firmwares. Write something like "we assume that..." just in case.
 
-1. Den Router anschließen
-----------------------
+Den Router anschließen
+--------------------
 
 1. Lade die passende Freifunk-Firmware für deinen Router [von unserer Seite](http://update.freifunk-darmstadt.de/) herunter.
 2. Verbinde einen der gelben LAN-Anschlüsse des Routers mit einem Netzwerkkabel mit deinem Computer.
 3.Dein Computer erhält automatisch eine IP-Adresse via DHCP.
 
-2. Installiere die Freifunk-Firmware
---------------------------------
+Installiere die Freifunk-Firmware
+------------------------------
 
 1. Öffne das Web-Interface ([http://192.168.0.1](http://192.168.0.1)) deines Routers in deinem Browser
 2. Wenn du nach Zugangsdaten gefragt wirst, gib als Benutzername und Passwort jeweils "admin" ein
@@ -25,12 +25,12 @@ Question: is it exactly like this for all router models? Besides, some users mig
 4. Wähle das heruntergeladene Firmware-image von deinem Rechner aus
 5. Klicke auf `Upgrade` und warte, bis sich dein Router neugestartet hat.
 
-3. Konfigurationsmodus
---------------------
+Konfigurationsmodus
+-----------------
 Nach dem Neustart solltest du eine neue IP-Adresse zugwiesen bekommen haben. Der Konfigurationsmodus ist nun unter [http://192.168.1.1](http://192.168.1.1) in deinem Browser erreichbar.
 
-4. Den Router konfigurieren
-------------------------
+Den Router konfigurieren
+----------------------
 
 1. Aktiviere die Option `Firmware automatisch aktualisieren`
 2. Aktiviere die Option `Mesh-VPN aktivieren` / `Internet-Verbindung (Mesh-VPN)`
@@ -44,11 +44,11 @@ Nach dem Neustart solltest du eine neue IP-Adresse zugwiesen bekommen haben. Der
     
 Dein Schlüssel wird nun zeitnah eingetragen, woraufhin du eine Rückmeldung nach der Bearbeitung erhältst.
 
-5. Verbinde den Router mit dem Internet (optional)
----------------------------------------------
+Verbinde den Router mit dem Internet (optional)
+------------------------------------------
 
 Wenn du deinen Internetzugang zur Verfügung stellen möchtest, verbinde jetzt den blauen WAN-Anschluss von deinem Freifunk-Router mit deinem Heim-Router.
 
-6. Fertig
---------
+Fertig
+------
 Super, du hast es geschafft. Dein Freifunk-Node funktioniert jetzt und sollte, wenn du GPS Koordinaten angegeben hast, in Kürze auf der [Karte](http://map.freifunk-darmstadt.de/) erscheinen.
