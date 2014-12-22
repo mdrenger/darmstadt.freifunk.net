@@ -1,7 +1,7 @@
 ---
 title: Firmware installieren
 layout: page
-permalink: /firmware-installieren/
+permalink: /mitmachen/router-betreiben/firmware-installieren/
 ---
 
 Firmware installieren

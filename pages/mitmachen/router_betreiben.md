@@ -1,14 +1,13 @@
 ---
 title: Freifunk-Router aufstellen
 layout: page
-permalink: /mitmachen/router-aufstellen/
+permalink: /mitmachen/router-betreiben/
 ---
 
 Du willst gerne einen Freifunk-Knoten betreiben und weißt noch wie das funktioniert bzw. was du dafür benötigst? Dann gibt es hier einen kurzen Überblick, der hoffentlich einige Unklarheiten beseitigt.
 
 After you have all the necessary equipment, you can [proceed to the firmware installation](firmware-installieren).
 
-Am Ende der Seite gibt es eine Begriffserklärung. Nach dem bebilderten groben Überblickt gibt es auch noch eine textuelle Beschreibung.
 
 ## Was brauche ich dafür?
 

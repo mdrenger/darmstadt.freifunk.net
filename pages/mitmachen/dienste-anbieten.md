@@ -1,7 +1,7 @@
 
 ---
 title: Dienste anbieten
-permalink: /dienste-anbieten/
+permalink: /mitmachen/dienste-anbieten/
 layout: page
 ---
 

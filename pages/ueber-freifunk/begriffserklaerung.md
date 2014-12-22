@@ -2,7 +2,7 @@
 ---
 title: Begriffserklärung
 layout: page
-permalink: /begriffserklaerung/
+permalink: /ueber-freifunk/begriffserklaerung/
 ---
 
 ## Firmware
