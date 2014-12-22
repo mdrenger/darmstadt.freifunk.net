@@ -1,5 +1,7 @@
 ---
 title: Was kann man damit tun?
+permalink: /was-kann-man-damit-tun/
+layout: page
 ---
 
 Was kann man damit tun?

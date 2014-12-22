@@ -1,5 +1,7 @@
 ---
 title: Dienste
+layout: page
+permalink: /dienste/
 ---
 
 Angebotene Dienste

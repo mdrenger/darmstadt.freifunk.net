@@ -1,5 +1,7 @@
 ---
 title: Kontakt
+layout: page
+permalink: /kontakt/
 ---
 
 

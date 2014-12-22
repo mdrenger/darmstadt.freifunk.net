@@ -1,6 +1,8 @@
 
 ---
 title: Dienste anbieten
+permalink: /dienste-anbieten/
+layout: page
 ---
 
 Dienste anbieten

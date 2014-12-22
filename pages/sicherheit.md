@@ -1,5 +1,7 @@
 ---
 title: Sicherheit
+permalink: /sicherheit/
+layout: page
 ---
 
 Sicherheit

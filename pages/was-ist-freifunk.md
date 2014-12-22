@@ -1,5 +1,7 @@
 ---
 title: Was ist Freifunk?
+layout: page
+permalink: /was-ist-freifunk/
 ---
 
 Was ist Freifunk?

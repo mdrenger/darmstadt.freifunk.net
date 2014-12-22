@@ -1,5 +1,7 @@
 ---
 title: Freifunk-Router aufstellen
+layout: page
+permalink: /router-aufstellen/
 ---
 
 Freifunk-Router aufstellen

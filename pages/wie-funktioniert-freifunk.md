@@ -1,5 +1,7 @@
 ---
 title: Wie funktioniert Freifunk?
+permalink: /wie-funktioniert-freifunk/
+layout: page
 ---
 
 Wie funktioniert Freifunk?

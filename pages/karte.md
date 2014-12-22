@@ -1,5 +1,7 @@
 ---
 title:  Karte
+permalink: /karte/
+layout: page
 ---
 
 Karte

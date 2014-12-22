@@ -1,5 +1,7 @@
 ---
 title: Mitmachen
+permalink: /mitmachen/
+layout: page
 ---
 
 Unterstütze dein lokales Freifunk-Netz!
