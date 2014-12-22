@@ -1,6 +1,6 @@
 ---
 title: Sicherheit
-permalink: /sicherheit/
+permalink: /warum-freifunk/sicherheit/
 layout: page
 ---
 

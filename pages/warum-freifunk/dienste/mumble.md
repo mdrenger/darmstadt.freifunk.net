@@ -1,7 +1,7 @@
 ---
 title: Dienste
 layout: page
-permalink: /dienste/
+permalink: /warum-freifunk/lokale-dienste/mumble/
 ---
 
 Mumble
