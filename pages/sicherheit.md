@@ -4,9 +4,6 @@ permalink: /sicherheit/
 layout: page
 ---
 
-Sicherheit
-==========
-
 Störerhaftung
 -------------
 

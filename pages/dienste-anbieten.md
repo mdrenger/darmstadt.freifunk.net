@@ -5,8 +5,6 @@ permalink: /dienste-anbieten/
 layout: page
 ---
 
-Dienste anbieten
-================
 It is our goal to build the infrastructure to provide useful services to our community. Since this network also belongs to you, you can contribute to it by running services that everyone can use.
 
 Read below to find out more, and feel free to <a href="kontakt.html">contact us</a> if you have questions.

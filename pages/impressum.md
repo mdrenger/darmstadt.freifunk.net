@@ -4,9 +4,6 @@ layout: page
 permalink: /impressum/
 ---
 
-Impressum
-=========
-
 <address>
 	<strong>Projekt Freifunk Darmstadt<br/>
 	Hochschulgruppe Chaos Darmstadt e.V.</strong><br/>

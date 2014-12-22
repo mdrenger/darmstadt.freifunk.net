@@ -4,8 +4,6 @@ permalink: /wie-funktioniert-freifunk/
 layout: page
 ---
 
-Wie funktioniert Freifunk?
-
 A community-ran project
 -----------------------
 

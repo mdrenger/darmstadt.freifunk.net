@@ -4,9 +4,6 @@ layout: page
 permalink: /was-ist-freifunk/
 ---
 
-Was ist Freifunk?
-================
-
 Freifunk ist ein freies Netz
 -------------------------
 Unser Ziel ist es, ein Netz aufzubauen, das denen gehört, die es benutzen und von den Netzen der kommerziellen Anbietern unabhängig ist. Die Idee des Gemeinguts auf die Infrastruktur des Internets übertragen. Jeder kann in diesem Netz Dienste anbieten und Nutzen. Eine Einschränkung des Datenverkehrs oder Bevorzugung durch Bezahlung findet nicht statt. Dazu nutzen wir ein Netz von günstigen WLAN-Routern ("Knoten"), die sich untereinander per Funk verbinden und nicht mehr auf die Kabel der Netzbetreiber angewiesen sind. Durch intelligente Algorithmen finden die Daten ihren Weg durch die Knoten dieses Netzes. Alle Teilnehmer können in diesem Netz Dienste sowhol anbieten als auch nutzen.

@@ -5,7 +5,7 @@ layout: page
 ---
 
 Unterstütze dein lokales Freifunk-Netz!
-===================================
+=======================================
 
 Du kannst bei Freifunk-Darmstadt mitmachen, indem du <a href="router-aufstellen.html">einen oder mehrere Knoten aufsetzt</a>. Ein Knoten ist...
 
@@ -15,7 +15,7 @@ Starter-Kit
 ----------
 
 Wohnung, Geschäft, Café, Restaurant, Bar
-			
+
 Du möchtest:
 
 * dich mit dem Freifunk-Netz in deiner Nachbarschaft verbinden
@@ -31,7 +31,7 @@ Level 2
 ------
 
 Balkon, hohes Gebäude, öffentlicher Platz, Park, weitläufiges Gelände
-			
+
 Du möchtest:
 
 * das Freifunk-Netz auf ein größeres Gebiet erweitern. Dazu eignen sich insbesondere höher gelegene Standorte (z.B. Balkone oder Dächer)
