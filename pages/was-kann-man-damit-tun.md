@@ -4,7 +4,7 @@ permalink: /was-kann-man-damit-tun/
 layout: page
 ---
 
-Dienste nutzen &amp; anbieten
+Dienste nutzen & anbieten
 --------------------------
 Durch Freifunk werden zum Beispiel die Übertragung lokaler Events, lizenzfreies Community-Radio, Telefonieren, Chatten, der Austausch öffentlicher Dateien und die gemeinsame Nutzung eines Internetanschlusses möglich.
 
