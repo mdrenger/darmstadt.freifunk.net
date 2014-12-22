@@ -9,7 +9,7 @@ Wir haben einen Mumble-Server auf mumble.ffda (Port 64738). Du kannst den Mumble
 Anleitung
 --------
 
-1. Den Mumble-Client von der [offiziellen Seite](http://mumble.info)herunterladen.
+1. Den Mumble-Client von der [offiziellen Seite](http://mumble.info) herunterladen.
 2. Installiere den Client.
 3. Beim ersten Start die Instruktionen befolgen, um Ton und Mikrofon optimal einzustellen.
 4. Verbinde dich zum Freifunk-Service: Klicke im `Server` Menü auf `Connect`. Das `Mumble Server Connect` Fenster öffnet sich.
