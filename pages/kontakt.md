@@ -1,7 +1,7 @@
 ---
 title: Kontakt
 layout: page
-permalink: /kontakt/
+permalink: /mitmachen/treffen/
 ---
 
 You are very welcome to contact us either personally at a meeting or over the Internet.
