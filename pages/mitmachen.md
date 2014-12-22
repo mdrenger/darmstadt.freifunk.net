@@ -79,10 +79,10 @@ State the destination of the donations: long-range&amp;sector antennas and other
 Spenden bitte mit dem <strong>Verwendungszweck "Freifunk Darmstadt"</strong> an:
 
 <address>
-Chaos Darmstadt e.V.  
-Kontonummer: 711853  
-BLZ: 50850150  
-Bank: Sparkasse Darmstadt  
-IBAN: DE96508501500000711853  
+Chaos Darmstadt e.V.
+Kontonummer: 711853
+BLZ: 50850150
+Bank: Sparkasse Darmstadt
+IBAN: DE96508501500000711853
 BIC: HELADEF1DAS
 </address>
