@@ -1,15 +1,13 @@
 ---
-title: Dienste
+title: Mumble
 layout: page
 permalink: /warum-freifunk/lokale-dienste/mumble/
 ---
 
-Mumble
-------
-
 Wir haben einen Mumble-Server auf mumble.ffda (Port 64738). Du kannst den Mumble-Server benutzen um mit mehreren Leuten gleichzeitig zu reden, entweder per Ton oder Text.
 
-Hier eine Anleitung Mumble zu benutzen:
+Anleitung
+--------
 
 1. Den Mumble-Client von der [offiziellen Seite](http://mumble.info)herunterladen.
 2. Installiere den Client.
