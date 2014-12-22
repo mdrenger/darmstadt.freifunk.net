@@ -65,15 +65,13 @@ Falls du doch lieber einen der von uns vorkonfigurierten Geräte ein neues Zuhau
 
 Schau mal auf der <a href="karte.html">Netzkarte</a> nach. Wenn es bei dir noch keinen Freifunk-Router in der Nachbarschaft gibt, dann sei die oder der Erste!
 
-## Benötige ich einen Router für 2.4 GHz oder 5 GHz?
+### Benötige ich einen Router für 2.4 GHz oder 5 GHz?
 
 Damit sich ein Freifunk-Router mit einem anderen Freifunk-Router über WLAN verbinden kann, müssen beide Router im gleichen Frequenzband (2.4 GHz oder 5 GHz) arbeiten. Bitte vorher prüfen!
 
-## Können mehrere Freifunk-Router an einem Ort miteinander verbunden werden?
-
+### Können mehrere Freifunk-Router an einem Ort miteinander verbunden werden?
 
 Mehrere Freifunk-Router können über ein Switch mit Netzwerk-Kabeln verbunden werden. Der im Starter-Kit empfohlene Router hat z.B. ein integriertes Switch.
-
 
 ## Begriffserklärung
 
