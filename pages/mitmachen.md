@@ -2,6 +2,8 @@
 title: Mitmachen
 permalink: /mitmachen/
 layout: page
+main_menu: true
+weight: 4
 ---
 
 Unterstütze dein lokales Freifunk-Netz!

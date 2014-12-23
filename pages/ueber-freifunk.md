@@ -2,6 +2,8 @@
 title: Was ist Freifunk?
 layout: page
 permalink: /ueber-freifunk/
+main_menu: true
+weight: 3
 ---
 
 Freifunk ist ein freies Netz
