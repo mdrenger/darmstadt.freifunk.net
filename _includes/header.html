@@ -17,8 +17,6 @@
         {% assign nav_pages = (site.pages | where: 'main_menu', true | sort: 'weight') %}
         {% for p in nav_pages %}
           {% if p.title %}
-          {{p.url}}
-          {{page.url}}
           <a class="page-link{% if p.url == page.url %} active{% endif %}" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
           {% endif %}
         {% endfor %}
