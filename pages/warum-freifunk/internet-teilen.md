@@ -1,6 +1,6 @@
 ---
 title: Internet teilen
-permalink: warum-freifunk/internet-teilen/
+permalink: /warum-freifunk/internet-teilen/
 layout: page
 ---
 

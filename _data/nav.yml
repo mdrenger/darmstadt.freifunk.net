@@ -1,0 +1,46 @@
+- title: "Home"
+  href: "/"
+ 
+- title: "Was ist Freifunk?"
+  href: "/ueber-freifunk/"
+  subcategories:
+    - subtitle: "Wie funktioniert Freifunk?"
+      subhref: "/ueber-freifunk/wie-funktioniert-freifunk/"
+    - subtitle: "Begriffserklärung"
+      subhref: "/ueber-freifunk/begriffserklaerung/"
+ 
+- title: "Warum Freifunk?"
+  href: "/warum-freifunk/"
+  subcategories:
+    - subtitle: "Lokale Dienste"
+      subhref: "/warum-freifunk/lokale-dienste/"
+      subcategories:
+        - subtitle: "Mumble"
+          subhref: "/warum-freifunk/lokale-dienste/mumble/"
+    - subtitle: "Internet teilen"
+      subhref: "/warum-freifunk/internet-teilen/"
+    - subtitle: "Sicherheit"
+      subhref: "/warum-freifunk/sicherheit/"
+       
+- title: "Mitmachen"
+  href: "/mitmachen/"
+  subcategories:
+    - subtitle: "Router betreiben"
+      subhref: "/mitmachen/router-betreiben/"
+      subcategories:
+        - subtitle: "Unterstützte Geräte"
+          subhref: "/mitmachen/router-betreiben/unterstuetzte-gerate/"
+        - subtitle: "Firmware installieren"
+          subhref: "/mitmachen/router-betreiben/firmware-installieren/"
+        - subtitle: "Router einrichten"
+          subhref: "/mitmachen/router-betreiben/router-einrichten/"
+    - subtitle: "Dienste anbieten"
+      subhref: "/mitmachen/dienste-anbieten/"
+    - subtitle: "Treffen"
+      subhref: "/mitmachen/treffen/"
+  
+- title: "Aktueller Stand"
+  href: "/aktueller-stand/"  
+
+- title: "Impressum"
+  href: "/impressum/"
