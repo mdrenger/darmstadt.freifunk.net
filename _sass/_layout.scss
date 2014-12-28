@@ -40,12 +40,6 @@
             margin-left: 20px;
         }
 	}
-	
-    .active {
-		background: #dddddd;
-		border-top-right-radius: 5px;
-		border-bottom-left-radius: 5px;
-    }
 
     @include media-query($on-palm) {
         position: absolute;
@@ -92,6 +86,13 @@
     }
 }
 
+.active {
+	background: #222222;
+	color: #ffffff;
+	padding: 2px;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
 
 
 /**
