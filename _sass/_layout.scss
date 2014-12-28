@@ -40,6 +40,14 @@
             margin-left: 20px;
         }
 	}
+	
+	.active {
+		background: $grey-color-dark;
+		color: $grey-color-light;
+		padding: 2px;
+		border-top-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+	}
 
     @include media-query($on-palm) {
         position: absolute;
@@ -85,15 +93,6 @@
         }
     }
 }
-
-.active {
-	background: #222222;
-	color: #ffffff;
-	padding: 2px;
-	border-top-right-radius: 5px;
-	border-bottom-left-radius: 5px;
-}
-
 
 /**
  * Site footer
