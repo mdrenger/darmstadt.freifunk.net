@@ -24,7 +24,7 @@
 					<ul>
 					{% assign sub_pages = (site.pages | where: 'top_url', p.url| sort: 'sub_weight') %}
 					{% for s in sub_pages %}
-						{% if s.title %}
+						{% if s.title != p.title %}
 						<li>
 						<a class="page-link{% if s.url == page.url %} active{% endif %}" href="{{ s.url | prepend: site.baseurl }}">{{ s.title }}</a>
 						</li>
