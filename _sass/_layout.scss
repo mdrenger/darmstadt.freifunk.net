@@ -23,6 +23,14 @@
     }
 }
 
+nav div.trigger ul ul {
+	display: none;
+}
+
+	nav div.trigger ul li:hover > ul {
+		display: block;
+	}
+
 .site-nav {
     float: right;
     line-height: 56px;
