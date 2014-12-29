@@ -46,6 +46,24 @@ nav div.trigger ul:after {
 	content: ""; clear: both; display: block;
 }
 
+nav div.trigger ul li {
+	float: left;
+}
+	nav div.trigger ul li:hover {
+		background: #4b545f;
+		background: linear-gradient(top, #4f5964 0%, #5f6975 40%);
+		background: -moz-linear-gradient(top, #4f5964 0%, #5f6975 40%);
+		background: -webkit-linear-gradient(top, #4f5964 0%,#5f6975 40%);
+	}
+		nav ul li:hover a {
+			color: #fff;
+		}
+	
+	nav div.trigger ul li a {
+		display: block; padding: 25px 40px;
+		color: #757575; text-decoration: none;
+	}
+
 /**
  * Site footer
  */
