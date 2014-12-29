@@ -22,7 +22,7 @@
         {% endfor %}
       </div>
 	{% if page.sub_menu %}
-      <div class="trigger">
+      <div class="trigger-sub">
 	{% assign nav_pages = (site.pages | where: 'top_url', page.top_url| sort: 'sub_weight') %}
 	{% for p in nav_pages %}
 		{% if p.title %}
