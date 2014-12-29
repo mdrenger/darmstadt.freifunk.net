@@ -1,6 +1,7 @@
 ---
 title: Sicherheit
 permalink: /warum-freifunk/sicherheit/
+sub_menu: warum-freifunk
 layout: page
 ---
 

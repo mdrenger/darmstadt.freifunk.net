@@ -1,6 +1,8 @@
 ---
 title: Aktueller Stand
 layout: page
+main_menu: true
+weight: 5
 permalink: /aktueller-stand/
 ---
 

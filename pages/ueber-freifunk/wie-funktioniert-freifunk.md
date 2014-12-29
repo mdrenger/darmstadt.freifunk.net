@@ -1,6 +1,7 @@
 ---
 title: Wie funktioniert Freifunk?
 permalink: /ueber-freifunk/wie-funktioniert-freifunk/
+sub_menu: ueber-freifunk
 layout: page
 ---
 

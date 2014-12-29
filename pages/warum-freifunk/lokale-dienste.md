@@ -1,6 +1,7 @@
 ---
 title: Lokale dienste
 permalink: /warum-freifunk/lokale-dienste/
+sub_menu: warum-freifunk
 layout: page
 ---
 

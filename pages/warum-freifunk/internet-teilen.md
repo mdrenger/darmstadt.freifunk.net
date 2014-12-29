@@ -1,6 +1,7 @@
 ---
 title: Internet teilen
 permalink: /warum-freifunk/internet-teilen/
+sub_menu: warum-freifunk
 layout: page
 ---
 

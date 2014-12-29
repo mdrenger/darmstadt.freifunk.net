@@ -1,6 +1,7 @@
 ---
 title: Kontakt
 layout: page
+sub_menu: mitmachen
 permalink: /mitmachen/treffen/
 ---
 

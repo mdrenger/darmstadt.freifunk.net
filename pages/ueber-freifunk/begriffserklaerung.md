@@ -2,6 +2,7 @@
 ---
 title: Begriffserklärung
 layout: page
+sub_menu: ueber-freifunk
 permalink: /ueber-freifunk/begriffserklaerung/
 ---
 

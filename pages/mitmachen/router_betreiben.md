@@ -1,6 +1,7 @@
 ---
 title: Freifunk-Router betreiben
 layout: page
+sub_menu: mitmachen
 permalink: /mitmachen/router-betreiben/
 ---
 
