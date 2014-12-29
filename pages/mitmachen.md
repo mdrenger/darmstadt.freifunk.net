@@ -3,6 +3,7 @@ title: Mitmachen
 permalink: /mitmachen/
 layout: page
 main_menu: true
+sub_menu: mitmachen
 weight: 4
 ---
 
