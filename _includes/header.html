@@ -17,7 +17,7 @@
         {% assign nav_pages = (site.pages | where: 'main_menu', true | sort: 'weight') %}
         {% for p in nav_pages %}
           {% if p.title %}
-          <a class="page-link{% if p.url == page.url %} active{% endif %}" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+			<a class="page-link{% if p.url == page.url %} active{% endif %}" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
           {% endif %}
         {% endfor %}
       </div>
@@ -26,7 +26,7 @@
 			{% assign nav_pages = (site.pages | where: 'sub_menu', page.sub_menu) %}
 			{% for p in nav_pages %}
 				{% if p.title %}
-				<a class="page-link{% if p.url == page.url %} active{% endif %}" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+					<a class="page-link{% if p.url == page.url %} active{% endif %}" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
 				{% endif %}
 			{% endfor %}
       </div>
