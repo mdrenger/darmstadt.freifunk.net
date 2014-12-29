@@ -1,8 +1,10 @@
 ---
 title: Kontakt
 layout: page
-sub_menu: mitmachen
 permalink: /mitmachen/treffen/
+sub_menu: true
+top_url: /mitmachen/
+sub_weight: 4
 ---
 
 You are very welcome to contact us either personally at a meeting or over the Internet.

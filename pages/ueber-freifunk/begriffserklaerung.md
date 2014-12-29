@@ -2,8 +2,10 @@
 ---
 title: Begriffserklärung
 layout: page
-sub_menu: ueber-freifunk
+sub_menu: true
 permalink: /ueber-freifunk/begriffserklaerung/
+top_url: /ueber-freifunk/
+sub_weight: 3
 ---
 
 ## Firmware

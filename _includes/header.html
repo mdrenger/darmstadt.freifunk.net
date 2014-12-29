@@ -17,13 +17,13 @@
         {% assign nav_pages = (site.pages | where: 'main_menu', true | sort: 'weight') %}
         {% for p in nav_pages %}
           {% if p.title %}
-			<a class="page-link{% if p.url == page.url %} active{% endif %}" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+			<a class="page-link{% if p.url == page.url %} active{% endif %}" href="{{ p.top_url | prepend: site.baseurl }}">{{ p.title }}</a>
           {% endif %}
         {% endfor %}
       </div>
 	{% if page.sub_menu %}
       <div class="trigger">
-	{% assign nav_pages = (site.pages | where: 'sub_menu', page.sub_menu) %}
+	{% assign nav_pages = (site.pages | where: 'sub_menu', page.sub_menu| sort: 'sub_weight') %}
 	{% for p in nav_pages %}
 		{% if p.title %}
 		<a class="page-link{% if p.url == page.url %} active{% endif %}" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>

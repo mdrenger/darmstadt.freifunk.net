@@ -4,6 +4,7 @@ layout: page
 main_menu: true
 weight: 6
 permalink: /impressum/
+top_url: /impressum/
 ---
 
 <address>

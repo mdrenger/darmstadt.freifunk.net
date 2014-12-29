@@ -4,6 +4,7 @@ layout: page
 main_menu: true
 weight: 5
 permalink: /aktueller-stand/
+top_url: /aktueller-stand/
 ---
 
 Stuff to put here:

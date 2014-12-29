@@ -1,8 +1,10 @@
 ---
 title: Sicherheit
 permalink: /warum-freifunk/sicherheit/
-sub_menu: warum-freifunk
+top_url: /warum-freifunk/
+sub_menu: true
 layout: page
+sub_weight: 4
 ---
 
 Störerhaftung

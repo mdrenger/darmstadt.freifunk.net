@@ -2,7 +2,9 @@
 ---
 title: Dienste anbieten
 permalink: /mitmachen/dienste-anbieten/
-sub_menu: mitmachen
+sub_menu: true
+top_url: /mitmachen/
+sub_weight: 3
 layout: page
 ---
 

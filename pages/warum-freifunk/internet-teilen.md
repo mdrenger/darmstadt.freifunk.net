@@ -1,8 +1,10 @@
 ---
 title: Internet teilen
 permalink: /warum-freifunk/internet-teilen/
-sub_menu: warum-freifunk
+top_url: /warum-freifunk/
+sub_menu: true
 layout: page
+sub_weight: 3
 ---
 
 Bring Internet to areas with bad coverage
