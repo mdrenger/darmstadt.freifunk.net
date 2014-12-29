@@ -26,7 +26,7 @@
 					{% for s in sub_pages %}
 						{% if s.title %}
 						<li>
-						<a class="page-link{% if s.url == page.url %} active{% endif %}" href="{{ s.url | prepend: site.baseurl }}">{{ p.title }}</a>
+						<a class="page-link{% if s.url == p.url %} active{% endif %}" href="{{ s.url | prepend: site.baseurl }}">{{ p.title }}</a>
 						</li>
 						{% endif %}
 					{% endfor %}
