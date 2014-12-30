@@ -27,9 +27,9 @@ nav div.trigger ul ul {
 	display: none;
 }
 
-	nav div.trigger ul li:hover > ul {
-		display: block;
-	}
+nav div.trigger ul li:hover > ul {
+	display: block;
+}
 
 nav div.trigger ul {
 	background: #efefef; 
@@ -39,7 +39,7 @@ nav div.trigger ul {
 	border-radius: 10px;  
 	list-style: none;
 	position: relative;
-	display: inline-table;
+	display: inline;
 }
 
 nav div.trigger ul:after {
