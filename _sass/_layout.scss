@@ -23,29 +23,6 @@
     }
 }
 
-nav div.trigger ul ul {
-	display: none;
-}
-
-nav div.trigger ul li:hover > ul {
-	display: block;
-}
-
-nav div.trigger ul {
-	background: #efefef; 
-	background: linear-gradient(top, #efefef 0%, #bbbbbb 100%);
-	box-shadow: 0px 0px 9px rgba(0,0,0,0.15);
-	padding: 0 20px;
-	border-radius: 10px;  
-	list-style: none;
-	position: relative;
-	display: inline;
-}
-
-nav div.trigger ul:after {
-	content: ""; clear: both; display: block;
-}
-
 
 /**
  * Site footer
