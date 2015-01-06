@@ -72,7 +72,7 @@ nav div.trigger ul li ul li {
   text-shadow: 0 -1px 0 #000;
 }
 
-nav div.trigger ul li ul li:hover { background: #666; }
+nav div.trigger ul li ul li:hover { background: $magenta-color-light; }
 
 nav div.trigger ul li:hover ul {
   display: block;
@@ -80,6 +80,13 @@ nav div.trigger ul li:hover ul {
   visibility: visible;
 }
 
+nav a {
+	color: $cyan-color;
+}
+
+nav a.active {
+	color: $magenta-color;
+}
 
 /**
  * Site footer
