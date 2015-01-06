@@ -82,7 +82,7 @@ nav div.trigger ul li:hover ul {
   visibility: visible;
 }
 
-nav a {
+nav a, nav a:visited {
 	color: $cyan-color;
 }
 
