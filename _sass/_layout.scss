@@ -68,11 +68,13 @@ nav div.trigger ul li ul {
 nav div.trigger ul li ul li { 
   background: #555; 
   display: block; 
-  color: #fff;
+  color: $white-color;
   text-shadow: 0 -1px 0 #000;
 }
 
-nav div.trigger ul li ul li:hover { background: $magenta-color-light; }
+nav div.trigger ul li ul li:hover {
+	background: $magenta-color-light;
+}
 
 nav div.trigger ul li:hover ul {
   display: block;

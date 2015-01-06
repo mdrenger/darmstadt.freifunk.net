@@ -6,31 +6,32 @@
 
 
 // Our variables
-$base-font-family:	Helvetica, Arial, sans-serif;
-$base-font-size:	16px;
-$small-font-size:	$base-font-size * 0.875;
-$base-line-height:	1.5;
+$base-font-family:		Helvetica, Arial, sans-serif;
+$base-font-size:		16px;
+$small-font-size:		$base-font-size * 0.875;
+$base-line-height:		1.5;
 
-$title-font-family: 'Roboto Slab', Arial, sans-serif;
+$title-font-family: 	'Roboto Slab', Arial, sans-serif;
 
-$spacing-unit:		30px;
+$spacing-unit:			30px;
 
-$text-color:		#111111;
-$background-color:	#fdfdfd;
-$brand-color:		#dc0067;
+$text-color:			#111111;
+$background-color:		#fdfdfd;
+$brand-color:			#dc0067;
 
-$white-color: 		#ffffff;
-$magenta-color:		#dc0067;
-$yellow-color:		#ffb400;
-$cyan-color:		#009ee0;
-$black-color:		#000000;
+$white-color: 			#ffffff;
+$magenta-color:			#dc0067;
+$magenta-color-light:	lighten($magenta-color, 40%);
+$yellow-color:			#ffb400;
+$cyan-color:			#009ee0;
+$black-color:			#000000;
 
-$grey-color:		#828282;
-$grey-color-light:	lighten($grey-color, 40%);
-$grey-color-dark:	darken($grey-color, 25%);
+$grey-color:			#828282;
+$grey-color-light:		lighten($grey-color, 40%);
+$grey-color-dark:		darken($grey-color, 25%);
 
-$on-palm:			600px;
-$on-laptop:			800px;
+$on-palm:				600px;
+$on-laptop:				800px;
 
 
 
