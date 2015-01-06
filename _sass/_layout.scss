@@ -9,10 +9,10 @@
     position: relative;
     
     background-color: $magenta-color;
-	background-image: url('images/DA-logo_trans.png'), url('images/aurora.png'); 
-	background-position: right top, left top;
+	background-image: url('images/DA-logo_trans.png');
+	background-position: right top;
 	background-repeat: no-repeat;
-	background-size: contain, cover;
+	background-size: contain;
 	border-bottom: 5px solid $yellow-color;
     
 }
@@ -26,7 +26,7 @@
 	
     &,
     &:visited {
-        color: $yellow-color;
+        color: $white-color;
     }
 }
 
@@ -46,7 +46,7 @@ nav div.trigger ul li {
   margin-right: -4px;
   position: relative;
   padding: 15px 20px;
-  background: $yellow-color;
+  background: $white-color;
   cursor: pointer;
   transition: all 0.2s;
 }
