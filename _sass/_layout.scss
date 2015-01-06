@@ -181,6 +181,9 @@ nav div.trigger ul li:hover ul {
     font-size: 24px;
 }
 
+h1 {
+	font-family: $title-font-family;
+}
 
 
 /**
@@ -194,8 +197,7 @@ nav div.trigger ul li:hover ul {
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
-	font-family: $title-font-family;
-
+    text-transform: uppercase;
     @include media-query($on-laptop) {
         font-size: 36px;
     }
