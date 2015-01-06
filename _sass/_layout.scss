@@ -9,10 +9,6 @@
     position: relative;
     
     background-color: $magenta-color;
-	background-image: url('images/DA-logo_trans.png');
-	background-position: right top;
-	background-repeat: no-repeat;
-	background-size: contain;
 	border-bottom: 5px solid $yellow-color;
     
 }
@@ -109,6 +105,10 @@ nav div.trigger ul li:hover ul {
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
+    background-image: url('images/DA-logo_trans.png');
+	background-position: bottom top;
+	background-repeat: no-repeat;
+	background-size: contain;
 }
 
 .footer-col {
