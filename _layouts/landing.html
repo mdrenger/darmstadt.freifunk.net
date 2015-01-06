@@ -7,7 +7,16 @@
 
     {% include header.html %}
 
-	<section id="main" class="alt">
+	<section id="banner">
+		<h2>{{ site.title }}</h2>
+		<p>{{ site.tagline }}</p>
+		<ul class="actions">
+			<li><a href="#" class="button special">Sign Up</a></li>
+			<li><a href="#" class="button">Learn More</a></li>
+		</ul>
+	</section>
+			
+	<section id="main" class="container">
         {{ content }}
       </div>
     </section>
