@@ -19,7 +19,10 @@ $brand-color:		#dc0067;
 
 $magenta-color:		#dc0067;
 $yellow-color:		#ffb400;
+$yellow-color-light:	lighten($yellow-color, 40%);
+
 $cyan-color:		#009ee0;
+
 $black-color:		#000000;
 
 $grey-color:		#828282;
