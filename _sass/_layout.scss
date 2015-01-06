@@ -49,8 +49,7 @@ nav div.trigger ul li {
 }
 
 nav div.trigger ul li:hover {
-  background: $magenta-color-light;
-  color: $white-color;
+  background: rgba(255, 255, 255, .9); 
 }
 
 nav div.trigger ul li ul {
@@ -67,14 +66,12 @@ nav div.trigger ul li ul {
 }
 
 nav div.trigger ul li ul li { 
-  background: #555; 
+  background: rgba(255, 255, 255, .9); 
   display: block; 
-  color: $white-color;
-  text-shadow: 0 -1px 0 $cyan-color-dark;
 }
 
 nav div.trigger ul li ul li:hover {
-	background: $magenta-color-light;
+  background: rgba(255, 255, 255, .9); 
 }
 
 nav div.trigger ul li:hover ul {
