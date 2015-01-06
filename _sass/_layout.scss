@@ -19,8 +19,9 @@
     letter-spacing: -1px;
     margin-bottom: 0;
 	clear:both;
-	
-    &,
+	font-family: $title-font-family;
+    
+	&,
     &:visited {
         color: $white-color;
     }
