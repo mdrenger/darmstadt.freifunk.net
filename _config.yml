@@ -1,5 +1,6 @@
 # Site settings
 title: Freifunk Darmstadt
+tagline: das freie WLAN-Netzwerk für DA und Umgebung
 email: info@freifunk-darmstadt.de
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
