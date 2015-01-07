@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: landing
+layout:
 permalink: /
 top_url: /
 main_menu: true
@@ -8,3 +8,63 @@ weight: 1
 ---
 
 
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="landing">
+
+    {% include header.html %}
+
+	<section id="banner">
+		<h2>{{ site.title }}</h2>
+		<p>{{ site.tagline }}</p>
+	</section>
+			
+	<section id="main" class="container">
+		<section class="box special">
+			<header class="major">
+				<h2>{{ site.description }}</h2>
+				<p>Um dies zu erreichen, benötigen wir deine Unterstützung!</p>
+					<ul class="actions">
+						<li><a href="#" class="button altspecial">Wie funktioniert Freifunk?</a></li>
+						<li><a href="#" class="button special icon fa-chevron-circle-right">Ich mach mit!</a></li>
+							
+					</ul>
+			</header>
+		</section>
+		<section class="box special features">
+			<header><h2>Freifunk ist…</h2></header>
+			<div class="features-row">
+				<section>
+					<span class="icon major fa-wifi accent2"></span>
+					<h3>öffentlich und nicht kommerziell</h3>
+					<p>Die Idee von Freifunk ist es, mittels handelsüblicher WLAN-Accesspoints ein unabhängiges, stadtübergreifendes Netzwerk aufzubauen. Idealerweise können alle Knoten im Netzwerk miteinander kommunizieren, auch wenn diese über keine direkte Internetverbindung verfügen.</p>
+				</section>
+				<section>
+					<span class="icon major fa-users accent3"></span>
+					<h3>gemeinschaftlich betrieben</h3>
+					<p>Jeder mit einem WLAN-fähigen Gerät kann am Netzwerk teilnehmen, und es sogar selbst unterstützen. Mit einem eigenen Accesspoint kannst du das Netz erweitern und stabilisieren, sowie einen Internet-Hotspot für alle bereitstellen.</p>
+				</section>
+			</div>
+			<div class="features-row">
+				<section>
+					<span class="icon major fa-unlock-alt accent4"></span>
+					<h3>anonym zugänglich und trotzdem rechtssicher</h3>
+					<p>Freifunk ist ein offenes Netz, ohne Passwörter oder Registrierungsformulare. Du musst trotzdem keine Angst vor der Störerhaftung haben: Um jeglichen rechtlichen Problemen aus dem Weg zu gehen, wird der Internetverkehr von uns über ein VPN abgewickelt.</p>
+				</section>
+				<section>
+					<span class="icon major fa-cogs accent5"></span>
+					<h3>dezentral organisiert</h3>
+					<p>In Gebieten mit geringer Freifunk-Abdeckung nutzen wir einen Teil deiner Internetverbindung, um sicheren Zugang zum Freifunk-Netz zu etablieren. Mit zunehmendem Ausbau des Netzes wird sich dein Accesspoint zu benachbarten Knoten verbinden. Verbindungen werden dann zunehmend über das Mesh-Netz geleitet.</p>
+				</section>
+			</div>
+		</section>
+    </section>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
