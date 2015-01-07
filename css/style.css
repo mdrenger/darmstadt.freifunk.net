@@ -557,27 +557,27 @@
 				font-size: 2.5em;
 			}
 
-			.icon.major.accent1 {
+			.accent1 {
 				background: #666;
 				color: #ffffff;
 			}
 
-			.icon.major.accent2 {
+			.accent2 {
 				background: #dc0067;
 				color: #ffffff;
 			}
 
-			.icon.major.accent3 {
+			.accent3 {
 				background: #ffb400;
 				color: #ffffff;
 			}
 
-			.icon.major.accent4 {
+			.accent4 {
 				background: #009ee0;
 				color: #ffffff;
 			}
 
-			.icon.major.accent5 {
+			.accent5 {
 				background: #111111;
 				color: #ffffff;
 			}
