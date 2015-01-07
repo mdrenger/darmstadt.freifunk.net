@@ -17,28 +17,31 @@ top_url: /aktuell/
 			<h2 class="post-title">{{ page.title }}</h2>
 		</header>
 		
-		<section id="box special">
+		<section id="box">
 			Stuff to put here:
 
 			* current nr of nodes & clients
 			* stats from the last week
 			* [live network view](http://map.freifunk-darmstadt.de)
 		</section>
+		
+		<div class="row">
+			<div class="12u">
+				{% for post in site.posts %}
 
-		{% for post in site.posts %}
-		<div class="box">
-				<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+				<div class="box">
+						<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-				<h3>
-				  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-				</h3>
-				
-				{{ post.content }}
+						<h3>
+						  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+						</h3>
+						
+						{{ post.content }}
+				</div>
+				{% endfor %}
+			<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+			</div>
 		</div>
-		{% endfor %}
-
-		  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
     </section>
 
     {% include footer.html %}
