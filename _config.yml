@@ -11,5 +11,3 @@ github_username:  freifunk-darmstadt
 
 # Build settings
 markdown: kramdown
-sass:
-	sass_dir: _sass
