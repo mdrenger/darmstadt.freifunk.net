@@ -37,7 +37,7 @@ top_url: /aktuell/
 				  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 				</h3>
 				
-				{{ content }}
+				{{ post.content }}
 		</div>
 		{% endfor %}
 
