@@ -11,8 +11,8 @@
 		<h2>{{ site.title }}</h2>
 		<p>{{ site.tagline }}</p>
 		<ul class="actions">
+			<li><a href="#" class="button">Wo gibt es schon überall<br/>Freifunk in Darmstadt?</a></li>
 			<li><a href="#" class="button special">Mach mit!</a></li>
-			<li><a href="#" class="button">Wo gibt es schon überall Freifunk?</a></li>
 		</ul>
 	</section>
 			
@@ -20,10 +20,35 @@
 		<section class="box special">
 			<header class="major">
 				<h2>{{ site.description }}</h2>
-				<p>foo</p>
+				<p>Next meeting:</p>
 			</header>
-
-			{{ site.description }}
+		</section>
+		<section class="box special features">
+			<header><h2>Freifunk ist…</h2></header>
+			<div class="features-row">
+				<section>
+					<span class="icon major fa-bolt accent2"></span>
+					<h3>…öffentlich und nicht kommerziell</h3>
+					<p>Die Idee von Freifunk ist es, mittels handelsüblicher WLAN-Accesspoints ein unabhängiges, stadtübergreifendes Netzwerk aufzubauen. Idealerweise können alle Knoten im Netzwerk miteinander kommunizieren, auch wenn diese über keine direkte Internetverbindung verfügen. Um dies zu erreichen, benötigen wir deine Unterstützung!</p>
+				</section>
+				<section>
+					<span class="icon major fa-area-chart accent3"></span>
+					<h3>…gemeinschaftlich betrieben</h3>
+					<p>Jeder mit einem WLAN-fähigen Gerät kann am Netzwerk teilnehmen, und es sogar selbst unterstützen. Mit einem eigenen Accesspoint kannst du das Netz erweitern und stabilisieren, sowie einen Internet-Hotspot für alle bereitstellen.</p>
+				</section>
+			</div>
+			<div class="features-row">
+				<section>
+					<span class="icon major fa-cloud accent4"></span>
+					<h3>… anonym zugänglich und trotzdem legal</h3>
+					<p>Freifunk ist ein offenes Netz, ohne jegliche Schlüssel, Passwörter oder Registrierungsformulare. Du musst trotzdem keine Angst vor der Störerhaftung haben: Um jeglichen rechtlichen Problemen aus dem Weg zu gehen, wird der Internetverkehr von uns über ein VPN abgewickelt.</p>
+				</section>
+				<section>
+					<span class="icon major fa-lock accent5"></span>
+					<h3>… dezentral organisiert</h3>
+					<p>In Gebieten mit geringer Freifunk-Abdeckung nutzen wir einen Teil deiner Internetverbindung, um sicheren Zugang zum Freifunk-Netz zu etablieren. Mit zunehmendem Ausbau des Netzes wird sich dein Accesspoint zu benachbarten Knoten verbinden. Verbindungen werden dann zunehmend über das Mesh-Netz geleitet.</p>
+				</section>
+			</div>
 		</section>
 		<section>
 			{{ content }}
