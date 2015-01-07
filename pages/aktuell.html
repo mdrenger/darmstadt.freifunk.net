@@ -1,11 +1,25 @@
 ---
 title: Aktuell
-layout: page
+layout: 
 main_menu: true
 weight: 5
 permalink: /aktuell/
 top_url: /aktuell/
 ---
+
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+	<section id="main" class="container">
+		<header>
+			<h1 class="post-title">{{ page.title }}</h1>
+		</header>
 
 <div class="box">
 Stuff to put here:
@@ -34,3 +48,13 @@ Stuff to put here:
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
+
+
+		
+    </section>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
