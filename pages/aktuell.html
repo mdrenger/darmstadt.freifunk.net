@@ -18,13 +18,6 @@ top_url: /aktuell/
 		</header>
 		
 		<div class="row">
-			<div class="4u 12u(3)">
-			Stuff to put here:
-
-			* current nr of nodes & clients
-			* stats from the last week
-			* [live network view](http://map.freifunk-darmstadt.de)
-			</div>
 			<div class="8u 12u(3)">
 				{% for post in site.posts %}
 
@@ -39,6 +32,13 @@ top_url: /aktuell/
 				</div>
 				{% endfor %}
 			<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+			</div>
+			<div class="4u 12u(3)">
+				Stuff to put here:
+
+				* current nr of nodes & clients
+				* stats from the last week
+				* [live network view](http://map.freifunk-darmstadt.de)
 			</div>
 		</div>
     </section>
