@@ -18,39 +18,32 @@ top_url: /aktuell/
 
 	<section id="main" class="container">
 		<header>
-			<h1 class="post-title">{{ page.title }}</h1>
+			<h2 class="post-title">{{ page.title }}</h1>
 		</header>
 
-<div class="box">
-Stuff to put here:
+		<div class="box">
+		Stuff to put here:
 
-* current nr of nodes & clients
-* stats from the last week
-* [live network view](http://map.freifunk-darmstadt.de)
-</div>
+		* current nr of nodes & clients
+		* stats from the last week
+		* [live network view](http://map.freifunk-darmstadt.de)
+		</div>
 
-<div class="box">
+		{% for post in site.posts %}
+		<div class="box">
+				<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-  <h2>Posts</h2>
+				<h3>
+				  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+				</h3>
+				
+				{{ content }}
+		</div>
+		{% endfor %}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+		  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-        <h3>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
-
-
-		
+		</div>
     </section>
 
     {% include footer.html %}
