@@ -2,10 +2,27 @@
 layout: default
 ---
 
-  <header>
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+<!DOCTYPE html>
+<html>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+	<section id="main" class="container">
+		<header>
+			<h1 class="post-title">{{ page.title }}</h1>
+		</header>
+
+		<article class="post-content">
+			{{ content }}
+		</article>
+    </section>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
