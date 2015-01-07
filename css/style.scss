@@ -3,11 +3,10 @@
 @import 'vars';
 @import 'mixins';
 @import 'font-awesome.min.css';
-@import url('http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic');
+@import url('http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic|Roboto+Slab');
 
 /*
-	Alpha by HTML5 UP
-	html5up.net | @n33co
+	Based on Alpha by HTML5 UP (html5up.net | @n33co)
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
@@ -612,7 +611,7 @@
 
 	ul {
 		list-style: disc;
-		margin: 0 0 $size-element-margin 0;
+		margin: $size-element-margin 0 $size-element-margin 0;
 		padding-left: 1em;
 
 		li {
@@ -900,6 +899,19 @@
 			}
 		}
 		
+		&.altspecial {
+			background-color: $color-accent4-bg;
+			color: $color-accent4-fg-bold !important;
+			
+			&:hover {
+				background-color: lighten($color-accent4-bg, 5);
+			}
+			
+			&:active {
+				background-color: darken($color-accent4-bg, 5);
+			}
+		}
+		
 		&.disabled,
 		&:disabled {
 			background-color: $color-fg !important;
@@ -940,6 +952,7 @@
 		z-index: 10000;
 		
 		h1 {
+			font-family: "Roboto Slab";
 			color: inherit;
 			height: inherit;
 			left: 1.25em;
@@ -1162,8 +1175,9 @@
 		background-repeat:		repeat,							no-repeat;
 		background-size:		auto,							cover;
 		color: #fff;
-		padding: 12em 0 20em 0;
+		padding: 10em 0 15em 0;
 		text-align: center;
+		text-shadow: 3px 3px $color-header-fg-light;
 		
 		:last-child {
 			margin-bottom: 0;
@@ -1174,6 +1188,7 @@
 		}
 		
 		h2 {
+			font-family: "Roboto Slab";
 			font-size: 4em;
 			font-weight: $font-weight-bold;
 			line-height: 1em;
