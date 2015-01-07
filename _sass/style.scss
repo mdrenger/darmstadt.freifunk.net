@@ -1181,6 +1181,7 @@
 		
 		p {
 			font-size: 1.25em;
+			font-weight: $font-weight-bold;
 			margin-bottom: 1.75em;
 		}
 
@@ -1191,6 +1192,7 @@
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px rgba(255,255,255,0.5);
 			color: #fff;
+			font-weight: $font-weight-bold;
 			min-width: 12em;
 
 			&:hover {
