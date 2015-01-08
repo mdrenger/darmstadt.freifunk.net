@@ -7,11 +7,10 @@ permalink: /impressum/
 top_url: /impressum/
 ---
 
-<address>
-	<strong>Projekt Freifunk Darmstadt<br/>
-	Hochschulgruppe Chaos Darmstadt e.V.</strong><br/>
-	Wilhelm-Leuschner-Strasse 36, im Hinterhof<br/>
-	64293 Darmstadt
-</address>
+Freifunk Darmstadt ist ein Projekt der Hochschulgruppe Chaos Darmstadt. e.V.
 
-Die Hochschulgruppe [Chaos Darmstadt e. V.](http://chaos-darmstadt.de/) ist im Vereinsregister des Amtsgerichts Darmstadt unter der Vereinregisternummer 3413 eingetragen.
+> *Chaos Darmstadt e.V.*  
+> Wilhelm-Leuschner-Strasse 36, im Hinterhof  
+> 64293 Darmstadt
+
+[Chaos Darmstadt e. V.](http://chaos-darmstadt.de/) ist im Vereinsregister des Amtsgerichts Darmstadt unter der Vereinregisternummer 3413 eingetragen.
