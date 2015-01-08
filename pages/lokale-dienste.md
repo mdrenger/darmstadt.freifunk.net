@@ -1,5 +1,5 @@
 ---
-title: Lokale dienste
+title: Lokale Dienste
 permalink: /lokale-dienste/
 top_url: /lokale-dienste/
 main_menu: true
