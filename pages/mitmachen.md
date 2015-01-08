@@ -67,23 +67,3 @@ So kannst du mitmachen:
 
 Um uns weiter zu unterstützen, kannst du auch [Dienste im Netzwerk zur Verfügung stellen](/dienste-anbieten/), oder, wenn du nicht technisch versiert bist, uns helfen Werbematerial zu gestalten sowie Pressearbeit zu übernehmen. Spenden helfen uns zudem unser Werbematerial zu finanzieren.
 
-### Keep in touch
-
-
-Wir freuen uns auf deinen Besuch bei unserem [nächsten Treffen](/kontakt/) oder abonniere die Mailingliste um zum Projekt beizutragen. TODO: I'd say to follow the ML to stay up-to-date with what's going on - although that happens more in RL meetings (and we should be using Twitter more)
-
-### Spenden
-
-
-State the destination of the donations: long-range&amp;sector antennas and other infrastructure (VPN, evtl. servers)
-
-Spenden bitte mit dem <strong>Verwendungszweck "Freifunk Darmstadt"</strong> an:
-
-<address>
-Chaos Darmstadt e.V.
-Kontonummer: 711853
-BLZ: 50850150
-Bank: Sparkasse Darmstadt
-IBAN: DE96508501500000711853
-BIC: HELADEF1DAS
-</address>

@@ -7,42 +7,23 @@ weight: 4
 layout: page
 ---
 
-
-### Angebotene Dienste
-
-
-* [Mumble](/lokale-dienste/mumble/)
+### Keep in touch
 
 
-### Dienste anbieten
+Wir freuen uns auf deinen Besuch bei unserem [nächsten Treffen](/kontakt/) oder abonniere die Mailingliste um zum Projekt beizutragen. TODO: I'd say to follow the ML to stay up-to-date with what's going on - although that happens more in RL meetings (and we should be using Twitter more)
 
-It is our goal to build the infrastructure to provide useful services to our community. Since this network also belongs to you, you can contribute to it by running services that everyone can use.
-
-Read below to find out more, and feel free to [contact us](/kontakt/) if you have questions.
-
-#### What kind of services can I offer?
-
-Yadda yadda...
-
-#### How do I offer a service
+### Spenden
 
 
-Yadda yadda...
+State the destination of the donations: long-range&amp;sector antennas and other infrastructure (VPN, evtl. servers)
 
-#### What kind of services are needed at the moment?
+Spenden bitte mit dem <strong>Verwendungszweck "Freifunk Darmstadt"</strong> an:
 
-Intro here...
-
-Ideen:
-
-* IRC Server
-* Jabber Server
-* [Bittorrent Bleep](http://labs.bittorrent.com/bleep/index.html)
-* eine (micro)blogging Platform
-* Suchmaschine
-* Torrent Tracker
-* ein [NetHack](http://www.nethack.org/common/index.html) Spiel-Server (siehe [Freifunk Lübeck](http://luebeck.freifunk.net/wiki/NetHack))
-* Übersichtsseite / Splashpage
-* kune.cc (Apache Wave, ehemals Google)
-* ein Online-Radio (siehe [Demovibes](https://gitorious.org/demovibes)
-* ...
+<address>
+Chaos Darmstadt e.V.
+Kontonummer: 711853
+BLZ: 50850150
+Bank: Sparkasse Darmstadt
+IBAN: DE96508501500000711853
+BIC: HELADEF1DAS
+</address>
