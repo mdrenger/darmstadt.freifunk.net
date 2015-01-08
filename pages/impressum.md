@@ -21,17 +21,18 @@ Freifunk Darmstadt ist ein Projekt der Hochschulgruppe [Chaos Darmstadt e. V.](h
 Chaos Darmstadt e.V. ist ein gemeinnütziges Verein, das sich ausschließlich über Mitgliedsbeiträge und Spenden finanziert.
 
 Monthly we have following expenses:
- - VPN - 6€
- - ???
+
+- VPN - 6€  
+- ???
  
  Additionally we need to buy test hardware and long-range directed antennas to connect the network.
 
 Wir freuen uns deswegen über Spenden:
 
-> Chaos Darmstadt e.V.  
+> Chaos Darmstadt e.V.
+> Bank: Sparkasse Darmstadt
 > IBAN: DE96508501500000711853  
 > BIC: HELADEF1DAS 
-> Bank: Sparkasse Darmstadt  
 > Verwendungszweck: Freifunk Darmstadt
 
 Eine Spendenquittung kann selbstverständlich auf Nachfrage ausgestellt werden.
