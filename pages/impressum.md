@@ -18,7 +18,15 @@ Freifunk Darmstadt ist ein Projekt der Hochschulgruppe [Chaos Darmstadt e. V.](h
 
 ### Spenden
 
-Chaos Darmstadt e.V. ist ein gemeinnütziges Verein, das sich ausschließlich über Mitgliedsbeiträge und Spenden finanziert. Die Kosten für Freifunk-Infrastruktur wurden bis jetzt von der Freifunk Darmstadt-Gruppe persönlich getragen. Wir freuen uns deswegen über Spenden:
+Chaos Darmstadt e.V. ist ein gemeinnütziges Verein, das sich ausschließlich über Mitgliedsbeiträge und Spenden finanziert.
+
+Monthly we have following expenses:
+ - VPN - 6€
+ - ???
+ 
+ Additionally we need to buy test hardware and long-range directed antennas to connect the network.
+
+Wir freuen uns deswegen über Spenden:
 
 > Chaos Darmstadt e.V.  
 > Kontonummer: 711853  
