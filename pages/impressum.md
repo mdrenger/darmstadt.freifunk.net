@@ -29,11 +29,9 @@ Monthly we have following expenses:
 Wir freuen uns deswegen über Spenden:
 
 > Chaos Darmstadt e.V.  
-> Kontonummer: 711853  
-> BLZ: 50850150  
-> Bank: Sparkasse Darmstadt  
 > IBAN: DE96508501500000711853  
-> BIC: HELADEF1DAS  
+> BIC: HELADEF1DAS 
+> Bank: Sparkasse Darmstadt  
 > Verwendungszweck: Freifunk Darmstadt
 
 Eine Spendenquittung kann selbstverständlich auf Nachfrage ausgestellt werden.
