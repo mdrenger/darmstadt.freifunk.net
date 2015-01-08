@@ -10,7 +10,8 @@ top_url: /aktuell/
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  <body>
+
+  <body onLoad="$('#map').load('http://map.darmstadt.freifunk.net#map');">
     {% include header.html %}
     <section id="main" class="container">
 		<header>
@@ -34,7 +35,7 @@ top_url: /aktuell/
 			<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 			</div>
 			<div class="4u 12u(3)">
-				<div><iframe src="http://map.darmstadt.freifunk.net#map" style="width:100%; height:200px; top:-60px"></iframe></div>
+				<div style="width:100%; height:200px; top:-60px"></div>
 				
 				Stuff to put here:
 
