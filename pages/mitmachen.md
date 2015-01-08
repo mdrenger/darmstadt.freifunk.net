@@ -5,6 +5,8 @@ layout: page
 main_menu: true
 weight: 2
 top_url: /mitmachen/
+sub_menu: true
+sub_weight: 1
 ---
 
 ### Unterstütze dein lokales Freifunk-Netz!
