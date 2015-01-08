@@ -957,7 +957,7 @@
 		z-index: 10000;
 		
 		h1 {
-			font-family: "Roboto Slab";
+			font-family: $fancy-font;
 			color: inherit;
 			height: inherit;
 			left: 1.25em;
@@ -1193,7 +1193,7 @@
 		}
 		
 		h2 {
-			font-family: "Roboto Slab";
+			font-family: $fancy-font;
 			font-size: 4em;
 			font-weight: $font-weight-bold;
 			line-height: 1em;
@@ -1314,17 +1314,18 @@
 		}
 	}
 
-/* CTA */
+/* stripe */
 
-	#cta {
+	#stripe {
 		background: $color-accent3-bg;
-		color: $color-accent3-fg;
+		color: #fff;
 		margin: 0;
-		padding: 3.5em 0 4em 0;
+		padding: 3.5em 0 3em 0;
 		text-align: center;
 
 		h2, h3, h4, h5, h6 {
-			color: inherit;
+			color: $color-accent3-fg;
+			font-family: $fancy-font;
 		}
 	
 		form {
