@@ -8,9 +8,7 @@ top_url: /impressum/
 ---
 
 Freifunk Darmstadt ist ein Projekt der Hochschulgruppe Chaos Darmstadt. e.V.
-
 > *Chaos Darmstadt e.V.*  
 > Wilhelm-Leuschner-Strasse 36, im Hinterhof  
 > 64293 Darmstadt
-
 [Chaos Darmstadt e. V.](http://chaos-darmstadt.de/) ist im Vereinsregister des Amtsgerichts Darmstadt unter der Vereinregisternummer 3413 eingetragen.
