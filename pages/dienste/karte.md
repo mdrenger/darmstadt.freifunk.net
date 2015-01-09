@@ -1,7 +1,7 @@
 ---
-title: Cats
+title: Freifunk Karte
 layout: page
-permalink: /lokale-dienste/cats/
+permalink: /lokale-dienste/karte/
 sub_menu: true
 top_url: /lokale-dienste/
 sub_weight: 3
