@@ -19,7 +19,7 @@ Required steps:
 	<div class="4u 12u(2)">
 
 		<section class="box special">
-			<span class="image featured"><img src="images/get.png" alt="" /></span>
+			<span class="image featured"><img src="../images/get.png" alt="" /></span>
 			<h3>1. Get a compatible router</h3>
 			<p>The model will depend on the number of expected users, location, etc.</p>
 			<ul class="actions">
@@ -31,7 +31,7 @@ Required steps:
 	<div class="4u 12u(2)">
 
 		<section class="box special">
-			<span class="image featured"><img src="images/install.png" alt="" /></span>
+			<span class="image featured"><img src="../images/install.png" alt="" /></span>
 			<h3>2. Install the firmware</h3>
 			<p>We can help with this.</p>
 			<ul class="actions">
@@ -43,7 +43,7 @@ Required steps:
 	<div class="4u 12u(2)">
 
 		<section class="box special">
-			<span class="image featured"><img src="images/setup.png" alt="" /></span>
+			<span class="image featured"><img src="../images/setup.png" alt="" /></span>
 			<h3>3. Connect the router</h3>
 			<p>Place the router in a place where it can be reached by end devices and other nodes.</p>
 			<ul class="actions">
