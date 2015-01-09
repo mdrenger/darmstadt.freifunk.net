@@ -1,15 +1,11 @@
 ---
-title: Freifunk-Router betreiben
+title: Fragen? Antworten!
 layout: page
 sub_menu: true
 top_url: /mitmachen/
-sub_weight: 2
-permalink: /mitmachen/router-betreiben/
+sub_weight: 5
+permalink: /mitmachen/faq/
 ---
-
-
-
-## Weitere Informationen und Hinweise
 
 ### Wo stehen schon Freifunk-Router?
 

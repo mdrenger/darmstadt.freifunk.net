@@ -1,6 +1,9 @@
 ---
 title: Firmware installieren
 layout: page
+sub_menu: true
+top_url: /mitmachen/
+sub_weight: 3
 permalink: /mitmachen/router-betreiben/firmware-installieren/
 ---
 

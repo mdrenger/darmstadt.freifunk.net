@@ -1,7 +1,10 @@
 ---
 title: Freifunk-Router einrichten
 layout: page
-permalink: /mitmachen/router-betreiben/router-einrichten/
+sub_menu: true
+top_url: /mitmachen/
+sub_weight: 4
+permalink: /mitmachen/router-einrichten/
 ---
 
 

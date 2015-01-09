@@ -1,7 +1,10 @@
 ---
 title: Unterstützte Geräte
 layout: page
-permalink: /mitmachen/router-betreiben/unterstuetzte-geraete/
+sub_menu: true
+top_url: /mitmachen/
+sub_weight: 2
+permalink: /mitmachen/unterstuetzte-geraete/
 ---
 
 Es gibt im Grunde drei Wege um am Freifunknetz teilzunehmen:
