@@ -21,7 +21,7 @@ Required steps:
 		<section class="box">
 			<span class="image featured"><img src="../images/get.png" alt="" /></span>
 			<ul class="actions">
-				<li><a href="/mitmachen/unterstuetzte-geraete/" class="button">1. Get a compatible router</a></li>
+				<li><a href="/mitmachen/unterstuetzte-geraete/" class="button accent2">1. Get a compatible router</a></li>
 			</ul>
 		</section>
 		
@@ -31,7 +31,7 @@ Required steps:
 		<section class="box">
 			<span class="image featured"><img src="../images/install.png" alt="" /></span>
 			<ul class="actions">
-				<li><a href="/mitmachen/firmware-installieren/" class="button">2. Install the firmware</a></li>
+				<li><a href="/mitmachen/firmware-installieren/" class="button accent3">2. Install the firmware</a></li>
 			</ul>
 		</section>
 
@@ -41,7 +41,7 @@ Required steps:
 		<section class="box">
 			<span class="image featured"><img src="../images/setup.png" alt="" /></span>
 			<ul class="actions">
-				<li><a href="/mitmachen/router-aufstellen/" class="button alt">3. Connect the router</a></li>
+				<li><a href="/mitmachen/router-aufstellen/" class="button  accent4">3. Connect the router</a></li>
 			</ul>
 		</section>
 
