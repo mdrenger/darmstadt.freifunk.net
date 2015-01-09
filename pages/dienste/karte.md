@@ -9,6 +9,6 @@ sub_weight: 3
 
 The map is accessible both from inside the Freifunk network via [http://map.ffda](http://map.ffda) or from the outside via [http://map.freifunk-darmstadt.de](http://map.freifunk-darmstadt.de).
 
-<div>
+<div style="width:100%; height:600px; overflow:hidden; position: relative">
 <iframe src="http://map.darmstadt.freifunk.net" style="position:absolute; width:100%; height:600px; top:-30px"></iframe>
 </div>
