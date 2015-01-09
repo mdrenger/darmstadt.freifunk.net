@@ -20,7 +20,7 @@ Required steps:
 
 		<section class="box special">
 			<span class="image featured"><img src="../images/get.png" alt="" /></span>
-			<h4>1. Get a compatible router</h34>
+			<h4>1. Get a compatible router</h4>
 			<p>The model will depend on the number of expected users, location, etc.</p>
 			<ul class="actions">
 				<li><a href="/mitmachen/unterstuetzte-geraete/" class="button alt">Instructions</a></li>
