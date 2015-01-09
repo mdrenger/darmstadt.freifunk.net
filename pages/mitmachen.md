@@ -22,6 +22,7 @@ Required steps:
 
 <div class="row">
 	<div class="4u 12u(3)">
+	
 		#### Starter-Kit
 
 		Wohnung, Geschäft, Café, Restaurant, Bar
@@ -38,6 +39,7 @@ Required steps:
 		3. Stelle den Router an einem geeigneten Ort auf (z.B. Fensterbank).  
 	</div>
 	<div class="4u 12u(3)">
+	
 		#### Level 2
 
 
@@ -57,6 +59,7 @@ Required steps:
 			* NanoStation M5/M5 loco (5 GHz)
 	</div>
 	<div class="4u 12u(3)">
+	
 		#### Backbone
 
 		Dach, Dachgeschoss, hohes Gebäude, öffentliches Gebäude, Rathaus, Kirchturm
@@ -73,6 +76,7 @@ Required steps:
 		2. Richtfunkstrecken bedürfen der Planung beider Endpunkte
 	</div>
 </div>
+
 ### Wie kann ich weiter helfen?
 
 
