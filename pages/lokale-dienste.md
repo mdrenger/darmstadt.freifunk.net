@@ -16,6 +16,8 @@ sub_weight: 1
 * [Freifunk Karte](/lokale-dienste/karte)
 * [Cats](/lokale-dients/cats/)
 
+* * *
+
 ### Dienste anbieten
 
 It is our goal to build the infrastructure to provide useful services to our community. Since this network also belongs to you, you can contribute to it by running services that everyone can use.
