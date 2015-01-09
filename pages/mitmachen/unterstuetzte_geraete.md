@@ -18,7 +18,7 @@ Wenn du ein Gerät schon hast, oder selber kaufen willst, überprüfe ob Firmwar
 Depending on the purpose of the node, we support different models:
 
 ### Starter-Kit
-Wohnung, Geschäft, Café, Restaurant, Bar
+<p class="sub">Wohnung, Geschäft, Café, Restaurant, Bar</p>
 
 Du möchtest:
 
@@ -26,12 +26,11 @@ Du möchtest:
 * deinen Internet-Anschluss freigeben
 * den ersten Freifunk-Router in deiner Umgebung aufstellen
 
- * foo 
- * bar
+* foo 
+* bar
 
 ### Level 2
-
-Balkon, hohes Gebäude, öffentlicher Platz, Park, weitläufiges Gelände
+<p class="sub">Balkon, hohes Gebäude, öffentlicher Platz, Park, weitläufiges Gelände</p>
 
 Du möchtest:
 
@@ -41,17 +40,18 @@ Du möchtest:
 
 Dann besorge einen Freifunk-fähigen Outdoor-Router. Empfehlungen:
 
-	* NanoStation M2/M2 loco (2.4 GHz)
-	* NanoStation M5/M5 loco (5 GHz)
+* NanoStation M2/M2 loco (2.4 GHz)
+* NanoStation M5/M5 loco (5 GHz)
 	
 ### Backbone
-
-Dach, Dachgeschoss, hohes Gebäude, öffentliches Gebäude, Rathaus, Kirchturm
+<p class="sub">Dach, Dachgeschoss, hohes Gebäude, öffentliches Gebäude, Rathaus, Kirchturm</p>
 
 Du möchtest:
+
 * das "Rückgrat" des Freifunk-Netzes stärken, indem du stabile Richtfunk-Verbindungen zu weit entfernten Freifunk-Routern aufbaust (bis ~10km). Für stabile Verbindungen wird eine freie Sicht zum entfernten Router benötigt.
 
 Besorge mehrere Outdoor-Router für den 5 GHz Bereich. Empfehlungen:
+
 * NanoStation M5 (bis ~5 km)
 * NanoBridge M5 (bis ~10 km)
 
