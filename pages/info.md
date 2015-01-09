@@ -1,5 +1,5 @@
 ---
-title: Wie funtkioniert Freifunk?
+title: Wie funktioniert Freifunk?
 permalink: /wie/
 layout: page
 main_menu: true
