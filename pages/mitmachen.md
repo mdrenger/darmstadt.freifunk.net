@@ -20,7 +20,7 @@ Required steps:
 
 		<section class="box special">
 			<span class="image featured"><img src="../images/get.png" alt="" /></span>
-			<h4>1. Get a compatible router</h3>
+			<h4>1. Get a compatible router</h34>
 			<p>The model will depend on the number of expected users, location, etc.</p>
 			<ul class="actions">
 				<li><a href="/mitmachen/unterstuetzte-geraete/" class="button alt">Instructions</a></li>
@@ -32,7 +32,7 @@ Required steps:
 
 		<section class="box special">
 			<span class="image featured"><img src="../images/install.png" alt="" /></span>
-			<h4>2. Install the firmware</h3>
+			<h4>2. Install the firmware</h4>
 			<p>We can help with this.</p>
 			<ul class="actions">
 				<li><a href="/mitmachen/firmware-installieren/" class="button alt">Instructions</a></li>
@@ -44,7 +44,7 @@ Required steps:
 
 		<section class="box special">
 			<span class="image featured"><img src="../images/setup.png" alt="" /></span>
-			<h4>3. Connect the router</h3>
+			<h4>3. Connect the router</h4>
 			<p>Place the router in a place where it can be reached by end devices and other nodes.</p>
 			<ul class="actions">
 				<li><a href="/mitmachen/router-aufstellen/" class="button alt">Instructions</a></li>
