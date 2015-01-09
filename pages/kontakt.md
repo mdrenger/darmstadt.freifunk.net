@@ -3,7 +3,7 @@ title: Kontakt
 permalink: /kontakt/
 top_url: /kontakt/
 main_menu: true
-weight: 4
+weight: 5
 layout: page
 ---
 
