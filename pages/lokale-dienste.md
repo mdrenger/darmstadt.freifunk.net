@@ -14,7 +14,7 @@ sub_weight: 1
 ### Angebotene Dienste
 
 * [Mumble](/lokale-dienste/mumble/)
-* [Freifunk Karte](/kokale-dienste/karte)
+* [Freifunk Karte](/lokale-dienste/karte)
 * [Cats](/lokale-dients/cats/)
 
 </div>
