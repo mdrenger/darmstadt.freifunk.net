@@ -11,4 +11,3 @@ github_username:  freifunk-darmstadt
 
 # Build settings
 markdown: kramdown
-excerpt_separator: "\n\n"
