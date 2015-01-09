@@ -4,7 +4,7 @@ layout: page
 sub_menu: true
 top_url: /mitmachen/
 sub_weight: 3
-permalink: /mitmachen/router-betreiben/firmware-installieren/
+permalink: /mitmachen/firmware-installieren/
 ---
 
 Question: is it exactly like this for all router models? Besides, some users might have routers with other firmwares. Write something like "we assume that..." just in case.
@@ -38,9 +38,9 @@ Nach dem Neustart solltest du eine neue IP-Adresse zugwiesen bekommen haben. Der
 4. Gib deine E-Mail Adresse als Kontaktmöglichkeit an. Deine Adresse wird zu nichts anderem als zur zweckmäßigen Kontaktaufnahme genutzt. Es erfolgt niemals eine Weitergabe außerhalb des Freifunk Darmstadt Projektes.
 5. Klicke auf `Speichern und Neustarten`. Nun wird der Browser den von dir gewählten Namen erneut anzeigen, sowie seinen Schlüssel für den sicheren VPN-Zugang:  
 	> #node-name  
-	> key "node-key";  
+	> key "node-key";
 	
-    Beide Zeilen sendest du bitte per E-Mail an [keys@freifunk-darmstadt.de](mailto:keys@freifunk-darmstadt.de).
+Beide Zeilen sendest du bitte per E-Mail an [keys@freifunk-darmstadt.de](mailto:keys@freifunk-darmstadt.de).
     
 Dein Schlüssel wird nun zeitnah eingetragen, woraufhin du eine Rückmeldung nach der Bearbeitung erhältst.
 
