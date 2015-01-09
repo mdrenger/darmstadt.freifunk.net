@@ -7,4 +7,4 @@ top_url: /lokale-dienste/
 sub_weight: 3
 ---
 
-Wir haben [Kadsen](http://cats.ffda/)!!
+Es gibt [Kadsen](http://cats.ffda/)!!
