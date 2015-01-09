@@ -48,7 +48,7 @@
 	p {
 		margin: 0 0 $size-element-margin 0;
 			
-		.sub {
+		&.sub {
 			margin-top: - 0.5em;
 			font-style: italic;
 		}
