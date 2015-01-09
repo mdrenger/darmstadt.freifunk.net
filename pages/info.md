@@ -5,8 +5,7 @@ layout: page
 main_menu: true
 weight: 4
 top_url: /wie/
-sub_menu: true
-sub_weight: 1
 ---
 
 
+lalala
