@@ -41,7 +41,7 @@ Required steps:
 		<section class="box">
 			<span class="image featured"><img src="../images/setup.png" alt="" /></span>
 			<ul class="actions">
-				<li><a href="/mitmachen/router-aufstellen/" class="button  accent4">3. Connect the router</a></li>
+				<li><a href="/mitmachen/router-aufstellen/" class="button accent4">3. Connect the router</a></li>
 			</ul>
 		</section>
 
