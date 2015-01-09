@@ -10,12 +10,16 @@ sub_weight: 1
 ---
 
 
+<div class="box">
 ### Angebotene Dienste
 
-
 * [Mumble](/lokale-dienste/mumble/)
+* [Freifunk Karte](/kokale-dienste/karte)
+* [Cats](/lokale-dients/cats/)
 
+</div>
 
+<div class="box">
 ### Dienste anbieten
 
 It is our goal to build the infrastructure to provide useful services to our community. Since this network also belongs to you, you can contribute to it by running services that everyone can use.
@@ -48,3 +52,4 @@ Ideen:
 * kune.cc (Apache Wave, ehemals Google)
 * ein Online-Radio (siehe [Demovibes](https://gitorious.org/demovibes)
 * ...
+</div>
