@@ -1319,8 +1319,8 @@
 	#stripe {
 		background: $color-accent3-bg;
 		color: #fff;
-		margin: 0 0 $size-element-height 0;
-		padding: 3em 1em 3em 1em;
+		margin: -$size-element-height 0 $size-element-height 0;
+		padding: 3em 3em 3em 3em;
 		text-align: center;
 		font-size: 1.2em;
 
