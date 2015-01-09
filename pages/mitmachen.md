@@ -13,57 +13,66 @@ sub_weight: 1
 
 Du kannst bei Freifunk-Darmstadt mitmachen, indem du [einen oder mehrere Knoten aufsetzt](/router-aufstellen/). Ein Knoten ist...
 
-Explain the 3 categories and ask to see below.
+Required steps:
 
-#### Starter-Kit
-
-Wohnung, Geschäft, Café, Restaurant, Bar
-
-Du möchtest:
-
-* dich mit dem Freifunk-Netz in deiner Nachbarschaft verbinden
-* deinen Internet-Anschluss freigeben
-* den ersten Freifunk-Router in deiner Umgebung aufstellen
-
-So kannst du mitmachen:
-1. Besorge [einen Freifunk-fähigen Router](/router-aufstellen/).
-2. Installiere und konfiguriere die [Freifunk-Firmware](/firmware-installieren/). Wir helfen dir gerne dabei.
-3. Stelle den Router an einem geeigneten Ort auf (z.B. Fensterbank).
-
-#### Level 2
+1. [get a compatible router](/mitmachen/unterstuetzte-geraete/)
+2. [proceed to the firmware installation](/mitmachen/firmware-installieren/)
+3. [connect and set up the router](/mitmachen/router-aufstellen/)
 
 
-Balkon, hohes Gebäude, öffentlicher Platz, Park, weitläufiges Gelände
+<div class="row">
+	<div class="4u 12u(3)">
+		#### Starter-Kit
 
-Du möchtest:
+		Wohnung, Geschäft, Café, Restaurant, Bar
 
-* das Freifunk-Netz auf ein größeres Gebiet erweitern. Dazu eignen sich insbesondere höher gelegene Standorte (z.B. Balkone oder Dächer)
-* eine Verbindung zu einem weiter entfernten (bis ~5km) Freifunk-Router herstellen. Für stabile Verbindungen wird eine freie Sicht zum entfernten Router benötigt.
+		Du möchtest:
+
+		* dich mit dem Freifunk-Netz in deiner Nachbarschaft verbinden
+		* deinen Internet-Anschluss freigeben
+		* den ersten Freifunk-Router in deiner Umgebung aufstellen
+
+		So kannst du mitmachen:  
+		1. Besorge [einen Freifunk-fähigen Router](/router-aufstellen/).  
+		2. Installiere und konfiguriere die [Freifunk-Firmware](/firmware-installieren/). Wir helfen dir gerne dabei.  
+		3. Stelle den Router an einem geeigneten Ort auf (z.B. Fensterbank).  
+	</div>
+	<div class="4u 12u(3)">
+		#### Level 2
 
 
-So kannst du mitmachen:
+		Balkon, hohes Gebäude, öffentlicher Platz, Park, weitläufiges Gelände
 
-1. Besorge einen Freifunk-fähigen Outdoor-Router. Empfehlungen:
+		Du möchtest:
 
-	* NanoStation M2/M2 loco (2.4 GHz)
-	* NanoStation M5/M5 loco (5 GHz)
+		* das Freifunk-Netz auf ein größeres Gebiet erweitern. Dazu eignen sich insbesondere höher gelegene Standorte (z.B. Balkone oder Dächer)
+		* eine Verbindung zu einem weiter entfernten (bis ~5km) Freifunk-Router herstellen. Für stabile Verbindungen wird eine freie Sicht zum entfernten Router benötigt.
 
 
-#### Backbone
+		So kannst du mitmachen:
 
-Dach, Dachgeschoss, hohes Gebäude, öffentliches Gebäude, Rathaus, Kirchturm
+		1. Besorge einen Freifunk-fähigen Outdoor-Router. Empfehlungen:
 
-Du möchtest:
+			* NanoStation M2/M2 loco (2.4 GHz)
+			* NanoStation M5/M5 loco (5 GHz)
+	</div>
+	<div class="4u 12u(3)">
+		#### Backbone
 
-* das "Rückgrat" des Freifunk-Netzes stärken, indem du stabile Richtfunk-Verbindungen zu weit entfernten Freifunk-Routern aufbaust (bis ~10km). Für stabile Verbindungen wird eine freie Sicht zum entfernten Router benötigt.
+		Dach, Dachgeschoss, hohes Gebäude, öffentliches Gebäude, Rathaus, Kirchturm
 
-So kannst du mitmachen:
+		Du möchtest:
 
-1. Besorge mehrere Outdoor-Router für den 5 GHz Bereich. Empfehlungen:
-	* NanoStation M5 (bis ~5 km)
-	* NanoBridge M5 (bis ~10 km)
-2. Richtfunkstrecken bedürfen der Planung beider Endpunkte
+		* das "Rückgrat" des Freifunk-Netzes stärken, indem du stabile Richtfunk-Verbindungen zu weit entfernten Freifunk-Routern aufbaust (bis ~10km). Für stabile Verbindungen wird eine freie Sicht zum entfernten Router benötigt.
 
+		So kannst du mitmachen:
+
+		1. Besorge mehrere Outdoor-Router für den 5 GHz Bereich. Empfehlungen:
+			* NanoStation M5 (bis ~5 km)
+			* NanoBridge M5 (bis ~10 km)
+		2. Richtfunkstrecken bedürfen der Planung beider Endpunkte
+	</div>
+</div>
 ### Wie kann ich weiter helfen?
 
 
