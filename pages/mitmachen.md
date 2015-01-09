@@ -11,13 +11,13 @@ sub_weight: 1
 
 ### Unterstütze dein lokales Freifunk-Netz!
 
-Du kannst bei Freifunk-Darmstadt mitmachen, indem du [einen oder mehrere Knoten aufsetzt](/router-aufstellen/). Ein Knoten ist...
+Du kannst bei Freifunk-Darmstadt mitmachen, indem du [einen oder mehrere Freifunk WLAN-Router aufsetzt](/router-aufstellen/). 
 
 Required steps:
 
-1. [get a compatible router](/mitmachen/unterstuetzte-geraete/)
-2. [proceed to the firmware installation](/mitmachen/firmware-installieren/)
-3. [connect and set up the router](/mitmachen/router-aufstellen/)
+1. [get a compatible router](/mitmachen/unterstuetzte-geraete/), depending on the location and goal
+2. [proceed to the firmware installation](/mitmachen/firmware-installieren/) (we can help with this)
+3. [connect and set up the router](/mitmachen/router-aufstellen/) (preferrably in a place where it can be in range to other routers)
 
 ### Wie kann ich weiter helfen?
 
