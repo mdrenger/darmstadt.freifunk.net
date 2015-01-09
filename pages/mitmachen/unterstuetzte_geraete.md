@@ -7,13 +7,13 @@ sub_weight: 2
 permalink: /mitmachen/unterstuetzte-geraete/
 ---
 
-Es gibt im Grunde drei Wege um am Freifunknetz teilzunehmen:
+There's three ways to obtain a Freifunk node:
 
 * ein vorhandenes Gerät recyclen und mit der Freifunkfirmware ausstatten
 * ein unterstütztes Gerät erwerben und selbst mit der Freifunkfirmware ausstatten
 * sich an uns wenden und einen vorkonfigurierten WLAN-Router zum Selbstkostenpreis adoptieren
 
-Wenn du ein Gerät schon hast, oder selber kaufen willst, überprüfe ob Firmware dafür existiert. Das kann man auf der <a href="http://update.freifunk-darmstadt.de/">Firmwaredownloadseite</a> oder einfach bei uns Nachfragen. Die Geräte die es vom DSL- oder Kabelprovider gibt sind dafür in der Regel nicht geeignet.
+Wenn du ein Gerät schon hast, oder selber kaufen willst, überprüfe ob Firmware dafür existiert. Das kann man auf der [Firmwaredownloadseite](http://update.freifunk-darmstadt.de/) oder einfach [bei uns Nachfragen](/kontakt/). Die Geräte vom DSL- oder Kabelprovider sind dafür in der Regel nicht geeignet.
 
 Depending on the purpose of the node, we support different models:
 
