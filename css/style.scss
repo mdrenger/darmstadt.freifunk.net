@@ -922,6 +922,31 @@
 			}
 		}
 		
+		&.accent1 {
+			background: $color-accent1-bg;
+			color: $color-accent1-fg-bold;
+		}
+		
+		&.accent2 {
+			background: $color-accent2-bg;
+			color: $color-accent2-fg-bold;
+		}
+		
+		&.accent3 {
+			background: $color-accent3-bg;
+			color: $color-accent3-fg-bold;
+		}
+		
+		&.accent4 {
+			background: $color-accent4-bg;
+			color: $color-accent4-fg-bold;
+		}
+		
+		&.accent5 {
+			background: $color-accent5-bg;
+			color: $color-accent5-fg-bold;
+		}
+		
 		&.disabled,
 		&:disabled {
 			background-color: $color-fg !important;
