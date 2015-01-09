@@ -18,30 +18,30 @@ Required steps:
 <div class="row">
 	<div class="4u 12u(2)">
 
-		<section class="box">
+		<section class="box special accent2">
 			<span class="image featured"><img src="../images/get.png" alt="" /></span>
 			<ul class="actions">
-				<li><a href="/mitmachen/unterstuetzte-geraete/" class="button accent2">1. Get a compatible router</a></li>
+				<li><a href="/mitmachen/unterstuetzte-geraete/" class="button">1. Get a compatible router</a></li>
 			</ul>
 		</section>
 		
 	</div>
 	<div class="4u 12u(2)">
 
-		<section class="box">
+		<section class="box special accent3">
 			<span class="image featured"><img src="../images/install.png" alt="" /></span>
 			<ul class="actions">
-				<li><a href="/mitmachen/firmware-installieren/" class="button accent3">2. Install the firmware</a></li>
+				<li><a href="/mitmachen/firmware-installieren/" class="button">2. Install the firmware</a></li>
 			</ul>
 		</section>
 
 	</div>
 	<div class="4u 12u(2)">
 
-		<section class="box">
+		<section class="box special accent4">
 			<span class="image featured"><img src="../images/setup.png" alt="" /></span>
 			<ul class="actions">
-				<li><a href="/mitmachen/router-aufstellen/" class="button accent4">3. Connect the router</a></li>
+				<li><a href="/mitmachen/router-aufstellen/" class="button">3. Connect the router</a></li>
 			</ul>
 		</section>
 
