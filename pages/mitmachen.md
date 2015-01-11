@@ -15,7 +15,6 @@ Du kannst bei Freifunk Darmstadt mitmachen, indem du einen oder mehrere Freifunk
 
 Und so funktioniert's:
 
-</div>
 <div class="row">
 	<div class="4u 12u(2)">
 
@@ -48,8 +47,6 @@ Und so funktioniert's:
 
 	</div>
 </div>
-
-<div class="box">
 
 ### Wie kann ich sonst noch helfen?
 
