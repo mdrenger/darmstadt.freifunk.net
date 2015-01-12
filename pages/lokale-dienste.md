@@ -21,20 +21,20 @@ sub_weight: 1
 
 ### Dienste anbieten
 
-It is our goal to build the infrastructure to provide useful services to our community. Since this network also belongs to you, you can contribute to it by running services that everyone can use.
+Unser Ziel ist es, eine Infrastruktur für nützliche Dienste in unserer Communit bereitzustellen. Da das Netzwerk uns allen gehört, kann jede*r nach Belieben eigene Inhalte und Dienste für sich und andere anbieten.
 
-Read below to find out more, and feel free to [contact us](/kontakt/) if you have questions.
+Im Folgenden kannst du mehr über das Angebot und die Möglichkeiten herausfinden. Außerdem besteht natürlich immer die Möglichkeit, Engagierte aus der Freifunk Community zu [kontaktieren](/kontakt) falls du Fragen hast.
 
-#### What kind of services can I offer?
-
-Yadda yadda...
-
-#### How do I offer a service
-
+#### Welche Dienste kann ich anbieten?
 
 Yadda yadda...
 
-#### What kind of services are needed at the moment?
+#### Wie kann ich Dienste anbieten?
+
+
+Yadda yadda...
+
+#### Welche Dienste werden aktuell gebraucht?
 
 Intro here...
 
@@ -48,7 +48,7 @@ Ideen:
 * Torrent Tracker
 * ein [NetHack](http://www.nethack.org/common/index.html) Spiel-Server (siehe [Freifunk Lübeck](http://luebeck.freifunk.net/wiki/NetHack))
 * Übersichtsseite / Splashpage
-* kune.cc (Apache Wave, ehemals Google)
+* [kune.cc](kune.cc) (Apache Wave, ehemals Google)
 * ein Online-Radio (siehe [Demovibes](https://gitorious.org/demovibes)
 * ...
 
