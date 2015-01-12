@@ -14,7 +14,8 @@ sub_weight: 1
 
 * [Mumble](/lokale-dienste/mumble/)
 * [Freifunkkarte](/lokale-dienste/karte)
-* [Cats](/lokale-dients/cats/)
+* [Cats](/lokale-dienste/cats/)
+* [Chat](/lokale-dienste/chat/)
 
 * * *
 
