@@ -17,7 +17,7 @@ Wir treffen uns jede Woche, immer abwechselnd Montag und Mittwoch, meist in der 
 
 ### Kontaktdaten
 
-If you cannot come to the meeting, you can contact us via:</p>
+If you cannot come to the meeting, you can contact us via:
 
 * [Email (info@freifunk-darmstadt.de)](mailto:info@freifunk-darmstadt.de)
 * [Twitter (@freifunkDA)](http://www.twitter.com/freifunkDA)
