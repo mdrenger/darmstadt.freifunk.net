@@ -8,7 +8,6 @@ sub_weight: 1
 ---
 
 Wir haben einen Mumble-Server auf mumble.ffda (Port 64738). Du kannst den Mumble-Server benutzen um mit mehreren Leuten gleichzeitig zu reden, entweder per Ton oder Text.
-
 <a href="http://mumble.info"><img src="/images/mumble.svg" style="float:right; height: 150px; width: 150px; margin-top: 35px; padding-right: 15px;"></a>
 
 Anleitung
