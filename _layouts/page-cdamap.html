@@ -1,0 +1,18 @@
+---
+layout: 
+---
+
+<!DOCTYPE html>
+<html>
+  {% include head-cdamap.html %}
+  <body onLoad="init();">
+    {% include header.html %}
+	<section id="main" class="container">
+		<header>
+			<h2 class="post-title">{{ page.title }}</h2>
+		</header>
+		{{ content }}
+    </section>
+    {% include footer.html %}
+  </body>
+</html>
