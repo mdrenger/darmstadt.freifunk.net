@@ -4,22 +4,48 @@ permalink: /kontakt/
 top_url: /kontakt/
 main_menu: true
 weight: 5
-layout: page-cdamap
+layout: 
 ---
 
-Wir freuen uns, wenn du Kontakt mit uns aufnimmst, sei es persönlich bei einem unserer Treffen oder über das Internet.
+<!DOCTYPE html>
+<html>
+  {% include head-cdamap.html %}
 
-### Treffen
+  <body onLoad="mapinit();>
+    {% include header.html %}
+    <section id="main" class="container">
+		<header>
+			<h2 class="post-title">{{ page.title }}</h2>
+		</header>
+		
+		<p>Wir freuen uns, wenn du Kontakt mit uns aufnimmst, sei es persönlich bei einem unserer Treffen oder über das Internet.</p>
+		
+		<div class="row">
+			<div class="6u 12u(3)">
+				<div class="box">
+						<h3>Treffen</h3>
+						<p>Wir treffen uns jede Woche, immer abwechselnd Montag und Mittwoch ab 19:00 Uhr, meist in der "Trollhöhle" des [Chaos Darmstadt e.V.](http://chaos-darmstadt.de/), in der Wilhelm-Leuschner-Straße 36. Im Hinterhof angekommen, befindet sich der Eingang am Ende der Metalltreppe.</p>
+						<div id="map" style="height: 30em; border-radius:5px; margin: 1em 0;"></div>		
+				</div>
+			</div>
+			<div class="6u 12u(3)">
+				<div class="box">
+					<h3>Kontaktdaten</h3>
+					<p>Wenn es dir nicht möglich ist uns zu besuchen, dann gibt es natürlich noch alternative Kontaktwege:</p>
+					<ul>
+						<li><a href="mailto:info@freifunk-darmstadt.de">Email (info@freifunk-darmstadt.de)</a></li>
+						<li><a href="http://www.twitter.com/freifunkDA">Twitter (@freifunkDA)</a></li>
+						<li><a href="http://lists.freifunk.net/mailman/listinfo/darmstadt-freifunk.net">Mailing-Liste</a></li>
+						<li><a href="https://chat.darmstadt.freifunk.net">Chat</a> (oder mit IRC-Client <a href="irc://irc.hackint.eu/ffda">irc://irc.hackint.eu/ffda</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+    </section>
 
-Wir treffen uns jede Woche, immer abwechselnd Montag und Mittwoch ab 19:00 Uhr, meist in der "Trollhöhle" des [Chaos Darmstadt e.V.](http://chaos-darmstadt.de/), in der Wilhelm-Leuschner-Straße 36. Im Hinterhof angekommen, befindet sich der Eingang am Ende der Metalltreppe.
+    {% include footer.html %}
 
-<div id="map" style="height: 30em; border-radius:5px; margin: 1em 0;"></div>
+  </body>
+</html>
 
-### Kontaktdaten
 
-Wenn es dir nicht möglich ist uns zu besuchen, dann gibt es natürlich noch alternative Kontaktwege:
-
-* [Email (info@freifunk-darmstadt.de)](mailto:info@freifunk-darmstadt.de)
-* [Twitter (@freifunkDA)](http://www.twitter.com/freifunkDA)
-* [Mailing-Liste](http://lists.freifunk.net/mailman/listinfo/darmstadt-freifunk.net)
-* [Chat](https://chat.darmstadt.freifunk.net) (oder mit IRC-Client [irc://irc.hackint.eu/ffda](irc://irc.hackint.eu/ffda))
