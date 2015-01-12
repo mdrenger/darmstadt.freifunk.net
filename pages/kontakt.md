@@ -18,12 +18,11 @@ Wir treffen uns jede Woche, immer abwechselnd Montag und Mittwoch ab 19:00 Uhr, 
 ### Kontaktdaten
 
 Wenn es dir nicht möglich ist uns zu besuchen, dann gibt es natürlich noch alternative Kontaktwege:
-If you cannot come to the meeting, you can contact us via:
 
 * [Email (info@freifunk-darmstadt.de)](mailto:info@freifunk-darmstadt.de)
 * [Twitter (@freifunkDA)](http://www.twitter.com/freifunkDA)
 * [Mailing-Liste](http://lists.freifunk.net/mailman/listinfo/darmstadt-freifunk.net)
-* [Chat](https://chat.darmstadt.freifunk.net) (oder mit IRC-Client [irc://irc.hackint.eu/ffda])](irc://irc.hackint.eu/ffda))
+* [Chat](https://chat.darmstadt.freifunk.net) (oder mit IRC-Client [irc://irc.hackint.eu/ffda](irc://irc.hackint.eu/ffda))
 
 ### Spenden
 
