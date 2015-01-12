@@ -19,21 +19,6 @@ top_url: /aktuell/
 		</header>
 		
 		<div class="row">
-			<div class="8u 12u(3)">
-				{% for post in site.posts %}
-
-				<div class="box">
-						<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-						<h3>
-						  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-						</h3>
-						
-						{{ post.content }}
-				</div>
-				{% endfor %}
-			<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-			</div>
 			<div class="4u 12u(3)">
 				<div class="box">
 					<h3>Network status</h3>
@@ -55,6 +40,21 @@ top_url: /aktuell/
 					</ul>
 					<p>*these services are only accessible from within the network.</p>
 				</div>
+			</div>
+			<div class="8u 12u(3)">
+				{% for post in site.posts %}
+
+				<div class="box">
+						<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+						<h3>
+						  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+						</h3>
+						
+						{{ post.content }}
+				</div>
+				{% endfor %}
+				<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 			</div>
 		</div>
     </section>
