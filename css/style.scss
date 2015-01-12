@@ -1346,7 +1346,7 @@
 /* stripe */
 
 	#stripe {
-		background: $color-accent5-bg;
+		background: darken($color-accent3-bg, 10%);
 		color: #fff;
 		margin: -5em 0 0 0;
 		padding: 3em 5em 3em 5em;
@@ -1358,7 +1358,7 @@
 		}
 		
 		h2, h3, h4, h5, h6 {
-			color: $color-accent5-fg;
+			color: $color-accent3-fg;
 			font-family: $fancy-font;
 		}
 	
