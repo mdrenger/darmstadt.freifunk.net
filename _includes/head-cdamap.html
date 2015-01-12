@@ -18,10 +18,8 @@
 	<script src="{{ "/js/init.js" | prepend: site.baseurl }}"></script>
 	
 	<!-- map foo -->
-	<script src="../js/cdamap/modernizr.js"></script>
-	<script src="../js/cdamap/respond.min.js"></script>
-	<script src="../js/cdamap/prefixfree.js"></script>
-	<script src="../js/cdamap/leaflet.js"></script>
+	<link rel="stylesheet" href="{{ "/css/leaflet.css" | prepend: site.baseurl }}"/>
+	<script src="{{ "/js/leaflet.js" | prepend: site.baseurl }}"></script>
 	<script>
 		function mapinit() {
 			var map = L.map('map').setView([49.87921245300291, 8.645183444023132], 14);
