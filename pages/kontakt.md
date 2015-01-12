@@ -23,19 +23,3 @@ Wenn es dir nicht möglich ist uns zu besuchen, dann gibt es natürlich noch alt
 * [Twitter (@freifunkDA)](http://www.twitter.com/freifunkDA)
 * [Mailing-Liste](http://lists.freifunk.net/mailman/listinfo/darmstadt-freifunk.net)
 * [Chat](https://chat.darmstadt.freifunk.net) (oder mit IRC-Client [irc://irc.hackint.eu/ffda](irc://irc.hackint.eu/ffda))
-
-### Spenden
-
-
-State the destination of the donations: long-range&amp;sector antennas and other infrastructure (VPN, evtl. servers)
-
-Spenden bitte mit dem <strong>Verwendungszweck "Freifunk Darmstadt"</strong> an:
-
-<address>
-Chaos Darmstadt e.V.
-Kontonummer: 711853
-BLZ: 50850150
-Bank: Sparkasse Darmstadt
-IBAN: DE96508501500000711853
-BIC: HELADEF1DAS
-</address>
