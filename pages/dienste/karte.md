@@ -11,6 +11,6 @@ Auf der Karte kannst du die ungefähre Position aller Freifunk-Hotspots in Darms
 
 Die Karte kann von innerhalb des Freifunk-Netzes unter [http://map.ffda](http://map.ffda) oder aus dem Internet unter [http://map.freifunk-darmstadt.de](http://map.freifunk-darmstadt.de) erreicht werden.
 
-<div style="width:100%; height:40em; overflow:hidden; position: relative">
+<div style="width:100%; height:40em; overflow:hidden; position: relative; border-radius: 5px;">
 	<iframe src="http://map.darmstadt.freifunk.net" style="position:absolute; width:100%; height:50em; top:-30px"></iframe>
 </div>
