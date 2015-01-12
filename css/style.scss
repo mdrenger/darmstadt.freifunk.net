@@ -925,26 +925,66 @@
 		&.accent1 {
 			background: $color-accent1-bg;
 			color: $color-accent1-fg-bold;
+			
+			&:hover {
+				background-color: lighten($color-accent1-bg, 5);
+			}
+			
+			&:active {
+				background-color: darken($color-accent1-bg, 5);
+			}
 		}
 		
 		&.accent2 {
 			background: $color-accent2-bg;
 			color: $color-accent2-fg-bold;
+			
+			&:hover {
+				background-color: lighten($color-accent2-bg, 5);
+			}
+			
+			&:active {
+				background-color: darken($color-accent2-bg, 5);
+			}
 		}
 		
 		&.accent3 {
 			background: $color-accent3-bg;
 			color: $color-accent3-fg-bold;
+			
+			&:hover {
+				background-color: lighten($color-accent3-bg, 5);
+			}
+			
+			&:active {
+				background-color: darken($color-accent3-bg, 5);
+			}
 		}
 		
 		&.accent4 {
 			background: $color-accent4-bg;
 			color: $color-accent4-fg-bold;
+			
+			&:hover {
+				background-color: lighten($color-accent4-bg, 5);
+			}
+			
+			&:active {
+				background-color: darken($color-accent4-bg, 5);
+			}
 		}
 		
 		&.accent5 {
 			background: $color-accent5-bg;
 			color: $color-accent5-fg-bold;
+			
+			&:hover {
+				background-color: lighten($color-accent5-bg, 5);
+			}
+			
+			&:active {
+				background-color: darken($color-accent5-bg, 5);
+			}
 		}
 		
 		&.disabled,
