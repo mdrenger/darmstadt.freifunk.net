@@ -1091,10 +1091,10 @@
 						margin-left: 0;
 					}
 					
-					&.active {
-						a:not(.button) {
-							background-color: transparentize($color-header-fg-light, 0.75);
-						}
+					&.active a:not(.button),
+					& a:not(.button):hover,
+					& a.active:not(.button) {
+						background-color: transparentize($color-header-fg-light, 0.75);
 					}
 
 					.button {
