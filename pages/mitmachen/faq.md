@@ -17,7 +17,7 @@ Freifunk ist eine gemeinschaftliche Bewegung, die einen freien Netzzugang als ge
 
 ### Benötige ich einen Router für 2.4 GHz oder 5 GHz?
 
-Jedes Endgerät heutzutage funkt mindestens auf dem 2,4 GHz Band, das 5 GHz Band kann dafür, wenn nicht allzu Sichtbehinderung vorliegt, höhere Datenraten erreichen.
+Jedes Endgerät heutzutage funkt mindestens auf dem 2,4 GHz Band, moderenere Modelle können außerdem das 5 GHz Band nutzen, auf dem, wenn nicht allzu viel Sichtbehinderung vorliegt, höhere Datenraten erreicht werden können.
 
 Beachte: Damit sich ein Freifunk-Router mit einem anderen Freifunk-Router über WLAN verbinden kann, müssen beide Router im gleichen Frequenzband (2.4 GHz oder 5 GHz) arbeiten.
 
