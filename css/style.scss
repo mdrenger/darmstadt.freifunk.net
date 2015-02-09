@@ -409,7 +409,11 @@
 		> :last-child {
 			margin-bottom: 0;
 		}
-
+		
+		div + h4 {
+			margin-top: 1em;
+		}
+		
 		&.alt {
 			background: none !important;
 			border-radius: 0 !important;
