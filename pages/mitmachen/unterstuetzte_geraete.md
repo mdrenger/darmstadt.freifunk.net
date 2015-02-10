@@ -22,9 +22,9 @@ Abhängig vom gewünschten Einsatz des Routers unterstützen wir drei unterschie
 
 Du möchtest:
 
-* Dich mit dem Freifunk-Netz in Deiner Nachbarschaft verbinden
-* Deinen Internet-Anschluss freigeben
-* den ersten Freifunk-Router in Deiner Umgebung aufstellen
+* dich mit dem Freifunk-Netz in deiner Nachbarschaft verbinden
+* deinen Internet-Anschluss freigeben
+* den ersten Freifunk-Router in deiner Umgebung aufstellen
 
 * foo
 * bar
