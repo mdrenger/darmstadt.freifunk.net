@@ -12,10 +12,10 @@ sub_weight: 1
 
 ### Angebotene Dienste
 
-* [Mumble](/lokale-dienste/mumble/)
-* [Freifunkkarte](/lokale-dienste/karte)
-* [Cats](/lokale-dienste/cats/)
-* [Chat](/lokale-dienste/chat/)
+* mumble.ffda
+* map.ffda
+* cats.ffda
+* chat.ffda
 
 * * *
 
