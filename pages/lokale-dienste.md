@@ -14,6 +14,7 @@ layout: page
 * map.ffda
 * cats.ffda
 * chat.ffda
+* nethack.ffda
 
 * * *
 
@@ -25,18 +26,7 @@ Im Folgenden kannst du mehr über das Angebot und die Möglichkeiten herausfinde
 
 #### Welche Dienste kann ich anbieten?
 
-Yadda yadda...
-
-#### Wie kann ich Dienste anbieten?
-
-
-Yadda yadda...
-
-#### Welche Dienste werden aktuell gebraucht?
-
-Intro here...
-
-Ideen:
+You can provide any network services you want, provided they are not illegal. Here are some examples:
 
 * IRC Server
 * Jabber Server
@@ -44,9 +34,15 @@ Ideen:
 * eine (micro)blogging Platform
 * Suchmaschine
 * Torrent Tracker
-* ein [NetHack](http://www.nethack.org/common/index.html) Spiel-Server (siehe [Freifunk Lübeck](http://luebeck.freifunk.net/wiki/NetHack))
 * Übersichtsseite / Splashpage
 * [kune.cc](kune.cc) (Apache Wave, ehemals Google)
 * ein Online-Radio (siehe [Demovibes](https://gitorious.org/demovibes)
 * ...
+
+#### Wie kann ich Dienste anbieten?
+
+All you have to do is connect your service to the Freifunk network. If you want to have a static IP or a .ffda domain, [contact us](/kontakt/).
+
+
+
 
