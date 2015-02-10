@@ -76,7 +76,7 @@
 
         // assign a circle to each point
         for(var i in points) {
-            var c = new Circle(points[i], 2+Math.random()*2, 'rgba(246, 0, 115, 0.8)');
+            var c = new Circle(points[i], 5+Math.random()*2, 'rgba(246, 0, 115, 0.8)');
             points[i].circle = c;
         }
     }
@@ -166,7 +166,7 @@
             ctx.beginPath();
             ctx.moveTo(p.x, p.y);
             ctx.lineTo(p.closest[i].x, p.closest[i].y);
-            ctx.strokeStyle = 'rgba(255, 180, 0,'+ p.active+')';
+            ctx.strokeStyle = 'rgba(246, 0, 115,'+ p.active+')';
             ctx.stroke();
         }
     }
