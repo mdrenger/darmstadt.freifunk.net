@@ -1309,6 +1309,8 @@
 
 	#main {
 		padding: 4em 0 $size-element-height 0;
+		/* put animation behind #main*/
+		position: relative;
 		
 		> header {
 			text-align: center;
@@ -1455,3 +1457,22 @@
 			color: rgba(255,255,255,0.75) !important;
 		}
 	}
+
+
+#banner {
+	canvas {
+		position:absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+	}
+	h2, p {
+		position: relative;
+		z-index: 1;
+	}
+	* {
+		pointer-events: none;
+		user-select: none;
+		-webkit-user-select: none;
+	}
+}
