@@ -20,13 +20,13 @@ layout: page
 
 ### Dienste anbieten
 
-Unser Ziel ist es, eine Infrastruktur für nützliche Dienste in unserer Communit bereitzustellen. Da das Netzwerk uns allen gehört, kann jede*r nach Belieben eigene Inhalte und Dienste für sich und andere anbieten.
+Unser Ziel ist es, eine Infrastruktur für nützliche Dienste in unserer Community bereitzustellen. Da das Netzwerk uns allen gehört, kann jeder nach Belieben eigene Inhalte und Dienste für sich und andere anbieten.
 
 Im Folgenden kannst du mehr über das Angebot und die Möglichkeiten herausfinden. Außerdem besteht natürlich immer die Möglichkeit, Engagierte aus der Freifunk Community zu [kontaktieren](/kontakt) falls du Fragen hast.
 
 #### Welche Dienste kann ich anbieten?
 
-You can provide any network services you want, provided they are not illegal. Here are some examples:
+Du kannst jedwede Art von Netzwerkdienst anbieten solange er nicht illegal ist. Hier sind ein paar Beispiele:
 
 * IRC Server
 * Jabber Server
@@ -41,7 +41,7 @@ You can provide any network services you want, provided they are not illegal. He
 
 #### Wie kann ich Dienste anbieten?
 
-All you have to do is connect your service to the Freifunk network. If you want to have a static IP or a .ffda domain, [contact us](/kontakt/).
+Alles was du tun musst, ist deinen service ans Freifunk Netzwerk anzuschließen. Falls du eine statische IP oder .ffda domain haben möchtest, [melde dich](/kontakt/) einfach bei uns.
 
 
 
