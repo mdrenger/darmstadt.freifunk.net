@@ -12,12 +12,14 @@ top_url: /wie/
 
 ### Finanzierung
 
-Chaos Darmstadt e.V. ist ein gemeinnütziges Verein, das sich ausschließlich über Mitgliedsbeiträge und Spenden finanziert.
+Chaos Darmstadt e.V. ist ein gemeinnütziger Verein, der sich ausschließlich über Mitgliedsbeiträge und Spenden finanziert.
 
-Monthly we have following expenses:
+Monatlich haben wir folgende Ausgaben:
 
 - VPN - 6€  
 - ???
  
- Additionally we need to buy test hardware and long-range directed antennas to connect the network. Account info [on the contact page](/kontakt/#spenden).
+Weitere Kosten entstehen durch Testhardware und Langstrecken-Richtfunkantennen um die einzelnen Teile des Netzwerks miteinander zu verbinden.
+
+Wenn du spenden willst, findest du die nötigen daten auf der [Kontakt Seite](/kontakt/#spenden).
 ### Organisation
