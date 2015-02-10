@@ -7,7 +7,7 @@ sub_weight: 2
 permalink: /mitmachen/unterstuetzte-geraete/
 ---
 
-There's three ways to obtain a Freifunk node:
+Es gibt drei Möglichkeiten einen Freifunk-Router zu bekommen:
 
 * ein vorhandenes Gerät recyclen und mit der Freifunkfirmware ausstatten
 * ein unterstütztes Gerät erwerben und selbst mit der Freifunkfirmware ausstatten
@@ -15,18 +15,18 @@ There's three ways to obtain a Freifunk node:
 
 Wenn du ein Gerät schon hast, oder selber kaufen willst, überprüfe ob Firmware dafür existiert. Das kann man auf der [Firmwaredownloadseite](http://update.freifunk-darmstadt.de/) oder einfach [bei uns Nachfragen](/kontakt/). Die Geräte vom DSL- oder Kabelprovider sind dafür in der Regel nicht geeignet.
 
-Depending on the purpose of the node, we support different models:
+Abhängig vom gewünschten Einsatz des Routers unterstützen wir drei unterschiedliche Modelle:
 
 ### Starter-Kit
 <p class="sub">Wohnung, Geschäft, Café, Restaurant, Bar</p>
 
 Du möchtest:
 
-* dich mit dem Freifunk-Netz in deiner Nachbarschaft verbinden
-* deinen Internet-Anschluss freigeben
-* den ersten Freifunk-Router in deiner Umgebung aufstellen
+* Dich mit dem Freifunk-Netz in Deiner Nachbarschaft verbinden
+* Deinen Internet-Anschluss freigeben
+* den ersten Freifunk-Router in Deiner Umgebung aufstellen
 
-* foo 
+* foo
 * bar
 
 ### Level 2
@@ -38,7 +38,7 @@ Du möchtest:
 * eine Verbindung zu einem weiter entfernten (bis ~5km) Freifunk-Router herstellen. Für stabile Verbindungen wird eine freie Sicht zum entfernten Router benötigt.
 
 
-Dann besorge einen Freifunk-fähigen Outdoor-Router. Empfehlungen:
+Dann besorge einen Freifunk-fähigen Outdoor-Router. Hier empfehlen wir:
 
 * NanoStation M2/M2 loco (2.4 GHz)
 * NanoStation M5/M5 loco (5 GHz)
