@@ -5,8 +5,6 @@ top_url: /lokale-dienste/
 main_menu: true
 weight: 3
 layout: page
-sub_menu: true
-sub_weight: 1
 ---
 
 
