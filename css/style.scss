@@ -67,7 +67,7 @@
 	}
 
 	h2 {
-		font-size: 2.25em;
+		font-size: 2.2em;
 		line-height: 1.5em;
 		letter-spacing: -0.035em;
 	}
@@ -1243,7 +1243,7 @@
 		}
 	}
 	
-/* 	 */
+/* banner */
 
 	#banner {
 		background-attachment:	scroll,							fixed;
@@ -1253,30 +1253,47 @@
 		background-repeat: repeat;
 		background-size: cover;
 		color: #fff;
-		padding: 10em 0 15em 0;
+		padding: 10em 0 13em 0;
 		text-align: center;
 		
+		canvas {
+			position:absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+		}
+		h2, p {
+			position: relative;
+			z-index: 1;
+			margin-left: 7em;
+			margin-right: 7em;
+		}
+		
+		* {
+			pointer-events: none;
+			user-select: none;
+			-webkit-user-select: none;
+		}
+	
 		:last-child {
 			margin-bottom: 0;
 		}
 		
-		h2, h3, h4, h5, h6 {
-			color: #fff;
-		}
 		
 		h2 {
 			font-family: $fancy-font;
 			font-size: 4em;
 			font-weight: $font-weight-bold;
 			line-height: 1em;
-			margin: 0 0 0.5em 0;
 			padding: 0;
+			text-shadow: 0.02em 0.02em $color-header-fg-light;
+			letter-spacing: 0.11em;			
 		}
 		
 		p {
 			font-size: 1.25em;
-			font-weight: $font-weight-bold;
-			margin-bottom: 1.75em;
+			font-weight: $font-weight;
+			margin-top: 2em;
 		}
 
 		input[type="submit"],
@@ -1311,6 +1328,14 @@
 		/* put animation behind #main*/
 		position: relative;
 		
+		> .action{
+			margin-top: 1em;
+			padding-top: 0em;
+			padding-bottom: 0em;
+			font-size: 1.2em;
+			color: $color-header-fg;
+		}
+		
 		> header {
 			text-align: center;
 			margin: 0 0 3em 0;
@@ -1333,6 +1358,7 @@
 			margin-left: auto;
 			margin-right: auto;
 			width: 60em;
+			padding-top: 1.5em;
 		}
 	}
 	
@@ -1393,7 +1419,7 @@
 	#stripe {
 		background: darken($color-accent3-bg, 2%);
 		color: #fff;
-		margin: -5em 0 0 0;
+		margin: 0;
 		padding: 3em 5em 3em 5em;
 		text-align: center;
 		font-size: 1.2em;
@@ -1456,22 +1482,3 @@
 			color: rgba(255,255,255,0.75) !important;
 		}
 	}
-
-
-#banner {
-	canvas {
-		position:absolute;
-		top: 0;
-		left: 0;
-		width: 100%;
-	}
-	h2, p {
-		position: relative;
-		z-index: 1;
-	}
-	* {
-		pointer-events: none;
-		user-select: none;
-		-webkit-user-select: none;
-	}
-}
