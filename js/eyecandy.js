@@ -17,14 +17,12 @@
     });
 
     function initHeader() {
-    	console.log("initHeader()")
     	var canvasJq = $("<canvas />");
     	$("#banner").prepend(canvasJq);
     	canvas = canvasJq[0];
 
         width = $("#banner").outerWidth();
         height = $("#banner").outerHeight();
-        console.log("width:", width, "height:", height);
         target = {x: width/2, y: height/2};
 
         canvas.width = width;
