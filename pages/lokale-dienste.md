@@ -26,7 +26,7 @@ Im Folgenden kannst du mehr über das Angebot und die Möglichkeiten herausfinde
 
 #### Welche Dienste kann ich anbieten?
 
-Du kannst jedwede Art von Netzwerkdienst anbieten solange er nicht illegal ist. Hier sind ein paar Beispiele:
+Du kannst jedwede Art von Netzwerkdienst anbieten solange er nicht gegen geltendes Deutsches Recht verst&ouml;&szlig;t. Hier sind ein paar Beispiele:
 
 * IRC Server
 * Jabber Server
@@ -37,11 +37,10 @@ Du kannst jedwede Art von Netzwerkdienst anbieten solange er nicht illegal ist. 
 * Übersichtsseite / Splashpage
 * [kune.cc](kune.cc) (Apache Wave, ehemals Google)
 * ein Online-Radio (siehe [Demovibes](https://gitorious.org/demovibes)
-* ...
 
 #### Wie kann ich Dienste anbieten?
 
-Alles was du tun musst, ist deinen service ans Freifunk Netzwerk anzuschließen. Falls du eine statische IP oder .ffda domain haben möchtest, [melde dich](/kontakt/) einfach bei uns.
+Alles was du tun musst ist, das Gerät, welches deinen Service bereitstellt, an das Freifunk Netzwerk anzuschließen. Falls du eine statische IP oder eine .ffda Domain haben möchtest, [melde dich](/kontakt/) einfach bei uns.
 
 
 
