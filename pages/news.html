@@ -3,8 +3,8 @@ title: News
 layout: 
 main_menu: true
 weight: 1
-permalink: /aktuell/
-top_url: /aktuell/
+permalink: /news/
+top_url: /news/
 ---
 
 <!DOCTYPE html>
@@ -17,8 +17,21 @@ top_url: /aktuell/
 		<header>
 			<h2 class="post-title">{{ page.title }}</h2>
 		</header>
-		
 		<div class="row">
+			<div class="8u 12u(3)">
+				{% for post in site.posts %}
+				<div class="box">
+						<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+						<h3>
+							<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+						</h3>
+
+						{{ post.content }}
+				</div>
+				{% endfor %}
+				<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+			</div>
 			<div class="4u 12u(3)">
 				<div class="box">
 					<h3>Nächstes Treffen</h3>
@@ -32,26 +45,12 @@ top_url: /aktuell/
 						<li> Traffic in the last 24h:</li>
 						<li> Whatever else we find interesting (maybe some munin live plots)</li>
 					</ul>
-					
+
 					<p><a href="/lokale-dienste/karte/" class="button special icon fa-globe">Karte</a></p>
 
 				</div>
 			</div>
-			<div class="8u 12u(3)">
-				{% for post in site.posts %}
 
-				<div class="box">
-						<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-						<h3>
-						  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-						</h3>
-						
-						{{ post.content }}
-				</div>
-				{% endfor %}
-				<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-			</div>
 		</div>
     </section>
 
