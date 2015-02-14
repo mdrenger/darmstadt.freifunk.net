@@ -19,7 +19,7 @@
 	body, input, select, textarea {
 		color: $color-fg;
 		font-family: $font-family;
-		font-size: 14pt;
+		font-size: 12pt;
 		font-weight: $font-weight;
 		line-height: 1.65em;
 		letter-spacing: -0.015em;
@@ -39,6 +39,12 @@
 	strong, b {
 		color: $color-fg-bold;
 		font-weight: $font-weight-bold;
+	}
+	
+	.in-line-highlight {
+		letter-spacing: 0.015em;
+		text-transform: uppercase;
+		margin-right: 1em;
 	}
 	
 	em, i {
