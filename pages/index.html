@@ -27,6 +27,12 @@ permalink: /
 				<li><a href="{{ "mitmachen/" | prepend: site.baseurl }}" class="button special icon fa-chevron-circle-right">Mach mit!</a></li>
 			</ul>
 		</section>
+		<section class="box special">
+			{% assign post = site.posts.first %}
+			{% assign content = post.content %}
+			<h2>{{post.title}}</h2>
+			{{post.excerpt}}
+		</section>
 		<section class="box special features">
 			<header class="major">
 				<h2>Freifunk ist mehr als kostenloses Internet!</h2>
