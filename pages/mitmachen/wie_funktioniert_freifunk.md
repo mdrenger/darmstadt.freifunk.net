@@ -4,7 +4,10 @@ permalink: /wie-funktioniert-freifunk/
 layout: page
 main_menu: true
 weight: 4
-top_url: /wie-funktioniert-freifunk/
+top_url: /wie-funktioniert-freifunk
+sub_menu: true
+top_url: /mitmachen/
+sub_weight: 2
 ---
 
 Jeder ist heute im Besitz eines privaten Internetzugangs, den er sowohl per Kabel als auch über WLAN verwendet. Über das WLAN ist jedoch nicht nur Internet, sondern auch das eigene Heimnetzwerk erreichbar. Will man nun den Internetzugang teilen, so steht man unmittelbar vor zwei Problemen:

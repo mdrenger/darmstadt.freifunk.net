@@ -3,7 +3,7 @@ title: Unterstützte Geräte
 layout: page
 sub_menu: true
 top_url: /mitmachen/
-sub_weight: 2
+sub_weight: 3
 permalink: /mitmachen/unterstuetzte-geraete/
 ---
 

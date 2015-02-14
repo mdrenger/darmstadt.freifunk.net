@@ -3,7 +3,7 @@ title: Firmware installieren
 layout: page
 sub_menu: true
 top_url: /mitmachen/
-sub_weight: 3
+sub_weight: 4
 permalink: /mitmachen/firmware-installieren/
 ---
 
