@@ -38,7 +38,7 @@ Zu jedem Zeitpunkt bleiben Freifunk-Netz und Heimnetz strikt getrennt. Das gilt 
 ## Lokale Dienste im Freifunk-Netz
 Wer einen Dienst mit lokalem Bezug zur Verfügung stellen will, ist im Freifunk-Netz genau richtig. Es reicht, den Computer, auf dem der Dienst läuft, mit einem Freifunk-Router zu verbinden, um den Dienst im Freifunk-Netz bereitzustellen.
 
-Bereits vorhandene Lokale Dienste sowie Ideen und Wünsche finden sich [hier].
+Es existiert eine <a href="/lokale-dienste/">Liste</a> bereits vorhandener Dienste sowie von Ideen für weitere, neue Dienste.
 
 ## Dienste anderer Freifunk-Communities
 Über die Freifunk-Wolke besteht auch Zugang zu den Netzwerken anderer deutschlandweiter Freifunk-Communities, mitsamt der dort vorhandenen Dienste.
