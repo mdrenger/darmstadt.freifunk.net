@@ -9,7 +9,7 @@ url: "http://freifunk-darmstadt.github.io" # the base hostname & protocol for yo
 twitter_username: freifunkDA
 github_username:  freifunk-darmstadt
 
-excerpt_separator: ***
+excerpt_separator: <!--*-->
 
 # Build settings
 markdown: kramdown
