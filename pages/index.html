@@ -27,7 +27,7 @@ permalink: /
 				<li><a href="{{ "mitmachen/" | prepend: site.baseurl }}" class="button special icon fa-chevron-circle-right">Mach mit!</a></li>
 			</ul>
 		</section>
-		<section class="box special">
+		<section class="box" id="news">
 			{% assign post = site.posts.first %}
 			{% assign content = post.content %}
 			<h2>{{post.title}}</h2>
