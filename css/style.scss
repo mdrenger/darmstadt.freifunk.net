@@ -73,13 +73,13 @@
 	}
 
 	h2 {
-		font-size: 2.2em;
+		font-size: 2em;
 		line-height: 1.5em;
 		letter-spacing: -0.035em;
 	}
 
 	h3 {
-		font-size: 1.7em;
+		font-size: 1.5em;
 		line-height: 1.5em;
 		letter-spacing: -0.025em;
 	}
@@ -224,6 +224,12 @@
 				margin: 1.5em 0 0 0;
 				padding: 1.5em 0 0 0;
 				font-style: normal;
+				
+				&.large {
+					margin: 0;
+					font-size: 1.2em;
+					border-top: 0px;
+				}
 			}
 		}
 	}
