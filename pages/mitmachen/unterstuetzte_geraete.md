@@ -7,52 +7,13 @@ sub_weight: 3
 permalink: /mitmachen/unterstuetzte-geraete/
 ---
 
-Es gibt drei Möglichkeiten einen Freifunk-Router zu bekommen:
+Um einen eigenen Freifunk-Router zu betreiben benötigt du zunächst einen kompatiblen WLAN-Accesspoint oder Router. Als Grundlage muss das Gerät mindestens mit der aktuellen Version der Embedded-Distribution <a href="https://openwrt.org/">OpenWRT</a> kompatibel sein. Es gibt einige Wege an ein kompatibles Gerät zu kommen::
 
-* ein vorhandenes Gerät recyclen und mit der Freifunkfirmware ausstatten
-* ein unterstütztes Gerät erwerben und selbst mit der Freifunkfirmware ausstatten
-* sich an uns wenden und einen vorkonfigurierten WLAN-Router zum Selbstkostenpreis adoptieren
+* ein bereits vorhandenes Gerät recyclen
+* ein unterstütztes Gerät erwerben
+* bei uns einen vorkonfigurierten WLAN-Router zum Selbstkostenpreis abholen
 
-Wenn du ein Gerät schon hast, oder selber kaufen willst, überprüfe ob Firmware dafür existiert. Das kann man auf der [Firmwaredownloadseite](http://update.freifunk-darmstadt.de/) oder einfach [bei uns Nachfragen](/kontakt/). Die Geräte vom DSL- oder Kabelprovider sind dafür in der Regel nicht geeignet.
+Wenn du ein Gerät schon hast, oder selber kaufen willst, überprüfe zuvor ob bereits eine Firmware dafür existiert. Das kann man auf der [Firmware-Downloadseite](http://firmware.freifunk-darmstadt.de) einsehen, aber auch [von uns](/kontakt/) erfahren. Die übliche Router-Hardware vom DSL- oder Kabelprovider ist hierfür in der Regel nicht geeignet.
 
-Abhängig vom gewünschten Einsatz des Routers unterstützen wir drei unterschiedliche Modelle:
+In Abhängigkeit von Lage, erwarteter Nutzerzahlen und benötigter Bandbreite empfehlen wir eine Reihe unterschiedlicher Modelle:
 
-### Starter-Kit
-<p class="sub">Wohnung, Geschäft, Café, Restaurant, Bar</p>
-
-Du möchtest:
-
-* dich mit dem Freifunk-Netz in deiner Nachbarschaft verbinden
-* deinen Internet-Anschluss freigeben
-* den ersten Freifunk-Router in deiner Umgebung aufstellen
-
-* foo
-* bar
-
-### Level 2
-<p class="sub">Balkon, hohes Gebäude, öffentlicher Platz, Park, weitläufiges Gelände</p>
-
-Du möchtest:
-
-* das Freifunk-Netz auf ein größeres Gebiet erweitern. Dazu eignen sich insbesondere höher gelegene Standorte (z.B. Balkone oder Dächer)
-* eine Verbindung zu einem weiter entfernten (bis ~5km) Freifunk-Router herstellen. Für stabile Verbindungen wird eine freie Sicht zum entfernten Router benötigt.
-
-
-Dann besorge einen Freifunk-fähigen Outdoor-Router. Hier empfehlen wir:
-
-* NanoStation M2/M2 loco (2.4 GHz)
-* NanoStation M5/M5 loco (5 GHz)
-	
-### Backbone
-<p class="sub">Dach, Dachgeschoss, hohes Gebäude, öffentliches Gebäude, Rathaus, Kirchturm</p>
-
-Du möchtest:
-
-* das "Rückgrat" des Freifunk-Netzes stärken, indem du stabile Richtfunk-Verbindungen zu weit entfernten Freifunk-Routern aufbaust (bis ~10km). Für stabile Verbindungen wird eine freie Sicht zum entfernten Router benötigt.
-
-Besorge mehrere Outdoor-Router für den 5 GHz Bereich. Empfehlungen:
-
-* NanoStation M5 (bis ~5 km)
-* NanoBridge M5 (bis ~10 km)
-
-Richtfunkstrecken bedürfen der Planung beider Endpunkte!
