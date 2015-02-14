@@ -30,7 +30,8 @@ permalink: /
 		<section class="box" id="news">
 			{% assign post = site.posts.first %}
 			{% assign content = post.content %}
-			<h2>{{post.title}}</h2>
+			<h2>Latest news:</h2>
+			<h3>{{post.title}}</h3>
 			{{post.excerpt}}
 		</section>
 		<section class="box special features">
