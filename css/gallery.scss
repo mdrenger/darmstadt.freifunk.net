@@ -1,8 +1,0 @@
----
----
-
-@import "gallery";
-
-@for $i from 2 through 7 {
-  @include gallery($i);
-}
