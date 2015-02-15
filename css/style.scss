@@ -417,6 +417,8 @@
 		box-shadow: 0 2px 0 0 $color-border;
 		margin: 0 0 $size-element-margin 0;
 		padding: $box-padding;
+		display: table;
+		width: 100%;
 		
 		> :last-child {
 			margin-bottom: 0;
@@ -1496,4 +1498,11 @@
 
 .full-width{
 	width: 100%;
+}
+
+.half-width{
+	width: 50%;
+	float: right;
+	margin-left: 2em;
+	margin-top: 0.5em;
 }
