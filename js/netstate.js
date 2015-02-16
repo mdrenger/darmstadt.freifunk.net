@@ -12,8 +12,8 @@ function netstate_init() {
 		rx = data['traffic']['rx']
 		tx = data['traffic']['tx']
 
-		rx = rx / 1024 / 1024
-		tx = tx / 1024 / 1024
+		rx = Math.round(rx / 1024 / 1024)
+		tx = Math.round(tx / 1024 / 1024)
 		total = (rx + tx)
 
 		$('#net_state_traffic').text(total + ' GB / Tag').attr('title', 'RX: ' + rx + ' GB / TX: ' + tx + ' GB');
