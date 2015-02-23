@@ -418,6 +418,7 @@
 		margin: 0 0 $size-element-margin 0;
 		padding: $box-padding;
 		width: 100%;
+		display: inline-block;
 		
 		> :last-child {
 			margin-bottom: 0;
