@@ -8,15 +8,6 @@ layout: page
 ---
 
 
-### Angebotene Dienste
-
-* mumble.ffda
-* map.ffda
-* cats.ffda
-* chat.ffda
-* nethack.ffda
-
-* * *
 
 ### Dienste anbieten
 
@@ -27,6 +18,16 @@ Im Folgenden kannst du mehr über das Angebot und die Möglichkeiten herausfinde
 #### Welche Dienste kann ich anbieten?
 
 Du kannst jedwede Art von Netzwerkdienst anbieten solange er nicht gegen geltendes Deutsches Recht verst&ouml;&szlig;t. Hier sind ein paar Beispiele:
+
+##### Existierende Dienste
+
+* mumble.ffda - Gruppen VoIP Service
+* map.ffda - Die Karte unserer Freifunk-Router
+* cats.ffda - Ein neues Katzenbild alle 3 Sekunden
+* chat.ffda - Weboberfläche für unseren IRC Chatraum
+* nethack.ffda - Nethack mit Patch für deutsches Tastaturlayout
+
+##### Ideen für neue Dienste
 
 * IRC Server
 * Jabber Server
