@@ -34,6 +34,7 @@ sub_weight: 2
 </section>
 <section class="box">
 	<h3>Das Heimnetz bleibt privat</h3>
+	<img src="/images/network_4.jpg" class="half-width" />
 	<p>Zu jedem Zeitpunkt bleiben Freifunk-Netz und Heimnetz strikt getrennt. Das gilt auch, wenn der eigene Router sich über die Internetverbindung im Heimnetzwerk mit dem Rest der Freifunk-Wolke verbindet. Aus dem Freifunk-Netzwerk heraus ist kein Zugriff auf das private Netzwerk möglich.</p>
 </section>
 
