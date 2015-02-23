@@ -23,14 +23,16 @@ sub_weight: 2
 <section class="box">
 	<h3>Freifunk als gemeinschaftliches Netzwerk</h3>
 	<img src="/images/network_2.jpg" class="half-width" />
-	<p>Benachbarte Router, die mit der Freifunk-Firmware betrieben werden, bauen untereinander das Freifunk-Netzwerk auf, durch das sie auf direktem Wege Daten austauschen können, ohne den Umweg über das Internet nehmen zu müssen. Diese Funkverbindungen können je nach Modell Entfernungen von einigen dutzend Metern bis hin zu mehreren Kilometern überbrücken und so auch Gebiete erreichen, die nur rudimentär oder gar nicht an das Internet angeschlossen sind.</p>
+	<p>Benachbarte Router, die mit der Freifunk-Firmware betrieben werden, bauen untereinander das Freifunk-Netzwerk auf, durch das sie auf direktem Wege Daten austauschen können, ohne den Umweg über das Internet nehmen zu müssen.</p>
+	<p>Diese Funkverbindungen können je nach Modell Entfernungen von einigen dutzend Metern bis hin zu mehreren Kilometern überbrücken und so auch Gebiete erreichen, die nur rudimentär oder gar nicht an das Internet angeschlossen sind.</p>
 	<p>Der Zugang zum Freifunk-Netzwerk ist mit jedem WLAN-fähigen Endgerät oder direkt per Kabel am Freifunk-Router ohne Registrierung oder Passwort möglich.</p>
 </section>
 
 <section class="box">
 	<h3>Einzelne Freifunk-Wolken verbinden sich</h3>
 	<img src="/images/network_3.jpg" class="half-width" />
-	<p>Da sich jedoch nicht alle Freifunk-Router untereinander per Funk erreichen, können sie sich außerdem verschlüsselt über das Internet miteinander verbinden. Diese Anbindung an den Rest der Freifunk-Wolke wird von den Routern auch per Funk an benachbarte Freifunk-Router weitergegeben, so dass nicht jeder Router einen Internetzugang benötigt.</p>
+	<p>Da sich jedoch nicht alle Freifunk-Router untereinander per Funk erreichen, können sie sich außerdem verschlüsselt über das Internet miteinander verbinden.</p>
+	<p>Diese Anbindung an den Rest der Freifunk-Wolke wird von den Routern auch per Funk an benachbarte Freifunk-Router weitergegeben, so dass nicht jeder Router einen Internetzugang benötigt.</p>
 </section>
 <section class="box">
 	<h3>Das Heimnetz bleibt privat</h3>
@@ -41,7 +43,8 @@ sub_weight: 2
 <section class="box">
 	<h3>Zugang zum Internet</h3>
 	<img src="/images/network_5.jpg" class="half-width" />
-	<p>Über das Freifunk-Netzwerk steht auch ein Internetzugang zur Verfügung. Dieser erfolgt über eine Reihe von Gateways, welche den Verkehr erst von dort aus ins Internet weiterleiten. Von welchem Freifunker-Router eine Verbindung ins Internet kommt, ist aus dem Internet nicht mehr erkenntlich. Somit lässt sich das Problem der Störerhaftung für Knotenbetreiber vermeiden.</p>
+	<p>Über das Freifunk-Netzwerk steht auch ein Internetzugang zur Verfügung. Dieser erfolgt über eine Reihe von Gateways, welche den Verkehr erst von dort aus ins Internet weiterleiten.</p>
+	<p>Von welchem Freifunker-Router eine Verbindung ins Internet kommt, ist aus dem Internet nicht mehr erkenntlich. Somit lässt sich das Problem der Störerhaftung für Knotenbetreiber vermeiden.</p>
 </section>
 
 <section class="box">
