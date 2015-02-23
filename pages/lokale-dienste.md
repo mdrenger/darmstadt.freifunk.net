@@ -19,7 +19,7 @@ Im Folgenden kannst du mehr über das Angebot und die Möglichkeiten herausfinde
 
 Du kannst jedwede Art von Netzwerkdienst anbieten solange er nicht gegen geltendes Deutsches Recht verst&ouml;&szlig;t. Hier sind ein paar Beispiele:
 
-##### Existierende Dienste
+##### **Existierende Dienste**
 
 * mumble.ffda - Gruppen VoIP Service
 * map.ffda - Die Karte unserer Freifunk-Router
@@ -27,7 +27,7 @@ Du kannst jedwede Art von Netzwerkdienst anbieten solange er nicht gegen geltend
 * chat.ffda - Weboberfläche für unseren IRC Chatraum
 * nethack.ffda - Nethack mit Patch für deutsches Tastaturlayout
 
-##### Ideen für neue Dienste
+##### **Ideen für neue Dienste**
 
 * IRC Server
 * Jabber Server
@@ -36,8 +36,8 @@ Du kannst jedwede Art von Netzwerkdienst anbieten solange er nicht gegen geltend
 * Suchmaschine
 * Torrent Tracker
 * Übersichtsseite / Splashpage
-* [kune.cc](kune.cc) (Apache Wave, ehemals Google)
-* ein Online-Radio (siehe [Demovibes](https://gitorious.org/demovibes)
+* [kune.cc](http://kune.cc) (Apache Wave, ehemals Google)
+* ein Online-Radio (siehe [Demovibes](https://gitorious.org/demovibes))
 
 #### Wie kann ich Dienste anbieten?
 
