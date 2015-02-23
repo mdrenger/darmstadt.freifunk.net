@@ -40,6 +40,7 @@ sub_weight: 2
 
 <section class="box">
 	<h3>Zugang zum Internet</h3>
+	<img src="/images/network_5.jpg" class="half-width" />
 	<p>Über das Freifunk-Netzwerk steht auch ein Internetzugang zur Verfügung. Dieser erfolgt über eine Reihe von Gateways, welche den Verkehr erst von dort aus ins Internet weiterleiten. Von welchem Freifunker-Router eine Verbindung ins Internet kommt, ist aus dem Internet nicht mehr erkenntlich. Somit lässt sich das Problem der Störerhaftung für Knotenbetreiber vermeiden.</p>
 </section>
 
