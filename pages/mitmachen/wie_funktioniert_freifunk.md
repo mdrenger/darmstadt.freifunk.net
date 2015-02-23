@@ -27,7 +27,7 @@ sub_weight: 2
 	<p>Der Zugang zum Freifunk-Netzwerk ist mit jedem WLAN-fähigen Endgerät oder direkt per Kabel am Freifunk-Router ohne Registrierung oder Passwort möglich.</p>
 </section>
 
-<section class="box" style="display: inline-block">
+<section class="box">
 	<h3>Einzelne Freifunk-Wolken verbinden sich</h3>
 	<img src="/images/network_3.jpg" class="half-width" />
 	<p>Da sich jedoch nicht alle Freifunk-Router untereinander per Funk erreichen, können sie sich außerdem verschlüsselt über das Internet miteinander verbinden. Diese Anbindung an den Rest der Freifunk-Wolke wird von den Routern auch per Funk an benachbarte Freifunk-Router weitergegeben, so dass nicht jeder Router einen Internetzugang benötigt.</p>
