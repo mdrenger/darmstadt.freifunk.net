@@ -9,7 +9,7 @@ sub_weight: 1
 ---
 
 <header>
-	<h2 class="post-title">Wie funktioniert Freifunk?</h2>
+	<h2 class="post-title">{{ page.title }}</h2>
 </header>
 <section class="box">
 	<h3>Der Stand der Dinge</h3>
