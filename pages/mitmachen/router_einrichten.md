@@ -7,7 +7,6 @@ sub_weight: 4
 permalink: /mitmachen/router-einrichten/
 ---
 
-Question: is it exactly like this for all router models? Besides, some users might have routers with other firmwares. Write something like "we assume that..." just in case.
 
 ### Den Router anschließen
 
