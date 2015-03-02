@@ -2,10 +2,10 @@
 title: Wie funktioniert Freifunk?
 permalink: /wie-funktioniert-freifunk/
 layout: page
+main_menu: true
+weight: 3
 top_url: /wie-funktioniert-freifunk
-sub_menu: true
-top_url: /mitmachen/
-sub_weight: 2
+sub_weight: 1
 ---
 
 <section class="box">
