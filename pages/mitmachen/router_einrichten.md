@@ -1,36 +1,56 @@
 ---
-title: Freifunk-Router einrichten
+title: Router einrichten
 layout: page
 sub_menu: true
 top_url: /mitmachen/
-sub_weight: 5
+sub_weight: 4
 permalink: /mitmachen/router-einrichten/
 ---
 
+Question: is it exactly like this for all router models? Besides, some users might have routers with other firmwares. Write something like "we assume that..." just in case.
 
-## Was brauche ich dafür?
+### Den Router anschließen
 
-Some intro words...
 
-### Freifunk-fähiger WLAN-Router
+1. Lade das passende Freifunk Firmware-Image für deinen Router [von unserer Seite](http://update.freifunk-darmstadt.de/) herunter.
+2. Verbinde einen der gelben LAN-Anschlüsse des Routers mit einem Netzwerkkabel mit deinem Computer.
+3. Dein Computer erhält automatisch eine IP-Adresse via DHCP.
 
-Natürlich darf der WLAN-Router nicht fehlen. Als Standort empfehlen sich Fenster, Balkone oder Dächer (I would generalize to places where it can be in range of users and other devices). Je näher er der Außenwelt ist desto wahrscheinlicher ist es, dass er sich mit anderen Routern verbindet und das sogenannte Mesh bildet.
+### Installiere das Freifunk-Image
 
-### Strom
 
-Um einen WLAN-Router optimal zu versorgen, braucht er auf jedenfall einen freien Steckplatz für das Netzteil. Ob in einer Steckerleister oder direkt aus der Wand ist egal, die sind nicht wählerisch!
+1. Öffne das Web-Interface deines Routers in deinem Browser.
+2. Folge den Anweisungen im Handbuch deines Routers um die Firmware upzudaten.
+3. Nutze das von der Freifunk-Website heruntergeladene Firmware-Image.
+4. Warte bis der Router wieder gestartet ist.
 
-Damit der Router sich mit seinen Artgenossen verständigen kann und seine Dienste den Nutzern zur Verfügung stellt, empfiehlt es sich, dass er rund um die Uhr angeschaltet ist. Aktuelle Router sind sehr energieeffizient, sie verbrauchen daher nur wenig Strom.
+### Konfigurationsmodus
 
-### Netzkabel
+Nach dem Neustart solltest du eine neue IP-Adresse zugwiesen bekommen haben. Der Konfigurationsmodus ist nun unter [http://192.168.1.1](http://192.168.1.1) in deinem Browser erreichbar.
 
-Da die mitgelieferten Netzkabel recht kurz sind (ca. 1-2m) brauch man oft längere Netzwerkkabel, damit man die Verbindung zum Heimnetzwerk hinbekommt. Es gibt auch sogenannte Flachbandkabel, welche man problemlos durch Türen und Fenster verlegen kann.
+### Den Router konfigurieren
 
-### Internetverbindung (optional)
 
-Wenn man seinen Internetanschluss mit anderen Freifunkern teilen möchte, brauch man noch einen freien Netzwerkport an seinem DSL-, Kabelrouter oder was man sonst benutzt um sein Netzwerk zu verwalten.
+1. Aktiviere die Option `Firmware automatisch aktualisieren`.
+2. Aktiviere die Option `Mesh-VPN aktivieren` / `Internet-Verbindung (Mesh-VPN)`.
+3. Füge GPS-Koordinaten des Standorts ein, z.B. von [http://map.freifunk-darmstadt.de](http://map.freifunk-darmstadt.de) (klicke auf *Koordinaten beim nächsten Klick anzeigen*).
+4. Gib deine E-Mail Adresse als Kontaktmöglichkeit an. Deine Adresse wird zu nichts anderem als zur zweckmäßigen Kontaktaufnahme genutzt. Es erfolgt niemals eine Weitergabe außerhalb des Freifunk Darmstadt Projektes.
+5. Klicke auf `Speichern und Neustarten`. Nun wird der Browser den von dir gewählten Namen erneut anzeigen, sowie seinen Schlüssel für den sicheren VPN-Zugang:  
+	> #node-name 
+	> key "node-key";
+	
+Beide Zeilen sendest du bitte per E-Mail an [keys@freifunk-darmstadt.de](mailto:keys@freifunk-darmstadt.de).
+    
+Dein Schlüssel wird nun zeitnah eingetragen, woraufhin du eine Rückmeldung erhältst.
 
-Wenn man dies nicht möchte und auch kein Freifunker in der Nähe seinen Internetzugang teilt, können sich die Router nicht mit dem Rest des Freifunknetzes oder dem Internet verbinden.
-It is important to explain that if there is no Internet connection nor a neighbouring node nearby, it will not work as expected.
+### Den Router aufstellen
+Als Standort empfehlen sich Fenster, Balkone oder Dächer. Je näher er der Außenwelt ist, desto wahrscheinlicher ist es, dass er für Passanten erreichbar ist und sich mit anderen Routern verbindet um das sogenannte Mesh zu bilden.
 
-Der ganze Datenverkehr von dem FF-Router wird durch einen virtuellen Netzwerktunnel (VPN) zu den Freifunk-Darmstadt-Servern übertragen und gelangt erst ab da ins Internet. Ängste vor der berüchtigten Störerhaftung sind daher unbegründet. Bei genaueren Fragen zum VPN-Tunnel und zur Konfiguration findest du <a href="sicherheit.html">hier</a> weitere Informationen oder kannst auf der Mailingliste oder beim Treffen nachfragen.
+
+### Verbinde den Router mit dem Netzwerk
+
+Wenn du deinen Internetzugang zur Verfügung stellen möchtest, verbinde jetzt den blauen WAN-Anschluss von deinem Freifunk-Router mit deinem Heim-Router. Andernfalls bist du auf andere Freifunker in der Nähe angewiesen um eine Verbindung zum Freifunk-Netzwerk und ins Internet herzustellen.
+
+### Fertig
+
+Super, du hast es geschafft. Dein Freifunk-Node funktioniert jetzt und sollte, wenn du GPS Koordinaten angegeben hast, in Kürze auf der [Karte](http://map.freifunk-darmstadt.de/) erscheinen.
