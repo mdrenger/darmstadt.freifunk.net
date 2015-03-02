@@ -8,6 +8,9 @@ top_url: /wie-funktioniert-freifunk
 sub_weight: 1
 ---
 
+<header>
+	<h2 class="post-title">Wie funktioniert Freifunk?</h2>
+</header>
 <section class="box">
 	<h3>Der Stand der Dinge</h3>
 	<img src="/images/network_1.jpg" class="half-width" />
