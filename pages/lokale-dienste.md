@@ -3,7 +3,7 @@ title: Lokale Dienste
 permalink: /lokale-dienste/
 top_url: /lokale-dienste/
 main_menu: true
-weight: 3
+weight: 4
 layout: page
 ---
 
