@@ -1,7 +1,7 @@
 ---
 title: Wie funktioniert Freifunk?
 permalink: /wie-funktioniert-freifunk/
-layout: page
+layout: default
 main_menu: true
 weight: 3
 top_url: /wie-funktioniert-freifunk
