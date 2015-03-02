@@ -9,40 +9,35 @@ layout: page
 
 
 
-### Dienste anbieten
+Unser Ziel ist es, eine Infrastruktur für nützliche Dienste in unserer Community bereitzustellen. Da das Netzwerk uns allen gehört, kann jeder nach Belieben eigene Inhalte und Dienste für sich und andere anbieten, welche **innerhalb des Freifunk-Netzes** erreichbar sind, d.h. wenn bei Verbindung mit einem Freifunk-Router.
 
-Unser Ziel ist es, eine Infrastruktur für nützliche Dienste in unserer Community bereitzustellen. Da das Netzwerk uns allen gehört, kann jeder nach Belieben eigene Inhalte und Dienste für sich und andere anbieten.
+Im Folgenden kannst du mehr über das Angebot und die Möglichkeiten herausfinden. Außerdem besteht natürlich immer die Möglichkeit, Engagierte aus der Freifunk Community zu [kontaktieren](/kontakt), falls du Fragen hast.
 
-Im Folgenden kannst du mehr über das Angebot und die Möglichkeiten herausfinden. Außerdem besteht natürlich immer die Möglichkeit, Engagierte aus der Freifunk Community zu [kontaktieren](/kontakt) falls du Fragen hast.
 
-#### Welche Dienste kann ich anbieten?
+#### Existierende Dienste
 
-Du kannst jedwede Art von Netzwerkdienst anbieten solange er nicht gegen geltendes Deutsches Recht verst&ouml;&szlig;t. Hier sind ein paar Beispiele:
+Aktuell werden in unserem Netz folgende Dienste von Benutzern angeboten:
 
-##### **Existierende Dienste**
+* [mumble.ffda](mumble://mumble.ffda) - Gruppen VoIP Service
+* [map.ffda](http://map.ffda) - Die Karte unserer Freifunk-Router
+* [cats.ffda](http://cats.ffda) - Ein neues Katzenbild alle 3 Sekunden
+* [chat.ffda](http://chat.ffda) - Weboberfläche für unseren IRC Chatraum
+* [nethack.ffda](ssh://nethack@nethack.ffda) - Nethack mit Patch für deutsches Tastaturlayout
 
-* mumble.ffda - Gruppen VoIP Service
-* map.ffda - Die Karte unserer Freifunk-Router
-* cats.ffda - Ein neues Katzenbild alle 3 Sekunden
-* chat.ffda - Weboberfläche für unseren IRC Chatraum
-* nethack.ffda - Nethack mit Patch für deutsches Tastaturlayout
+#### Weitere Dienste anbieten
 
-##### **Ideen für neue Dienste**
+Du kannst jedwede Art von Netzwerkdienst anbieten solange er nicht gegen geltendes Deutsches Recht verstößt.
+Hier sind ein paar Beispiele:
 
 * IRC Server
 * Jabber Server
 * [Bittorrent Bleep](http://labs.bittorrent.com/bleep/index.html)
-* eine (micro)blogging Platform
+* (Micro)blogging Platform
 * Suchmaschine
 * Torrent Tracker
-* Übersichtsseite / Splashpage
-* [kune.cc](http://kune.cc) (Apache Wave, ehemals Google)
-* ein Online-Radio (siehe [Demovibes](https://gitorious.org/demovibes))
+* [Apache Wave](http://incubator.apache.org/wave/), ehemals Google Wave
+* Online-Radio (siehe [Demovibes](https://gitorious.org/demovibes))
 
-#### Wie kann ich Dienste anbieten?
 
 Alles was du tun musst ist, das Gerät, welches deinen Service bereitstellt, an das Freifunk Netzwerk anzuschließen. Falls du eine statische IP oder eine .ffda Domain haben möchtest, [melde dich](/kontakt/) einfach bei uns.
-
-
-
 
