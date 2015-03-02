@@ -1409,6 +1409,10 @@
 			a {
 				color: inherit;
 			}
+			a.img {
+				border-bottom: none;
+				color: inherit;
+			}
 			
 			li {
 				border-left: solid 1px $color-border2;
