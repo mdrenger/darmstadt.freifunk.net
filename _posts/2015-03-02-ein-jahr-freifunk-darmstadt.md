@@ -5,7 +5,7 @@ date:   2015-03-02 22:50:04
 categories: netz knoten
 ---
 
-Ein Jahr ist sie nun her, die Neugründung des Projekts Freifunk Darmstadt, und wir sind seitdem weit gekommen. Vor ein paar Tagen haben wir zum ersten mal 100 Freifunk-Zugangspunkt online gesehen.
+Ein Jahr ist sie nun her, die Neugründung des Projekts Freifunk Darmstadt, und wir sind seitdem weit gekommen. Vor ein paar Tagen haben wir zum ersten mal 100 Freifunk-Zugangspunkte online gesehen.
 Um unseren ersten Jahrestag und die ersten 100 Zugangspunkte zu feiern, veranstalten wir eine Party, zu der wir dich herzlich einladen.
 
 <!--*-->
