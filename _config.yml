@@ -13,3 +13,4 @@ excerpt_separator: <!--*-->
 
 # Build settings
 markdown: kramdown
+exclude: [vendor]
