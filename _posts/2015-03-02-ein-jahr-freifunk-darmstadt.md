@@ -5,8 +5,8 @@ date:   2015-03-02 22:50:04
 categories: netz knoten
 ---
 
-Ein Jahr ist sie nun her, die Gründung des Projekts Freifunk Darmstadt, und wir sind seit dem weit gekommen. Vor ein paar Tagen haben wir zum ersten mal 100 Freifunk-Router online gesehen.
-Um unseren ersten Jahrestag und die ersten 100 Router zu feiern, veranstalten wir eine Party, zu der wir dich herzlich einladen.
+Ein Jahr ist sie nun her, die Neugründung des Projekts Freifunk Darmstadt, und wir sind seitdem weit gekommen. Vor ein paar Tagen haben wir zum ersten mal 100 Freifunk-Zugangspunkt online gesehen.
+Um unseren ersten Jahrestag und die ersten 100 Zugangspunkte zu feiern, veranstalten wir eine Party, zu der wir dich herzlich einladen.
 
 <!--*-->
 Am 16.4. bieten wir in der [Oetinger Villa](http://www.oetingervilla.de) auf zwei Etagen Musik, Getränke und leckeres Essen.

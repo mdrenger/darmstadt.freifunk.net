@@ -9,20 +9,20 @@ layout: page
 
 
 
-Unser Ziel ist es, eine Infrastruktur für nützliche Dienste in unserer Community bereitzustellen. Da das Netzwerk uns allen gehört, kann jeder nach Belieben eigene Inhalte und Dienste für sich und andere anbieten, welche **innerhalb des Freifunk-Netzes** erreichbar sind, d.h. wenn bei Verbindung mit einem Freifunk-Router.
+Unser Ziel ist es, eine Infrastruktur für nützliche Dienste in unserer Community bereitzustellen. Da das Netzwerk uns allen gehört, kann jeder nach Belieben eigene Inhalte und Dienste für sich und andere anbieten, welche **innerhalb des Freifunk-Netzes** erreichbar sind, d.h. wenn dein Gerät eine Verbindung zu einem Freifunk-Zugangspunkt aufgebaut hat.
 
-Im Folgenden kannst du mehr über das Angebot und die Möglichkeiten herausfinden. Außerdem besteht natürlich immer die Möglichkeit, Engagierte aus der Freifunk Community zu [kontaktieren](/kontakt), falls du Fragen hast.
+Im Folgenden kannst du mehr über das Angebot und die Möglichkeiten für Dienste im Freifunknetz herausfinden. Außerdem besteht natürlich immer die Möglichkeit, Engagierte aus der Freifunk Community zu [kontaktieren](/kontakt), falls du Fragen hast.
 
 
 #### Existierende Dienste
 
 Aktuell werden in unserem Netz folgende Dienste von Benutzern angeboten:
 
-* [mumble.ffda](mumble://mumble.ffda) - Gruppen VoIP Service
+* [mumble.ffda](mumble://mumble.ffda) - Gruppen Internettelefonie (VoIP)
 * [map.ffda](http://map.ffda) - Die Karte unserer Freifunk-Router
 * [cats.ffda](http://cats.ffda) - Ein neues Katzenbild alle 3 Sekunden
 * [chat.ffda](http://chat.ffda) - Weboberfläche für unseren IRC Chatraum
-* [nethack.ffda](ssh://nethack@nethack.ffda) - Nethack mit Patch für deutsches Tastaturlayout
+* [nethack.ffda](ssh://nethack@nethack.ffda) - Nethack, ein beliebtes Kommandozeilenspiel mit Patch für deutsches Tastaturlayout
 
 #### Weitere Dienste anbieten
 
