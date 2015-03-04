@@ -9,7 +9,7 @@ permalink: /mitmachen/faq/
 
 ### Wo stehen schon Freifunk-Router?
 
-Schau mal auf der [Netzkarte](../../lokale-dienste/karte/) nach. Wenn es bei dir noch keinen Freifunk-Router in der Nachbarschaft gibt, dann sei die oder der Erste!
+Schau mal auf der [Netzkarte](../../zugangspunkte/) nach. Wenn es bei dir noch keinen Freifunk-Router in der Nachbarschaft gibt, dann sei die oder der Erste!
 
 ### Warum ist das alles kostenlos? Wo ist der Haken?
 
