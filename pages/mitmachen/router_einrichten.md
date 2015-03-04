@@ -25,7 +25,7 @@ permalink: /mitmachen/router-einrichten/
 
 ### Konfigurationsmodus
 
-Nach dem Neustart solltest du eine neue IP-Adresse zugwiesen bekommen haben. Der Konfigurationsmodus ist nun unter [http://192.168.1.1](http://192.168.1.1) in deinem Browser erreichbar.
+Nach dem Neustart solltest du eine neue IP-Adresse zugwiesen bekommen haben. Der Konfigurationsmodus ist nun unter http://192.168.1.1 in deinem Browser erreichbar.
 
 ### Den Router konfigurieren
 
