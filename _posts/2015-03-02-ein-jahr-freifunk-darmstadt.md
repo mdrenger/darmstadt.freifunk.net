@@ -10,7 +10,7 @@ Um unseren ersten Jahrestag und die ersten 100 Zugangspunkte zu feiern, veransta
 
 <!--*-->
 Am 16.4. bieten wir in der [Oetinger Villa](http://www.oetingervilla.de) auf zwei Etagen Musik, Getränke und leckeres Essen.
-Der Eintritt ist frei, jedoch freuen wir uns über Spenden.
+Der Eintritt ist frei, jedoch freuen wir uns über Spenden. Weitere Details folgen in Kürze.
 
 Feiert mit uns zusammen ins zweite Jahr Freifunk in Darmstadt!
 
