@@ -1,6 +1,6 @@
 freifunk-darmstadt.github.io
 ============================
-[![Build Status](https://travis-ci.org/freifunk-darmstadt/freifunk-darmstadt.github.io.svg?branch=master)](https://travis-ci.org/freifunk-darmstadt/freifunk-darmstadt.github.io)
+[![Build Status](https://travis-ci.org/freifunk-darmstadt/darmstadt.freifunk.net.svg?branch=master)](https://travis-ci.org/freifunk-darmstadt/darmstadt.freifunk.net)
 FFDA website
 
 ## Running
