@@ -9,7 +9,7 @@ Ein Jahr ist sie nun her, die Neugründung des Projekts Freifunk Darmstadt, und 
 Um unseren ersten Jahrestag und die ersten 100 Zugangspunkte zu feiern, veranstalten wir eine Party, zu der wir dich herzlich einladen.
 
 <!--*-->
-Am <span style="text-decoration: line-through;">16.4.</span> **9.4** bieten wir in der [Oetinger Villa](http://www.oetingervilla.de) auf zwei Etagen Musik, Getränke und leckeres Essen.
+Am <span style="text-decoration: line-through;">16.4.</span> **9.4.** bieten wir in der [Oetinger Villa](http://www.oetingervilla.de) auf zwei Etagen Musik, Getränke und leckeres Essen.
 Der Eintritt ist frei, jedoch freuen wir uns über Spenden. Weitere Details folgen in Kürze.
 
 Feiert mit uns zusammen ins zweite Jahr Freifunk in Darmstadt!
