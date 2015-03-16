@@ -5,7 +5,7 @@ date:   2015-03-16 20:00:00
 categories: community
 ---
 
-Bei Freifunk Darmstadt ist der 100ste Freifunk-Router ans Netz gegangen! Um all jenen zu danken, die diesen Erfolg ermöglicht haben, veranstalten wir am 9. April eine Party in der Oetinger Villa. Wenn du offenes WLAN in Darmstadt und Umgebung unterstützen möchtest, dann komm vorbei und triff die Menschen hinter den Kulissen. Den Erlös investieren wir in den Ausbau von Freifunk.
+Bei Freifunk Darmstadt ist der 100ste Freifunk-Router ans Netz gegangen! Um all jenen zu danken, die diesen Erfolg ermöglicht haben, veranstalten wir am 9. April eine Party in der [Oetinger Villa](http://www.oetingervilla.de/). Wenn du offenes WLAN in Darmstadt und Umgebung unterstützen möchtest, dann komm vorbei und triff die Menschen hinter den Kulissen. Den Erlös investieren wir in den Ausbau von Freifunk.
 
 <!--*-->
 
