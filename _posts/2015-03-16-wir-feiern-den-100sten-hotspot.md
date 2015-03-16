@@ -2,7 +2,7 @@
 layout: post
 title:  "Wir feiern den 100sten Hotspot: 9. April, 19:00 Uhr in der Oetinger Villa"
 date:   2015-03-16 20:00:00
-categories: netz knoten
+categories: community
 ---
 
 Bei Freifunk Darmstadt ist der 100ste Freifunk-Router ans Netz gegangen! Um all jenen zu danken, die diesen Erfolg ermöglicht haben, veranstalten wir am 9. April eine Party in der Oetinger Villa. Wenn du offenes WLAN in Darmstadt und Umgebung unterstützen möchtest, dann komm vorbei und triff die Menschen hinter den Kulissen. Den Erlös investieren wir in den Ausbau von Freifunk.
