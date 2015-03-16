@@ -11,7 +11,7 @@ permalink: /mitmachen/router-einrichten/
 ### Den Router anschließen
 
 
-1. Lade das passende Freifunk Firmware-Image für deinen Router [von unserer Seite](http://update.freifunk-darmstadt.de/) herunter.
+1. Lade das passende Freifunk Firmware-Image für deinen Router [von unserer Seite](http://firmware.darmstadt.freifunk.net/) herunter.
 2. Verbinde einen der gelben LAN-Anschlüsse des Routers mit einem Netzwerkkabel mit deinem Computer.
 3. Dein Computer erhält automatisch eine IP-Adresse via DHCP.
 
@@ -32,13 +32,13 @@ Nach dem Neustart solltest du eine neue IP-Adresse zugwiesen bekommen haben. Der
 
 1. Aktiviere die Option `Firmware automatisch aktualisieren`.
 2. Aktiviere die Option `Mesh-VPN aktivieren` / `Internet-Verbindung (Mesh-VPN)`.
-3. Füge GPS-Koordinaten des Standorts ein, z.B. von [http://map.freifunk-darmstadt.de](http://map.freifunk-darmstadt.de) (klicke auf *Koordinaten beim nächsten Klick anzeigen*).
+3. Füge GPS-Koordinaten des Standorts ein, z.B. von [http://map.darmstadt.freifunk.net](http://map.darmstadt.freifunk.net) (klicke auf *Koordinaten beim nächsten Klick anzeigen*).
 4. Gib deine E-Mail Adresse als Kontaktmöglichkeit an. Deine Adresse wird zu nichts anderem als zur zweckmäßigen Kontaktaufnahme genutzt. Es erfolgt niemals eine Weitergabe außerhalb des Freifunk Darmstadt Projektes.
 5. Klicke auf `Speichern und Neustarten`. Nun wird der Browser den von dir gewählten Namen erneut anzeigen, sowie seinen Schlüssel für den sicheren VPN-Zugang:  
 	> #node-name 
 	> key "node-key";
 	
-Beide Zeilen sendest du bitte per E-Mail an [keys@freifunk-darmstadt.de](mailto:keys@freifunk-darmstadt.de).
+Beide Zeilen sendest du bitte per E-Mail an [keys@darmstadt.freifunk.net](mailto:keys@darmstadt.freifunk.net).
     
 Dein Schlüssel wird nun zeitnah eingetragen, woraufhin du eine Rückmeldung erhältst.
 
@@ -52,4 +52,4 @@ Wenn du deinen Internetzugang zur Verfügung stellen möchtest, verbinde jetzt d
 
 ### Fertig
 
-Super, du hast es geschafft. Dein Freifunk-Node funktioniert jetzt und sollte, wenn du GPS Koordinaten angegeben hast, in Kürze auf der [Karte](http://map.freifunk-darmstadt.de/) erscheinen.
+Super, du hast es geschafft. Dein Freifunk-Node funktioniert jetzt und sollte, wenn du GPS Koordinaten angegeben hast, in Kürze auf der [Karte](http://map.darmstadt.freifunk.net/) erscheinen.
