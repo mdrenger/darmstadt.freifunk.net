@@ -9,7 +9,7 @@ top_url: /news/
 
 <!DOCTYPE html>
 <html>
-  {% include head-network-state.html %}
+  {% include head-news.html %}
 
   <body onload="netstate_init()">
     {% include header.html %}
@@ -35,7 +35,7 @@ top_url: /news/
 			<div class="4u 12u(3)">
 				<div class="box">
 					<h3>Nächstes Treffen</h3>
-					<p>Montag, 23. März um 19 Uhr im <a href="/kontakt/">Chaos Darmstadt</a>.</p>
+					<p><span id="next_meet_date">N&auml;chsten Montag</span> um 19:00 Uhr im <a href="/kontakt/">Chaos Darmstadt</a>.</p>
 				</div>
 				<div class="box">
 					<h3>Statistik</h3>
@@ -52,6 +52,11 @@ top_url: /news/
     </section>
 
     {% include footer.html %}
+
+    <script>
+        moment.locale('de');
+        $('#next_meet_date').text(moment().day(8).format('D. MMMM'));
+    </script>
 
   </body>
 
