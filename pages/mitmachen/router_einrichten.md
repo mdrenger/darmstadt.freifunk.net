@@ -34,12 +34,12 @@ Nach dem Neustart solltest du eine neue IP-Adresse zugwiesen bekommen haben. Der
 2. Aktiviere die Option `Mesh-VPN aktivieren` / `Internet-Verbindung (Mesh-VPN)`.
 3. Füge GPS-Koordinaten des Standorts ein, z.B. von [http://map.darmstadt.freifunk.net](http://map.darmstadt.freifunk.net) (klicke auf *Koordinaten beim nächsten Klick anzeigen*).
 4. Gib deine E-Mail Adresse als Kontaktmöglichkeit an. Deine Adresse wird zu nichts anderem als zur zweckmäßigen Kontaktaufnahme genutzt. Es erfolgt niemals eine Weitergabe außerhalb des Freifunk Darmstadt Projektes.
-5. Klicke auf `Speichern und Neustarten`. Nun wird der Browser den von dir gewählten Namen erneut anzeigen, sowie seinen Schlüssel für den sicheren VPN-Zugang:  
-	> #node-name 
+5. Klicke auf `Speichern und Neustarten`. Nun wird der Browser den von dir gewählten Namen erneut anzeigen, sowie seinen Schlüssel für den sicheren VPN-Zugang:
+	> #node-name
 	> key "node-key";
-	
+
 Beide Zeilen sendest du bitte per E-Mail an [keys@darmstadt.freifunk.net](mailto:keys@darmstadt.freifunk.net).
-    
+
 Dein Schlüssel wird nun zeitnah eingetragen, woraufhin du eine Rückmeldung erhältst.
 
 ### Den Router aufstellen
