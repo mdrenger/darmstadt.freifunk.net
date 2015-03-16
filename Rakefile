@@ -8,8 +8,7 @@ task :serve do
   sh "bundle exec jekyll serve"
 end
 
-task :test do
-  build
+task :test => :build do
   HTML::Proofer.new("./_site",
                     {:href_ignore => [/http(s?):\/\/(.*)\.ffda/]}).run
 end
