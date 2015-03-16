@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wir feiern den 100sten Hotspot: 9. April, 19:00 Uhr in der Oetinger Villa"
-date:   2015-03-17 20:00:00
+date:   2015-03-16 20:00:00
 categories: netz knoten
 ---
 
