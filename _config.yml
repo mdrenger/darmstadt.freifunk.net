@@ -11,6 +11,8 @@ github_username:  freifunk-darmstadt
 
 excerpt_separator: <!--*-->
 
+permalink: "news/:year/:month/:day/:title"
+
 # Build settings
 markdown: kramdown
 exclude: [vendor]
