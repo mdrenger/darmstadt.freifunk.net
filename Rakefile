@@ -26,6 +26,6 @@ task :test => :build do
 end
 
 task :clean do
-  sh "bundle exec rm -R ./_site"
+  sh "bundle exec rm -R ./_site || true"
 end
 
