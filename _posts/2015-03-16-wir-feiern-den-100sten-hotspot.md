@@ -15,7 +15,7 @@ Zum Abtanzen geht es ab 21:00 Uhr in der Dance-Area los. Um gute Stimmung bis in
 
 Natürlich wird es auch Freifunk-Netz auf der Party geben. Dafür wird die Oetinger Villa in Kürze mit Freifunk-Routern ausgestattet werden.
 
-Der Eintritt ist frei, wir freuen uns aber über jede Spende. Als Dankeschön verlosen wir unter allen Spendern an diesem Abend um 22:00 Uhr einen vorinstallierten Freifunk-Router\*. Bereits im Vorfeld verlosen wir das gleiche Modell unter allen Retweets und Facebook-Shares unserer Einladung. Die Gewinner werden auf Party im Anschluss an die Verlosung bekanntgegeben und können ihren Router gleich mitnehmen. Abholung bei einem der Freifunk-Treffen ebenfalls möglich.
+Der Eintritt ist frei, wir freuen uns aber über jede Spende. Als Dankeschön verlosen wir unter allen Spendern an diesem Abend um 22:00 Uhr einen vorinstallierten Freifunk-Router\*. Bereits im Vorfeld verlosen wir das gleiche Modell unter allen Retweets und Facebook-Shares unserer Einladung. Die Gewinner werden auf der Party, im Anschluss an die Verlosung, bekanntgegeben und können ihren Router gleich mitnehmen. Eine Abholung bei einem der Freifunk-Treffen ist ebenfalls möglich.
 
 \* TP-Link TL-WR1043ND v2 (720 MHz, 8 MB Flash, 64 MB RAM, 4x GBit)
 
