@@ -27,7 +27,9 @@ top_url: /news/
 							<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 						</h3>
 
-						{{ post.content }}
+						<div class="post-content">
+                                                {{ post.content }}
+                                                </div>
 				</div>
 				{% endfor %}
 				<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
