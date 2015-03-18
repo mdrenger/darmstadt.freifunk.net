@@ -1520,8 +1520,8 @@
 }
 
 
-.social-links a {
-	text-decoration:none;
+.social-links a,
+.rss-subscribe a {
 	border-bottom: 0;
 	color: black;
 	opacity: 0.35;
@@ -1532,6 +1532,11 @@
 	transition: opacity 0.2s ease-in-out;
 }
 
-.social-links a:hover {
+.social-links a:hover,
+.rss-subscribe a:hover {
 	opacity: 0.75;
 }
+
+/*.rss-subscribe {
+	text-align: right;
+}*/

@@ -33,7 +33,15 @@ top_url: /news/
                                                 </div>
 				</div>
 				{% endfor %}
-				<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+				<p class="rss-subscribe">
+					<a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+					<span class="fa-stack fa-sm">
+						<i class="fa fa-square-o fa-stack-2x"></i>
+						<i class="fa fa-rss fa-stack-1x"></i>
+					</span>
+					RSS-Feed
+					</a> abonnieren
+				</p>
 			</div>
 			<div class="4u 12u(3)">
 				<div class="box">
