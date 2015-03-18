@@ -29,6 +29,7 @@ top_url: /news/
 
 						<div class="post-content">
                                                 {{ post.content }}
+                                                {% include social.html post=post %}
                                                 </div>
 				</div>
 				{% endfor %}
