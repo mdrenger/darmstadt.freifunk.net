@@ -66,7 +66,12 @@ top_url: /news/
 
     <script>
         moment.locale('de');
-        $('#next_meet_date').text(moment().day(8).format('D. MMMM'));
+        var nextDate;
+        if (moment().isSame(moment().weekday(0), 'day'))
+            nextDate = moment().weekday(0);
+        else
+            nextDate = moment().weekday(7);
+        $('#next_meet_date').text(nextDate.format('D. MMMM'));
     </script>
 
   </body>
