@@ -16,7 +16,7 @@ Im Folgenden kannst du mehr über das Angebot und die Möglichkeiten für Dienst
 
 #### Existierende Dienste
 
-Aktuell werden in unserem Netz folgende Dienste von Benutzern angeboten:
+Aktuell werden **innerhalb unseres Freifunk-Netzes** folgende Dienste von Benutzern angeboten:
 
 * [mumble.ffda](mumble://mumble.ffda) - Gruppen Internettelefonie (VoIP)
 * [map.ffda](http://map.ffda) - Die Karte unserer Freifunk-Router
