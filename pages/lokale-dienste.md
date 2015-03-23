@@ -31,7 +31,6 @@ Hier sind ein paar Beispiele:
 
 * IRC Server
 * Jabber Server
-* [Bittorrent Bleep](http://labs.bittorrent.com/bleep/index.html)
 * (Micro)blogging Platform
 * Suchmaschine
 * Torrent Tracker
