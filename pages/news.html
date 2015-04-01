@@ -71,6 +71,10 @@ top_url: /news/
             nextDate = moment().weekday(0);
         else
             nextDate = moment().weekday(7);
+
+        // temporary override for easter monday
+        nextDate = moment().weekday(14);
+
         $('#next_meet_date').text(nextDate.format('D. MMMM'));
     </script>
 
