@@ -35,7 +35,7 @@ Hier sind ein paar Beispiele:
 * Suchmaschine
 * Torrent Tracker
 * [Apache Wave](http://incubator.apache.org/wave/), ehemals Google Wave
-* Online-Radio (siehe [Demovibes](https://gitorious.org/demovibes))
+* Online-Radio (siehe [Demovibes](https://github.com/arabek/demovibes))
 
 
 Alles was du tun musst ist, das Gerät, welches deinen Service bereitstellt, an das Freifunk Netzwerk anzuschließen. Falls du eine statische IP oder eine .ffda Domain haben möchtest, [melde dich](/kontakt/) einfach bei uns.
