@@ -1,9 +1,9 @@
 # Site settings
-title: Skalarfunk Darmstadt
-tagline: das freie Skalarfunk-Netzwerk für DA und Umgebung
+title: Freifunk Darmstadt
+tagline: das freie WLAN-Netzwerk für DA und Umgebung
 email: info@darmstadt.freifunk.net
 description: > # this means to ignore newlines until "baseurl:"
- Skalarfunk Darmstadt ist eine lokale Initiative sich der lokalen Skalarwellen-Ressourcen zu bemächtigen.
+ Freifunk Darmstadt ist eine lokale Initiative mit dem Ziel, ein WLAN-Netzwerk über Darmstadt aufzuspannen und freien Internetzugang anzubieten.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://darmstadt.freifunk.net" # the base hostname & protocol for your site
 twitter_username: freifunkDA
