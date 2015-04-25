@@ -29,7 +29,7 @@ Mehrere Freifunk-Router können sowohl über Funk meshen, als auch über den WAN
 
 Dies ist aus verschiedenen Gründen mit der Standard-Freifunk-Firmware nicht möglich:
 
- - Das im Router vebaute WLAN-Modul kann meist nur auf einer Frequenz gleichzeitig funken. Somit wäre allein technisch eine Verbindung nur dann möglich, wenn das Uplink-WLAN auf der gleichen Frequenz wie Freifunk sendet.
+ - Das im Router verbaute WLAN-Modul kann meist nur auf einer Frequenz gleichzeitig funken. Somit wäre allein technisch eine Verbindung nur dann möglich, wenn das Uplink-WLAN auf der gleichen Frequenz wie Freifunk sendet.
  - In diesem Fall würde die "Airtime" (also die Zeit, die der Funkkanal belastet wird) doppelt beansprucht, zum Senden im Freifunk-Netz und zum Weiterreichen ins Uplink-WLAN.
  - Zwei WLAN-Radios an einem Freifunkrouter könnten einen Uplink theoretisch auch auf einem anderen Kanal ermöglichen, dies erfordert jedoch manuelle Konfiguration, welche bei aktivem Autoupdater kaputt gehen könnte.
  - Ein USB-WLAN-Stick, welcher das 2. Radio bereitstellen könnte, kostet auch ~15€, ungefähr so viel wie schon ein kleiner vollständiger Freifunk-Router (TP-Link WR841N).
