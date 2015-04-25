@@ -2,3 +2,5 @@
 /.sass-cache
 *.lock
 *.swp
+/.bundle
+/vendor
