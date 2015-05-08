@@ -19,4 +19,4 @@ Der Eintritt ist frei, wir freuen uns aber über jede Spende. Als Dankeschön ve
 
 \* TP-Link TL-WR1043ND v2 (720 MHz, 8 MB Flash, 64 MB RAM, 4x GBit)
 
-![Bild der Preise, zwei Router](/images/2015-03-16_routers-for-raffle.jpg "Gewinn mich!")
+![Bild der Preise, zwei Router](/images/posts/2015-03-16_routers-for-raffle.jpg "Gewinn mich!")
