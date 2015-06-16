@@ -39,6 +39,21 @@ Spenden ist am einfachsten über unseren Partner [betterplace.org](https://www.b
 <div id="betterplace_donation_iframe" style="text-align:center;background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/de/projects/27613-freifunk-darmstadt/donations/new">Jetzt Spenden für „Freifunk Darmstadt“ bei unserem Partner betterplace.org</a></strong></div>
 
 ## Spenden durch Online-Käufe
+
+<script>
+  var fileref = document.createElement("link");
+  fileref.setAttribute("rel", "stylesheet");
+  fileref.setAttribute("type", "text/css");
+  fileref.setAttribute("href", "https://www.boost-project.com/assets/button.css");
+  document.getElementsByTagName("head")[0].appendChild(fileref);
+</script>
+<div style="float:right">
+  <a class="boost-button-weroiby1" target="_blank" href="https://www.boost-project.com/de/shops?charity_id=3433&tag=bb">Unterstützen Sie uns mit<br>
+  Ihrem Online-Einkauf<br>
+  <span style='font-weight:normal;'>ohne Extrakosten</span>
+  </a>
+</div>
+
 Durch das [boost-Project](https://www.boost-project.com/de/charities/3433) könnt ihr uns mit Käufen in zahlreichen Online-Shops, wie u.a.
 [Amazon](https://www.boost-project.com/de/referals?referal%5Bcharity_id%5D=3433&referal%5Bshop_id%5D=10),
 [Conrad](https://www.boost-project.com/de/referals?referal%5Bcharity_id%5D=3433&referal%5Bshop_id%5D=297),
@@ -49,27 +64,8 @@ Durch das [boost-Project](https://www.boost-project.com/de/charities/3433) könn
 [Lieferando](https://www.boost-project.com/de/referals?referal%5Bcharity_id%5D=3433&referal%5Bshop_id%5D=52),
 - [Meinfernbus](https://www.boost-project.com/de/referals?referal%5Bcharity_id%5D=3433&referal%5Bshop_id%5D=616), - [u.v.a](https://www.boost-project.com/de/shops?charity_id=3433&tag=bl) unterstützen!
 
-Besucht dazu einfach direkt den jeweiligen Shop über die obigen Links oder den untenstehenden Button.
-
+Besucht dazu einfach direkt den jeweiligen Shop über die obigen Links oder den nebenstehenden Button.
 Es fallen für euch keine Extrakosten an, wir erhalten lediglich eine Provision, welche über Affiliate-Links generiert wird.
-
-<script>
-  var fileref = document.createElement("link");
-  fileref.setAttribute("rel", "stylesheet");
-  fileref.setAttribute("type", "text/css");
-  fileref.setAttribute("href", "https://www.boost-project.com/assets/button.css");
-  document.getElementsByTagName("head")[0].appendChild(fileref);
-</script>
-<div style="text-align:center">
-<a class="boost-button-weroiby1" target="_blank" href="https://www.boost-project.com/de/shops?charity_id=3433&tag=bb">Unterstützen Sie uns mit
-<br>
-Ihrem Online-Einkauf
-<br>
-<span style='font-weight:normal;'>
-ohne Extrakosten
-</span>
-</a>
-</div>
 
 
 ## Manuell per Überweisung
