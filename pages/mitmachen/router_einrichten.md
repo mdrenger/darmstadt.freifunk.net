@@ -11,45 +11,43 @@ permalink: /mitmachen/router-einrichten/
 ### Den Router anschließen
 
 
-1. Lade das passende Freifunk Firmware-Image für deinen Router [von unserer Seite](http://firmware.darmstadt.freifunk.net/) herunter.
-2. Verbinde einen der gelben LAN-Anschlüsse des Routers mit einem Netzwerkkabel mit deinem Computer.
-3. Dein Computer erhält automatisch eine IP-Adresse via DHCP.
+1. Lade das passende Erstinstallations-Firmware-Image für deinen Router [von unserer Seite](https://firmware.darmstadt.freifunk.net/) herunter.
+2. Verbinde deinen Computer mit einem der gelben LAN-Anschlüsse des Routers.
+3. Dein Computer erhält nun automatisch via DHCP eine IP-Adresse.
 
 ### Installiere das Freifunk-Image
 
-
-1. Öffne das Web-Interface deines Routers in deinem Browser.
-2. Folge den Anweisungen im Handbuch deines Routers um die Firmware upzudaten.
-3. Nutze das von der Freifunk-Website heruntergeladene Firmware-Image.
+1. Öffne das Webinterface deines Routers in deinem Browser.
+2. Folge den Anweisungen im Handbuch deines Routers um die Firmware zu aktualisieren.
+3. Nutze nun das von der zuvor heruntergeladene Firmware-Image.
 4. Warte bis der Router wieder gestartet ist.
 
 ### Konfigurationsmodus
 
-Nach dem Neustart solltest du eine neue IP-Adresse zugwiesen bekommen haben. Der Konfigurationsmodus ist nun unter http://192.168.1.1 in deinem Browser erreichbar.
+Dein Router sollte nun in den Konfigurationsmodus starten. Du erhälst erneut IP-Adresse per DHCP, dein Freifunk-ROuter ist nun unter http://192.168.1.1 in deinem Browser erreichbar.
 
 ### Den Router konfigurieren
 
+1. Wähle einen Namen nach dem Schema `PLZ-Wahlname`, also bspw. `64283-Kaesekuchen`.
+2. Aktiviere das `Mesh-VPN`, um eine Verbindung mit dem Freifunk-Netz über das Internet herzustellen
+3. Füge GPS-Koordinaten des Router-Standorts ein. Diese kannst du auf unterschiedliche Weisen erhalten:
+  - Am PC: z.B. via [Google Maps](https://www.google.com/maps/@49.8761991,8.6757011,12z?hl=de) (Rechtsklick, "Was ist hier?") 
+  - Android: [GPS Status & Toolbox](https://play.google.com/store/apps/details?id=com.eclipsim.gpsstatus2)
+4. Trage eine funktionierende Kontaktmöglichkeit an. Deine Adresse wird ausschließlich zur Kontaktaufnahme durch uns genutzt und niemals an Dritte weitergegeben.
+5. Nach einem Klick auf `Speichern und Neustarten` siehst du den Öffentlichen Schlüssel für den VPN-Zugang. Diesen sendest du bitte per E-Mail an [keys@darmstadt.freifunk.net](mailto:keys@darmstadt.freifunk.net).
 
-1. Aktiviere die Option `Firmware automatisch aktualisieren`.
-2. Aktiviere die Option `Mesh-VPN aktivieren` / `Internet-Verbindung (Mesh-VPN)`.
-3. Füge GPS-Koordinaten des Standorts ein, z.B. von [http://map.darmstadt.freifunk.net](http://map.darmstadt.freifunk.net) (klicke auf *Koordinaten beim nächsten Klick anzeigen*).
-4. Gib deine E-Mail Adresse als Kontaktmöglichkeit an. Deine Adresse wird zu nichts anderem als zur zweckmäßigen Kontaktaufnahme genutzt. Es erfolgt niemals eine Weitergabe außerhalb des Freifunk Darmstadt Projektes.
-5. Klicke auf `Speichern und Neustarten`. Nun wird der Browser den von dir gewählten Namen erneut anzeigen, sowie seinen Schlüssel für den sicheren VPN-Zugang:
-	> #node-name
-	> key "node-key";
+	> &#35; PLZ-Wahlname \\
+	> key "f1d2d2f924e986ac86fdf7b36c94bcdf32beec15";
 
-Beide Zeilen sendest du bitte per E-Mail an [keys@darmstadt.freifunk.net](mailto:keys@darmstadt.freifunk.net).
-
-Dein Schlüssel wird nun zeitnah eingetragen, woraufhin du eine Rückmeldung erhältst.
+Dein Schlüssel wird nun zeitnah auf den Gateways eingetragen, woraufhin du eine Begrüßungs-Email erhältst.
 
 ### Den Router aufstellen
-Als Standort empfehlen sich Fenster, Balkone oder Dächer. Je näher er der Außenwelt ist, desto wahrscheinlicher ist es, dass er für Passanten erreichbar ist und sich mit anderen Routern verbindet um das sogenannte Mesh zu bilden.
-
+Als Standort empfehlen sich Fenster, Balkone oder Dächer. Je näher er der Außenwelt ist, desto wahrscheinlicher ist es, dass er für Passanten erreichbar ist und sich mit anderen Routern verbindet um eine (Meshverbindung)[https://de.wikipedia.org/wiki/Vermaschtes_Netz] zu bilden.
 
 ### Verbinde den Router mit dem Netzwerk
 
-Wenn du deinen Internetzugang zur Verfügung stellen möchtest, verbinde jetzt den blauen WAN-Anschluss von deinem Freifunk-Router mit deinem Heim-Router. Andernfalls bist du auf andere Freifunker in der Nähe angewiesen um eine Verbindung zum Freifunk-Netzwerk und ins Internet herzustellen.
+Wenn du deinen Internetzugang zur Verfügung stellen möchtest, verbinde jetzt den blauen WAN-Anschluss deines Freifunk-Router mit deinem vorhandenen Internetrouter. Möchtest oder kannst du das nicht bist du auf andere Freifunker in deiner Nähe angewiesen um eine Verbindung zum Freifunk-Netzwerk und ins Internet herzustellen.
 
 ### Fertig
 
-Super, du hast es geschafft. Dein Freifunk-Node funktioniert jetzt und sollte, wenn du GPS Koordinaten angegeben hast, in Kürze auf der [Karte](http://map.darmstadt.freifunk.net/) erscheinen.
+Super, du hast es geschafft. Dein Freifunk-Knoten funktioniert jetzt und sollte, wenn du GPS Koordinaten angegeben hast, in Kürze auf der [Karte](https://map.darmstadt.freifunk.net/) erscheinen.
