@@ -24,7 +24,7 @@ permalink: /mitmachen/router-einrichten/
 
 ### Konfigurationsmodus
 
-Dein Router sollte nun in den Konfigurationsmodus starten. Du erhälst erneut IP-Adresse per DHCP, dein Freifunk-ROuter ist nun unter http://192.168.1.1 in deinem Browser erreichbar.
+Dein Router sollte nun in den Konfigurationsmodus starten. Du erhälst erneut IP-Adresse per DHCP, dein Freifunk-Router ist nun unter [http://192.168.1.1](http://192.168.1.1) in deinem Browser erreichbar.
 
 ### Den Router konfigurieren
 
@@ -42,7 +42,7 @@ Dein Router sollte nun in den Konfigurationsmodus starten. Du erhälst erneut IP
 Dein Schlüssel wird nun zeitnah auf den Gateways eingetragen, woraufhin du eine Begrüßungs-Email erhältst.
 
 ### Den Router aufstellen
-Als Standort empfehlen sich Fenster, Balkone oder Dächer. Je näher er der Außenwelt ist, desto wahrscheinlicher ist es, dass er für Passanten erreichbar ist und sich mit anderen Routern verbindet um eine (Meshverbindung)[https://de.wikipedia.org/wiki/Vermaschtes_Netz] zu bilden.
+Als Standort empfehlen sich Fenster, Balkone oder Dächer. Je näher er der Außenwelt ist, desto wahrscheinlicher ist es, dass er für Passanten erreichbar ist und sich mit anderen Routern verbindet um eine [Meshverbindung](https://de.wikipedia.org/wiki/Vermaschtes_Netz) zu bilden.
 
 ### Verbinde den Router mit dem Netzwerk
 
