@@ -30,7 +30,7 @@ Was ihr mitbringen müsst:
 - Essen für den Grill.. Salate etc..
 - Eure Freunde, Familie, Nachbarn, Arbeitskollegen...
 
-Was ohr mitbringen könnt:
+Was ihr mitbringen könnt:
 
 - Gitarre(n)
 - Ukulele
