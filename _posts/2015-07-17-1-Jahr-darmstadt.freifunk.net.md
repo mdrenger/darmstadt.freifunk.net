@@ -25,12 +25,12 @@ Für Folgendes ist gesorgt:
 
 ![darmstadt.freifunk.net Grillparty am 25.07.15](/images/posts/2015-07-17-grillparty.png "It's party time!")
 
-Was Ihr Mitbringen müsst:
+Was ihr mitbringen müsst:
 
 - Essen für den Grill.. Salate etc..
 - Eure Freunde, Familie, Nachbarn, Arbeitskollegen...
 
-Was Ihr mitbrigen könnt:
+Was ohr mitbringen könnt:
 
 - Gitarre(n)
 - Ukulele
