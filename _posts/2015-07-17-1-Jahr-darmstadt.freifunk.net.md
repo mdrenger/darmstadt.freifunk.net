@@ -14,6 +14,7 @@ Wo: Im Innenhof des [Chaos Darmstadt e.V.](https://chaos-darmstadt.de/) (Wilhelm
 <!--*-->
 
 Für Folgendes ist gesorgt:
+
 - Kohle für den Grill
 - Getränke (gegen eine kleine Spende)
 - Musik
@@ -25,10 +26,12 @@ Für Folgendes ist gesorgt:
 ![darmstadt.freifunk.net Grillparty am 25.07.15](/images/posts/2015-07-17-grillparty.png "It's party time!")
 
 Was Ihr Mitbringen müsst:
+
 - Essen für den Grill.. Salate etc..
 - Eure Freunde, Familie, Nachbarn, Arbeitskollegen...
 
 Was Ihr mitbrigen könnt:
+
 - Gitarre(n)
 - Ukulele
 - Laptop
