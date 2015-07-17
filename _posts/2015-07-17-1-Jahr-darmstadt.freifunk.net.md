@@ -22,6 +22,8 @@ Für Folgendes ist gesorgt:
 • Gemütliche Sitz- & Liege-Gelegenheiten (Couch und Hängematten)
 • Strom für Laptops & Co (Ja, du kannst mit deinem Laptop auch in einer Ecke sitzen... wenn du magst) 
 
+![darmstadt.freifunk.net Grillparty am 25.07.15](/images/posts/2015-07-17-grillparty.png "It's party time!")
+
 Was Ihr Mitbringen müsst:
 • Essen für den Grill.. Salate etc..
 • Eure Freunde, Familie, Nachbarn, Arbeitskollegen...
@@ -38,7 +40,4 @@ Hula Hoop reifen
 usw 
 
 Wir freuen uns auf euer erscheinen!
-
-
-![darmstadt.freifunk.net Grillparty am 25.07.15](/images/posts/2015-07-17-grillparty.png "It's party time!")
 
