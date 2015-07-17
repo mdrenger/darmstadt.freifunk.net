@@ -25,7 +25,11 @@ Daher bitten wir Betreiber und Nutzer im Umkreis von Darmstadt, uns bei der Besc
   document.getElementsByTagName("head")[0].appendChild(fileref);
 </script>
 <div style="float:right">
+<<<<<<< HEAD
   <a class="boost-button-weroiby1" target="_blank" href="https://www.boost-project.com/de/shops?charity_id=3433&tag=bb">Unterstütze uns mit deinem Online-Einkauf<br>
+=======
+  <a class="boost-button-weroiby1" target="_blank" href="https://www.boost-project.com/de/shops?charity_id=3433&tag=bb">Unterstütze uns mit deinem Online-Einkauf<br>
+>>>>>>> 7a80877f8c1a07c890f545c7220cd1bfafd99d49
   <span style='font-weight:normal;'>ohne Extrakosten</span>
   </a>
 </div>
