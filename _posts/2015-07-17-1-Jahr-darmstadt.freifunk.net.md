@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "1 Jahr darmstadt.freifunk.net: Grillparty im Innenhof des Chaos Darmstadt e.V."
-date:   2015-07-17 13:40:00
+date:   2015-07-17 01:00:00
 categories: community
 ---
 
