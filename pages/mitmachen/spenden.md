@@ -25,13 +25,12 @@ Daher bitten wir Betreiber und Nutzer im Umkreis von Darmstadt, uns bei der Besc
   document.getElementsByTagName("head")[0].appendChild(fileref);
 </script>
 <div style="float:right">
-  <a class="boost-button-weroiby1" target="_blank" href="https://www.boost-project.com/de/shops?charity_id=3433&tag=bb">Unterstützen Sie uns mit<br>
-  Ihrem Online-Einkauf<br>
+  <a class="boost-button-weroiby1" target="_blank" href="https://www.boost-project.com/de/shops?charity_id=3433&tag=bb">Unterstütze uns mit deinem Online-Einkauf<br>
   <span style='font-weight:normal;'>ohne Extrakosten</span>
   </a>
 </div>
 
-Durch das [boost-Project](https://www.boost-project.com/de/charities/3433) könnt ihr uns mit Käufen in zahlreichen Online-Shops, wie u.a.
+Durch das [boost-Project](https://www.boost-project.com/de/charities/3433) kannst du uns mit Käufen in zahlreichen Online-Shops, wie u.a.
 [Alternate](https://www.boost-project.com/de/referals?referal%5Bcharity_id%5D=3433&referal%5Bshop_id%5D=472),
 [Amazon](https://www.boost-project.com/de/referals?referal%5Bcharity_id%5D=3433&referal%5Bshop_id%5D=10),
 [Conrad](https://www.boost-project.com/de/referals?referal%5Bcharity_id%5D=3433&referal%5Bshop_id%5D=297),
@@ -69,10 +68,6 @@ Das Spenden ist am einfachsten über unseren Partner [betterplace.org](https://w
 </script>
 <div id="betterplace_donation_iframe" style="text-align:center;background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/de/projects/27613-freifunk-darmstadt/donations/new">Jetzt Spenden für „Freifunk Darmstadt“ bei unserem Partner betterplace.org</a></strong></div>
 
-## Spenden für die Internetanbindung
-
-Unsere Internetanbindung erhalten wird dankenswerterweise vom Freifunk Rheinland e.V., der RIPE-Mitglied ist. [Spenden](https://freifunk-rheinland.net/mitmachen/spenden) sind dort ebenfalls sehr gerne gesehen.
-
 ## Manuell per Überweisung
 
 Alternativ kann auch direkt an das Bankkonto des Chaos Darmstadt e.V. überwiesen werden:
@@ -85,6 +80,10 @@ Alternativ kann auch direkt an das Bankkonto des Chaos Darmstadt e.V. überwiese
 </blockquote>
 
 Für Spenden muss hierbei im *Verwendungszweck "Freifunk Darmstadt"* vermerkt sein. Auf Anfrage stellt der Vorstand zum Ende eines Geschäftsjahres Zuwendungsbescheinigungen aus.
+
+## Spenden für die Internetanbindung
+
+Unsere Internetanbindung erhalten wird dankenswerterweise vom Freifunk Rheinland e.V., der RIPE-Mitglied ist. [Spenden](https://freifunk-rheinland.net/mitmachen/spenden) sind dort ebenfalls sehr gerne gesehen.
 
 
 *Vielen Dank für die Unterstützung!*
