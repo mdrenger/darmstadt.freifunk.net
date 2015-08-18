@@ -59,6 +59,7 @@ Das Spenden ist am einfachsten über unseren Partner [betterplace.org](https://w
   _bp_iframe.color = 'DC0067'; /* Button and banderole color, hex without "#" */
   // _bp_iframe.background_color = 'fff'; /* Background-color, hex without "#" */
   _bp_iframe.default_amount = 25; /* Donation-amount, integer 1-99 */
+  _bp_iframe.default_data_transfer_accepted = false; /* true (default), false */
    _bp_iframe.recurring_interval = 'single'; /* Interval for recurring donations, string out of ["single", "monthly", "quarter_yearly", "half_yearly", "yearly"] */
   (function() {
     var bp = document.createElement('script'); bp.type = 'text/javascript'; bp.async = true;
