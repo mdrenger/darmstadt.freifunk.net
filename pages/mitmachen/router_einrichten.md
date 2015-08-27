@@ -31,7 +31,7 @@ Dein Router sollte nun in den Konfigurationsmodus starten. Du erhälst erneut IP
 1. Wähle einen Namen nach dem Schema `PLZ-Wahlname`, also bspw. `64283-Kaesekuchen`.
 2. Aktiviere das `Mesh-VPN`, um eine Verbindung mit dem Freifunk-Netz über das Internet herzustellen
 3. Füge GPS-Koordinaten des Router-Standorts ein. Diese kannst du auf unterschiedliche Weisen erhalten:
-  - Am PC: über unsere Karte [Google Maps](https://map.darmstadt.freifunk.net) (Zuerst Pin klicken, dann auf die Karte klicken)
+  - Am PC: über [unsere Karte](https://map.darmstadt.freifunk.net) (Zuerst Pin klicken, dann Doppelklick auf die Position des Routers)
   - Android: [GPS Status & Toolbox](https://play.google.com/store/apps/details?id=com.eclipsim.gpsstatus2)
 4. Trage eine funktionierende Kontaktmöglichkeit an. Deine Adresse wird ausschließlich zur Kontaktaufnahme durch uns genutzt und niemals an Dritte weitergegeben.
 5. Nach einem Klick auf `Speichern und Neustarten` siehst du den Öffentlichen Schlüssel für den VPN-Zugang. Diesen sendest du bitte per E-Mail an [keys@darmstadt.freifunk.net](mailto:keys@darmstadt.freifunk.net).
