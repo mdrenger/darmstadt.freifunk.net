@@ -24,15 +24,15 @@ permalink: /
 			<p>Dafür benötigen wir deine Unterstützung!</p>
 			<ul class="actions">
 				<li><a href="{{ "kontakt/" | prepend: site.baseurl }}" class="button altspecial icon fa-calendar">Komm zum nächsten Treffen</a></li>
-				<li><a href="{{ "mitmachen/" | prepend: site.baseurl }}" class="button special icon fa-chevron-circle-right">Mach mit!</a></li>
+				<li><a href="{{ "mitmachen/" | prepend: site.baseurl }}" class="button special icon fa-users">Mach mit!</a></li>
 			</ul>
 		</section>
 		<section class="box" id="news">
 			{% assign post = site.posts.first %}
 			{% assign content = post.content %}
-			<h2>Aktuell</h2>
-			<p><strong class="in-line-highlight">{{post.title}}</strong> {{post.excerpt | remove: '<p>' | remove: '</p>'}} [...]</p>
-			<p><a href="news/">Weiterlesen</a></p>
+			<h2><strong class="in-line-highlight">{{post.title}}</strong></h2>
+			<p>{{post.excerpt | remove: '<p>' | remove: '</p>'}} [...]</p>
+			<p><a href="news/" class="button special">Weiterlesen</a></p>
 		</section>
 		<section class="box special features">
 			<header class="major">
