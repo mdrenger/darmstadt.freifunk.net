@@ -34,7 +34,7 @@ halten.
 Wir bemerkten gestern in der Spitzenzeit dort rund 50 Gäste im
 Freifunknetz, und jeden Tag werden es mehr.
 
-Ohne die Unterstützung durch das Riegierungspräsidium und die Stadt Darmstadt,
+Ohne die Unterstützung durch das Regierungspräsidium und die Stadt Darmstadt,
 das Deutsche Rote Kreuz und vieler anderer Helfer vor Ort wäre das undenkbar.
 Außerdem müssen wir uns natürlich besonders bei allen
 Anwohnern bedanken, die ihr eigenes Internet mit den Flüchtlingen teilen.
