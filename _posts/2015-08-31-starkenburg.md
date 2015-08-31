@@ -21,7 +21,7 @@ aufstellen.
 Ein Anfang ist gemacht. Wir sind im Feintuning, um die Router
 optimal zu konfigurieren und so eine bessere Internetanbindung bereitzustellen.
 
-Aktuell teilen 3 der Anwohner ihren Internetanschluss durch den Betrieb eines Freifunk-Routers. Diese funken zu Ihren Gegenstellen auf dem Gelände und stellen so dort Internet bereit. Wir reden hier von einem Materialeinsatz von lediglich ~250€.
+Gegenwärtig teilen drei der Anwohner ihren Internetanschluss durch den Betrieb eines Freifunk-Routers. Diese funken zu Ihren Gegenstellen auf dem Gelände und stellen so dort Internet bereit. Wir reden hier von einem Materialeinsatz von lediglich ~250€.
 
 Wirklich überraschend für uns ist, wie stark die Flüchtlinge unmittelbar
 nach der Bereitstellung das Angebot angenommen haben.
