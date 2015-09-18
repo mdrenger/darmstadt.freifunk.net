@@ -940,6 +940,19 @@
 			}
 		}
 		
+		&.alt2special {
+			background-color: $color-accent3-bg;
+			color: $color-accent3-fg-bold !important;
+			
+			&:hover {
+				background-color: lighten($color-accent3-bg, 5);
+			}
+			
+			&:active {
+				background-color: darken($color-accent3-bg, 5);
+			}
+		}
+		
 		&.accent1 {
 			background: $color-accent1-bg;
 			color: $color-accent1-fg-bold;
