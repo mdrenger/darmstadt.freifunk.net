@@ -35,3 +35,9 @@ Dies ist aus verschiedenen Gründen mit der Standard-Freifunk-Firmware nicht mö
  - Ein USB-WLAN-Stick, welcher das 2. Radio bereitstellen könnte, kostet auch ~15€, ungefähr so viel wie schon ein kleiner vollständiger Freifunk-Router (TP-Link WR841N).
 
 Unsere Empfehlung wäre daher, einen Freifunk-Router an der Quelle hinzustellen (dort, wo es ein Netzwerkkabel gibt), und am zweiten Standort einen zweiten Freifunk-Router, welcher mit dem ersten meshen würde und so den Zugang zum Rest des Netzes bereitstellt. Diese Lösung ist auch updatesicher und erfordert keine manuelle Konfiguration.
+
+### Wie kann ich nachträglich Änderungen am Router vornehmen?
+
+Im Normalbetrieb ist auf dem Router nur eine [Statusseite](http://nextnode.ffda) erreichbar. Willst du Änderungen vornehmen, musst du den Router in den Config-Mode versetzen. Hierzu drückst du am hochgefahrenen Router die `WPS/Reset`-Taste so lange, bis alle Lampen kurz aufleuchten und lässt sie dann los. Nach kurzer Zeit sollte die Status-LED charakteristisch blinken (siehe Grafik), du erhälst an einem der LAN-Ports wieder eine IP-Adresse per DHCP und kannst die Konfigurationsseite unter [http://192.168.1.1](http://192.168.1.1) erreichen.
+
+![Config Mode](https://gluon.readthedocs.org/en/latest/_images/node_configmode.gif)
