@@ -1,19 +1,16 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
 
   <body>
 
     {% include header.html %}
 
-	<section id="main" class="container">
-        {{ content }}
-      </div>
-    </section>
+    {{ content }}
 
+    {% if page.hide_footer == true %}
+    {% else %}
     {% include footer.html %}
-
+    {% endif %}
   </body>
-
 </html>

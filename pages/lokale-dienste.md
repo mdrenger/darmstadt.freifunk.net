@@ -7,8 +7,6 @@ weight: 4
 layout: page
 ---
 
-
-
 Unser Ziel ist es, eine Infrastruktur für nützliche Dienste in unserer Community bereitzustellen. Da das Netzwerk uns allen gehört, kann jeder nach Belieben eigene Inhalte und Dienste für sich und andere anbieten, welche **innerhalb des Freifunk-Netzes** erreichbar sind, d.h. wenn dein Gerät eine Verbindung zu einem Freifunk-Zugangspunkt aufgebaut hat.
 
 Im Folgenden kannst du mehr über das Angebot und die Möglichkeiten für Dienste im Freifunknetz herausfinden. Außerdem besteht natürlich immer die Möglichkeit, Engagierte aus der Freifunk Community zu [kontaktieren](/kontakt), falls du Fragen hast.
@@ -39,4 +37,3 @@ Hier sind ein paar Beispiele:
 
 
 Alles was du tun musst ist, das Gerät, welches deinen Service bereitstellt, an das Freifunk Netzwerk anzuschließen. Falls du eine statische IP oder eine .ffda Domain haben möchtest, [melde dich](/kontakt/) einfach bei uns.
-

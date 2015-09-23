@@ -1,143 +1,130 @@
 ---
 title: Unterstützte Geräte
-layout:
+layout: main
 sub_menu: true
 top_url: /mitmachen/
 sub_weight: 3
 permalink: /mitmachen/unterstuetzte-geraete/
 ---
 
-<html>
-  {% include head.html %}
+<header>
+		<h2 class="post-title">{{ page.title }}</h2>
+</header>
 
-  <body>
-    {% include header.html %}
-    <section id="main" class="container">
-			<header>
-					<h2 class="post-title">{{ page.title }}</h2>
-			</header>
+<div class="box">
+	<p>Um einen eigenen Freifunk-Router zu betreiben benötigt du zunächst einen kompatiblen WLAN-Accesspoint oder -Router. Als Grundlage muss das Gerät mindestens mit der aktuellen Version von <a href="https://openwrt.org/">OpenWRT</a>, einer GNU/Linux Distribution für <a href="https://de.wikipedia.org/wiki/Eingebettetes_System">eingebettete Geräte</a> kompatibel sein. Es gibt einige Wege um an ein kompatibles Gerät zu kommen:</p>
 
-		<div class="box">
-			<p>Um einen eigenen Freifunk-Router zu betreiben benötigt du zunächst einen kompatiblen WLAN-Accesspoint oder -Router. Als Grundlage muss das Gerät mindestens mit der aktuellen Version von <a href="https://openwrt.org/">OpenWRT</a>, einer GNU/Linux Distribution für <a href="https://de.wikipedia.org/wiki/Eingebettetes_System">eingebettete Geräte</a> kompatibel sein. Es gibt einige Wege um an ein kompatibles Gerät zu kommen:</p>
+	<ul>
+		<li>ein bereits vorhandenes Gerät repurposen</li>
+		<li>ein unterstütztes Gerät neu erwerben</li>
+		<li>bei uns einen vorkonfigurierten WLAN-Router zum Selbstkostenpreis abholen</li>
+	</ul>
 
-			<ul>
-				<li>ein bereits vorhandenes Gerät repurposen</li>
-				<li>ein unterstütztes Gerät neu erwerben</li>
-				<li>bei uns einen vorkonfigurierten WLAN-Router zum Selbstkostenpreis abholen</li>
-			</ul>
+	<p>Hast du bereits ein Gerät, oder willst selbst eines kaufen, überprüfe zuvor ob bereits eine Firmware dafür existiert. Das kann man auf der <a href="http://firmware.darmstadt.freifunk.net">Firmware-Downloadseite</a> einsehen, aber auch <a href="/kontakt/">von uns</a> erfahren. Die übliche Router-Hardware vom DSL- oder Kabelprovider ist hierfür in der Regel nicht geeignet.</p>
+</div>
 
-			<p>Hast du bereits ein Gerät, oder willst selbst eines kaufen, überprüfe zuvor ob bereits eine Firmware dafür existiert. Das kann man auf der <a href="http://firmware.darmstadt.freifunk.net">Firmware-Downloadseite</a> einsehen, aber auch <a href="/kontakt/">von uns</a> erfahren. Die übliche Router-Hardware vom DSL- oder Kabelprovider ist hierfür in der Regel nicht geeignet.</p>
-		</div>
+<div class="box">
+	<h3>Erwerb</h3>
+	<p>Es gibt eine Vielzahl Wege um an einen Freifunk-Router zu kommen. Wir empfehlen zunächst die Preise zu vergleichen und dann:</p>
+	<ul>
+		<li>den lokalen H&auml;ndler deines Vertrauens</li>
+		<li>
+			einen unserer <a href="https://www.boost-project.com/de/shops?utf8=%E2%9C%93&charity_id=3433&search=&shop_tag_id=68&sort=desc&order_by=popularity">Boost-Partner</a>, z.B.&nbsp;
+			<a href="https://www.boost-project.com/de/referals?referal%5Bcharity_id%5D=3433&referal%5Bshop_id%5D=472">Alternate</a>,&nbsp;
+			<a href="https://www.boost-project.com/de/referals?referal%5Bcharity_id%5D=3433&referal%5Bshop_id%5D=10">Amazon</a>,&nbsp;
+			<a href="https://www.boost-project.com/de/referals?referal%5Bcharity_id%5D=3433&referal%5Bshop_id%5D=334">Computeruniverse</a>,&nbsp;
+			<a href="https://www.boost-project.com/de/referals?referal%5Bcharity_id%5D=3433&referal%5Bshop_id%5D=21">Cyberport</a>.
+		</li>
+		<li>aus unseren Lagerbeständen zum Selbstkostenpreis</li>
+	</ul>
 
-		<div class="box">
-			<h3>Erwerb</h3>
-			<p>Es gibt eine Vielzahl Wege um an einen Freifunk-Router zu kommen. Wir empfehlen zunächst die Preise zu vergleichen und dann:</p>
-			<ul>
-				<li>den lokalen H&auml;ndler deines Vertrauens</li>
+	<h3>Empfehlungen</h3>
+	<p>In Abhängigkeit von Lage, erwarteter Nutzerzahlen und benötigter Bandbreite empfehlen wir eine Reihe unterschiedlicher Modelle.</p>
+</div>
+
+<div class="row">
+	<div class="4u 12u(2)">
+		<section class="box">
+			<h3>Privat</h3>
+			<p><img alt="Privat" src="/images/participate_small.png" style="max-width: 100%;"></p>
+
+			<strong>Einsteiger (802.11n)</strong>
+			<ul style="margin: 0px 0px 15px 0px;">
 				<li>
-					einen unserer <a href="https://www.boost-project.com/de/shops?utf8=%E2%9C%93&charity_id=3433&search=&shop_tag_id=68&sort=desc&order_by=popularity">Boost-Partner</a>, z.B.&nbsp;
-					<a href="https://www.boost-project.com/de/referals?referal%5Bcharity_id%5D=3433&referal%5Bshop_id%5D=472">Alternate</a>,&nbsp;
-					<a href="https://www.boost-project.com/de/referals?referal%5Bcharity_id%5D=3433&referal%5Bshop_id%5D=10">Amazon</a>,&nbsp;
-					<a href="https://www.boost-project.com/de/referals?referal%5Bcharity_id%5D=3433&referal%5Bshop_id%5D=334">Computeruniverse</a>,&nbsp;
-					<a href="https://www.boost-project.com/de/referals?referal%5Bcharity_id%5D=3433&referal%5Bshop_id%5D=21">Cyberport</a>.
+					WR1043ND, ~42 €<br />
+					<span style="font-size: 9pt;">2,4 GHz, 720 MHz, 64 MB RAM</span>
 				</li>
-				<li>aus unseren Lagerbeständen zum Selbstkostenpreis</li>
+				<li>
+					WDR4300, ~50-55 €<br />
+					<span style="font-size: 9pt;">2,4 &amp; 5 GHz, 560 MHz, 128 MB RAM</span>
+				</li>
 			</ul>
 
-			<h3>Empfehlungen</h3>
-			<p>In Abhängigkeit von Lage, erwarteter Nutzerzahlen und benötigter Bandbreite empfehlen wir eine Reihe unterschiedlicher Modelle.</p>
-		</div>
+			<strong>Enthusiasten (802.11ac)</strong>
+			<ul style="margin: 0px 0px 15px 0px;">
+				<li>
+					Archer C5 (v1), ~73 €<br />
+					<span style="font-size: 9pt;">2,4 &amp; 5 GHz, 720 MHz, 128 MB RAM</span>
+				</li>
+				<li>
+					Archer C7, ~90 €<br />
+					<span style="font-size: 9pt;">2,4 &amp; 5 GHz, 720 MHz, 128 MB RAM</span>
+				</li>
+			</ul>
+		</section>
+	</div>
+	<div class="4u 12u(2)">
+		<section class="box">
+			<h3>Geschäftlich</h3>
+			<p><img alt="Gesch&auml;ftlich" src="/images/participate_medium.png" style="max-width: 100%;"></p>
 
-		<div class="row">
-			<div class="4u 12u(2)">
-				<section class="box">
-					<h3>Privat</h3>
-					<p><img alt="Privat" src="/images/participate_small.png" style="max-width: 100%;"></p>
+			<strong>802.11n, Dualband</strong>
+			<ul style="margin: 0px 0px 15px 0px;">
+				<li>WDR4300, ~50-55 €</li>
+			</ul>
 
-					<strong>Einsteiger (802.11n)</strong>
-					<ul style="margin: 0px 0px 15px 0px;">
-						<li>
-							WR1043ND, ~42 €<br />
-							<span style="font-size: 9pt;">2,4 GHz, 720 MHz, 64 MB RAM</span>
-						</li>
-						<li>
-							WDR4300, ~50-55 €<br />
-							<span style="font-size: 9pt;">2,4 &amp; 5 GHz, 560 MHz, 128 MB RAM</span>
-						</li>
-					</ul>
+			<strong>802.11ac Dualband</strong><br />
+			<span style="font-size: 10pt; font-style: italic;">experimentell</span>
+			<ul style="margin: 0px 0px 15px 0px;">
+				<li>Archer C5, ~73 €</li>
+				<li>Archer C7, ~90 €</li>
+			</ul>
+		</section>
+	</div>
+	<div class="4u 12u(2)">
+		<section class="box">
+			<h3>Outdoor</h3>
+			<p><img alt="Outdoor (Wireless Backbone)" src="/images/participate_big.png" style="max-width: 100%;"></p>
 
-					<strong>Enthusiasten (802.11ac)</strong>
-					<ul style="margin: 0px 0px 15px 0px;">
-						<li>
-							Archer C5 (v1), ~73 €<br />
-							<span style="font-size: 9pt;">2,4 &amp; 5 GHz, 720 MHz, 128 MB RAM</span>
-						</li>
-						<li>
-							Archer C7, ~90 €<br />
-							<span style="font-size: 9pt;">2,4 &amp; 5 GHz, 720 MHz, 128 MB RAM</span>
-						</li>
-					</ul>
-				</section>
-			</div>
-			<div class="4u 12u(2)">
-				<section class="box">
-					<h3>Geschäftlich</h3>
-					<p><img alt="Gesch&auml;ftlich" src="/images/participate_medium.png" style="max-width: 100%;"></p>
+			<strong>Endnutzerversorgung</strong><br />
+			<span style="font-size: 10pt; font-style: italic;">mit unserer Firmware</span>
+			<ul style="margin: 0px 0px 15px 0px;">
+				<li>
+					Unifi-AP Outdoor, ~120 €<br />
+					<span style="font-size: 9pt;">Rundstrahler, nur noch Restbestände</span>
+				</li>
+				<li>
+					CPE210/510, ~45 €<br />
+					<span style="font-size: 9pt;">Sektorantenne, H 65° / E 35°</span>
+				</li>
+			</ul>
 
-					<strong>802.11n, Dualband</strong>
-					<ul style="margin: 0px 0px 15px 0px;">
-						<li>WDR4300, ~50-55 €</li>
-					</ul>
-
-					<strong>802.11ac Dualband</strong><br />
-					<span style="font-size: 10pt; font-style: italic;">experimentell</span>
-					<ul style="margin: 0px 0px 15px 0px;">
-						<li>Archer C5, ~73 €</li>
-						<li>Archer C7, ~90 €</li>
-					</ul>
-				</section>
-			</div>
-			<div class="4u 12u(2)">
-				<section class="box">
-					<h3>Outdoor</h3>
-					<p><img alt="Outdoor (Wireless Backbone)" src="/images/participate_big.png" style="max-width: 100%;"></p>
-
-					<strong>Endnutzerversorgung</strong><br />
-					<span style="font-size: 10pt; font-style: italic;">mit unserer Firmware</span>
-					<ul style="margin: 0px 0px 15px 0px;">
-						<li>
-							Unifi-AP Outdoor, ~120 €<br />
-							<span style="font-size: 9pt;">Rundstrahler, nur noch Restbestände</span>
-						</li>
-						<li>
-							CPE210/510, ~45 €<br />
-							<span style="font-size: 9pt;">Sektorantenne, H 65° / E 35°</span>
-						</li>
-					</ul>
-
-					<strong>WLAN-Backbone/Richtfunk</strong><br />
-					<span style="font-size: 10pt; font-style: italic;">mit Originalfirmware für DFS+TPC</span>
-					<ul style="margin: 0px 0px 15px 0px;">
-						<li>
-							Bullet M, ab ~60 €<br />
-							<span style="font-size: 9pt;">Kein MIMO, externe Antenne</span>
-						</li>
-						<li>
-							NanoStation M, ~70-75 €<br />
-							<span style="font-size: 9pt;">2x2 MIMO, Sektorantenne, H 55° / E 53°</span>
-						</li>
-						<li>
-							Rocket M, ~80-200 €<br />
-							<span style="font-size: 9pt;">2x2 MIMO, externe Antenne</span>
-						</li>
-					</ul>
-				</section>
-			</div>
-		</div>
-	</section>
-
-	{% include footer.html %}
-
-  </body>
-
-</html>
+			<strong>WLAN-Backbone/Richtfunk</strong><br />
+			<span style="font-size: 10pt; font-style: italic;">mit Originalfirmware für DFS+TPC</span>
+			<ul style="margin: 0px 0px 15px 0px;">
+				<li>
+					Bullet M, ab ~60 €<br />
+					<span style="font-size: 9pt;">Kein MIMO, externe Antenne</span>
+				</li>
+				<li>
+					NanoStation M, ~70-75 €<br />
+					<span style="font-size: 9pt;">2x2 MIMO, Sektorantenne, H 55° / E 53°</span>
+				</li>
+				<li>
+					Rocket M, ~80-200 €<br />
+					<span style="font-size: 9pt;">2x2 MIMO, externe Antenne</span>
+				</li>
+			</ul>
+		</section>
+	</div>
+</div>

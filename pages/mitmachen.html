@@ -1,7 +1,7 @@
 ---
 title: Mitmachen
 permalink: /mitmachen/
-layout:
+layout: main
 main_menu: true
 weight: 2
 top_url: /mitmachen/
@@ -9,62 +9,50 @@ sub_menu: true
 sub_weight: 1
 ---
 
-<!DOCTYPE html>
-<html>
-  {% include head.html %}
+<header>
+	<h2 class="post-title">{{ page.title }}</h2>
+</header>
 
-  <body>
-    {% include header.html %}
-    <section id="main" class="container">
-		<header>
-			<h2 class="post-title">{{ page.title }}</h2>
-		</header>
-		<p>Du kannst bei Freifunk Darmstadt mitmachen, indem du einen oder mehrere Freifunk WLAN-Router aufstellst:</p>
-		<div class="row">
-			<div class="4u 12u(2)">
+<p>Du kannst bei Freifunk Darmstadt mitmachen, indem du einen oder mehrere Freifunk WLAN-Router aufstellst:</p>
+<div class="row">
+	<div class="4u 12u(2)">
 
-				<section class="box">
-					<span class="image featured"><img src="../images/get.jpg" alt="1. Besorge einen kompatiblen Router" /></span>
-					<p>Besorge einen kompatiblen Router</p>
-					<ul class="actions align-center">
-						<li><a href="/mitmachen/unterstuetzte-geraete/" class="button accent2 icon fa-chevron-circle-right">Unterstützte Geräte</a></li>
-					</ul>
-				</section>
-			</div>
-			<div class="4u 12u(2)">
-				<section class="box">
-					<span class="image featured"><img src="../images/install.jpg" alt="2. Installiere unsere Freifunk-Firmware" /></span>
-					<p>Installiere unsere Freifunk-Firmware</p>
-					<ul class="actions align-center">
-						<li><a href="/mitmachen/router-einrichten/" class="button accent3 icon fa-chevron-circle-right">Router einrichten</a></li>
-					</ul>
-				</section>
+		<section class="box">
+			<span class="image featured"><img src="../images/get.jpg" alt="1. Besorge einen kompatiblen Router" /></span>
+			<p>Besorge einen kompatiblen Router</p>
+			<ul class="actions align-center">
+				<li><a href="/mitmachen/unterstuetzte-geraete/" class="button accent2 icon fa-chevron-circle-right">Unterstützte Geräte</a></li>
+			</ul>
+		</section>
+	</div>
+	<div class="4u 12u(2)">
+		<section class="box">
+			<span class="image featured"><img src="../images/install.jpg" alt="2. Installiere unsere Freifunk-Firmware" /></span>
+			<p>Installiere unsere Freifunk-Firmware</p>
+			<ul class="actions align-center">
+				<li><a href="/mitmachen/router-einrichten/" class="button accent3 icon fa-chevron-circle-right">Router einrichten</a></li>
+			</ul>
+		</section>
 
-			</div>
-			<div class="4u 12u(2)">
-				<section class="box">
-					<span class="image featured"><img src="../images/setup.jpg" alt="3. Schließ den Router an, und viel Spaß!" /></span>
-				<p>Schließ den Router an, und viel Spaß!</p>
-				<ul class="actions align-center">
-						<li><a href="/mitmachen/faq/" class="button accent4 icon fa-chevron-circle-right">Weitere Fragen?</a></li>
-				</ul>
-				</section>
-			</div>
-		</div>
-    </section>
+	</div>
+	<div class="4u 12u(2)">
+		<section class="box">
+			<span class="image featured"><img src="../images/setup.jpg" alt="3. Schließ den Router an, und viel Spaß!" /></span>
+		<p>Schließ den Router an, und viel Spaß!</p>
+		<ul class="actions align-center">
+				<li><a href="/mitmachen/faq/" class="button accent4 icon fa-chevron-circle-right">Weitere Fragen?</a></li>
+		</ul>
+		</section>
+	</div>
+</div>
+</section>
 
-	<section class="container">
-		<div class="box">
-			<h3>Wie kann ich sonst noch helfen?</h3>
-			<p>Du kannst uns auf vielfältige Weise unterstützen. Zum Beispiel könntest du deinen Freunden, Bekannten, Nachbarn und Verwandten von Freifunk erzählen oder in deinem Liebligscafé fragen, ob sie schon von Freifunk gehört haben.</p>
-			<p>Weiterhin freuen wir uns über Helfer beim Gestalten von Werbematerial und Verteilen von Flyern und über Unterstützung bei der Pressearbeiten. Bei unseren regelmäßigen Treffen kannst du andere Freifunker kennenlernen und die Zukunft von Freifunk Darmstadt mitgestalten.</p>
-			<p><a href="/mitmachen/spenden/">Spenden</a> helfen uns, Infrastruktur und Werbematerialien zu finanzieren.</p>
-			<p>Wenn du eine gute Idee zu einem neuen Dienst im Netzwerk hast, würden wir uns auch freuen wenn du <a href="/lokale-dienste/">Dienste im Netzwerk zur Verfügung stellst</a>.</p>
-		</div>
-	</section>
-
-    {% include footer.html %}
-
-  </body>
-
-</html>
+<section class="container">
+<div class="box">
+	<h3>Wie kann ich sonst noch helfen?</h3>
+	<p>Du kannst uns auf vielfältige Weise unterstützen. Zum Beispiel könntest du deinen Freunden, Bekannten, Nachbarn und Verwandten von Freifunk erzählen oder in deinem Liebligscafé fragen, ob sie schon von Freifunk gehört haben.</p>
+	<p>Weiterhin freuen wir uns über Helfer beim Gestalten von Werbematerial und Verteilen von Flyern und über Unterstützung bei der Pressearbeiten. Bei unseren regelmäßigen Treffen kannst du andere Freifunker kennenlernen und die Zukunft von Freifunk Darmstadt mitgestalten.</p>
+	<p><a href="/mitmachen/spenden/">Spenden</a> helfen uns, Infrastruktur und Werbematerialien zu finanzieren.</p>
+	<p>Wenn du eine gute Idee zu einem neuen Dienst im Netzwerk hast, würden wir uns auch freuen wenn du <a href="/lokale-dienste/">Dienste im Netzwerk zur Verfügung stellst</a>.</p>
+</div>
+</section>

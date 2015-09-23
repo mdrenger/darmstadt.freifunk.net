@@ -7,7 +7,6 @@ sub_weight: 4
 permalink: /mitmachen/router-einrichten/
 ---
 
-
 ### Den Router anschließen
 
 
