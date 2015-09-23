@@ -2,7 +2,7 @@
 title: Impressum
 layout: page
 main_menu: true
-weight: 7
+weight: 8
 permalink: /impressum/
 top_url: /impressum/
 ---
