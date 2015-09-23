@@ -10,6 +10,7 @@ top_url: /wie-freifunk-funktioniert/
 <header>
 	<h2 class="post-title">{{ page.title }}</h2>
 </header>
+
 <section class="box">
 	<h3>Der Stand der Dinge</h3>
 	<img src="/images/network_1.jpg" class="half-width" alt="Der Stand der Dinge" />
@@ -25,6 +26,7 @@ top_url: /wie-freifunk-funktioniert/
 <section class="box">
 	<h3>Freifunk als gemeinschaftliches Netzwerk</h3>
 	<img src="/images/network_2.jpg" class="half-width" alt="Freifunk als gemeinschaftliches Netzwerk" />
+
 	<p>Benachbarte Router, die mit der Freifunk-Firmware betrieben werden, bauen untereinander das Freifunk-Netzwerk auf, durch das sie auf direktem Wege Daten austauschen können, ohne den Umweg über das Internet nehmen zu müssen.</p>
 	<p>Diese Funkverbindungen können je nach Modell Entfernungen von einigen dutzend Metern bis hin zu mehreren Kilometern überbrücken und so auch Gebiete erreichen, die nur rudimentär oder gar nicht an das Internet angeschlossen sind.</p>
 	<p>Der Zugang zum Freifunk-Netzwerk ist mit jedem WLAN-fähigen Endgerät oder direkt per Kabel am Freifunk-Router ohne Registrierung oder Passwort möglich.</p>
@@ -33,29 +35,62 @@ top_url: /wie-freifunk-funktioniert/
 <section class="box">
 	<h3>Einzelne Freifunk-Wolken verbinden sich</h3>
 	<img src="/images/network_3.jpg" class="half-width" alt="Einzelne Freifunk-Wolken verbinden sich" />
+
 	<p>Da sich jedoch nicht alle Freifunk-Router untereinander per Funk erreichen, können sie sich außerdem verschlüsselt über das Internet miteinander verbinden.</p>
 	<p>Diese Anbindung an den Rest der Freifunk-Wolke wird von den Routern auch per Funk an benachbarte Freifunk-Router weitergegeben, so dass nicht jeder Router einen Internetzugang benötigt.</p>
 </section>
 <section class="box">
 	<h3>Das Heimnetz bleibt privat</h3>
 	<img src="/images/network_4.jpg" class="half-width" alt="Das Heimnetz bleibt privat" />
+
 	<p>Zu jedem Zeitpunkt bleiben Freifunk-Netz und Heimnetz strikt getrennt. Das gilt auch, wenn der eigene Router sich über die Internetverbindung im Heimnetzwerk mit dem Rest der Freifunk-Wolke verbindet. Aus dem Freifunk-Netzwerk heraus ist kein Zugriff auf das private Netzwerk möglich.</p>
 </section>
 
 <section class="box">
 	<h3>Zugang zum Internet</h3>
 	<img src="/images/network_5.jpg" class="half-width" alt="Zugang zum Internet" />
+
 	<p>Über das Freifunk-Netzwerk steht auch ein Internetzugang zur Verfügung. Dieser erfolgt über eine Reihe von Gateways, welche den Verkehr erst von dort aus ins Internet weiterleiten.</p>
 	<p>Von welchem Freifunker-Router eine Verbindung ins Internet kommt, ist aus dem Internet nicht mehr erkenntlich. Somit lässt sich das Problem der Störerhaftung für Knotenbetreiber vermeiden.</p>
 </section>
 
 <section class="box">
-	<h3>Lokale Dienste im Freifunk-Netz</h3>
-	<p>Wer einen Dienst mit lokalem Bezug zur Verfügung stellen will, ist im Freifunk-Netz genau richtig. Es reicht, den Computer, auf dem der Dienst läuft, mit einem Freifunk-Router zu verbinden, um den Dienst im Freifunk-Netz bereitzustellen.</p>
-	<p>Es existiert eine <a href="/lokale-dienste/">Liste</a> bereits vorhandener Dienste sowie von Ideen für weitere, neue Dienste.</p>
+	<h3><a name="lokale-dienste-im-freifunk-netz"></a>Lokale Dienste im Freifunk-Netz</h3>
+
+	<p>Unser Ziel ist es, eine Infrastruktur für nützliche Dienste in unserer Community bereitzustellen.
+		Da das Netzwerk uns allen gehört, kann jeder eigene Inhalte und Dienste für sich und andere anbieten,
+		welche innerhalb des lokalen Freifunk-Netzes und darüber hinaus auch aus dem Internet heraus erreichbar sind.</p>
+
+	<p>Wer einen Dienst mit lokalem Bezug zur Verfügung stellen will, ist im Freifunk-Netz genau richtig.
+		Es reicht, den Computer, auf dem der Dienst läuft, mit einem Freifunk-Router zu verbinden, um den Dienst
+		im Freifunk-Netz bereitzustellen.<br />
+		Falls du eine statische IP oder eine .ffda.io-Subdomain haben möchtest, <a href="/kontakt">melde dich</a> einfach bei uns.</p>
+
+	<p>Du kannst jedwede Art von Netzwerkdienst anbieten, solange dieser mit geltendem Deutschen Recht vereinbar ist.<br />
+	Hier sind ein paar Beispiele:</p>
+
+  <ul>
+		<li>IRC Server</li>
+		<li>Jabber Server</li>
+		<li>(Micro)blogging Platform</li>
+		<li>Suchmaschine</li>
+		<li>Torrent Tracker</li>
+		<li><a href="http://incubator.apache.org/wave/">Apache Wave</a>, ehemals Google Wave</li>
+		<li>Online-Radio (siehe <a href="https://github.com/arabek/demovibes">Demovibes</a></li>
+	</ul>
+
+	<p>Eine Liste bereits vorhandener Dienste:</p>
+
+	<ul>
+		<li><a href="https://map.ffda.io">map.ffda.io</a> - Die Karte unserer Freifunk-Router</li>
+		<li><a href="https://cats.ffda.io">cats.ffda.io</a> - Ein neues Katzenbild alle 3 Sekunden</li>
+		<li><a href="https://chat.ffda.io">chat.ffda.io</a> - Weboberfläche für unseren IRC Chatraum</li>
+		<li><a href="ssh://nethack@nethack.ffda.io">Nethack</a>, ein beliebtes Kommandozeilenspiel mit Patch für deutsches Tastaturlayout</li>
+	</ul>
 </section>
 
 <section class="box ">
 	<h3>Dienste anderer Freifunk-Communities</h3>
+
 	<p>Über die Freifunk-Wolke besteht auch Zugang zu den Netzwerken anderer deutschlandweiter Freifunk-Communities, mitsamt der dort vorhandenen Dienste.</p>
 </section>
