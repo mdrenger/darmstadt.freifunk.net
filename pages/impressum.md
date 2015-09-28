@@ -20,3 +20,6 @@ Freifunk Darmstadt ist ein Projekt des [Chaos Darmstadt e.V.](https://chaos-darm
 > Bank: Sparkasse Darmstadt\\
 > IBAN: DE96 5085 0150 0000 7118 53\\
 > BIC: HELADEF1DAS
+
+#### Pressesprecher
+Peter Löwenstein
