@@ -22,4 +22,6 @@ Freifunk Darmstadt ist ein Projekt des [Chaos Darmstadt e.V.](https://chaos-darm
 > BIC: HELADEF1DAS
 
 #### Pressesprecher
-Peter Löwenstein
+> Peter Löwenstein\\
+> [+49 151 58800067](tel:+4915158800067) \\
+> <em>(nur für Presseanfragen)</em>
